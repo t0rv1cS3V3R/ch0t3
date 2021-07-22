@@ -339,6 +339,12 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/40736
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1839
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1840
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HQ" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HQ
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2351
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HD
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2352
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS FHD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS FHD
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2353
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
@@ -1965,232 +1971,188 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/57
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/24261
 #EXTINF:-1 tvg-id="PPV UFC" tvg-name="PPV UFC"  group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/47231
-#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MXF) Pumas UNAM vs. Necaxa 12:55 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MXF) Pumas UNAM vs. Necaxa 12:55 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MXF) Pumas UNAM vs. Necaxa 12:55 PM EST ( TUDN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49913
-#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) ATP Hall of Fame Open Semifinals 1:00 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) ATP Hall of Fame Open Semifinals 1:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) ATP Hall of Fame Open Semifinals 1:00 PM EST ( TNNS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49914
-#EXTINF:-1 tvg-id="PPV|| Golf (Pro) U.S. Girls' Junior Championship Match 1:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) U.S. Girls' Junior Championship Match 1:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) U.S. Girls' Junior Championship Match 1:00 PM EST ( Golf)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49915
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07 PM EST ( MLBN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49916
-#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Barbasol Championship Third Round 4:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Barbasol Championship Third Round 4:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Barbasol Championship Third Round 4:00 PM EST ( Golf)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49917
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07 PM EST ( FS1)" tvg-name="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07 PM EST ( FS1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49918
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49919
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New England Revolution at Atlanta United FC 5:00 PM EST ( ESPN)" tvg-name="PPV|| Soccer (MLS) New England Revolution at Atlanta United FC 5:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New England Revolution at Atlanta United FC 5:00 PM EST ( ESPN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49920
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49921
-#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises - Prelims 7:00 PM EST ( ESPN)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises - Prelims 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises - Prelims 7:00 PM EST ( ESPN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49922
-#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises, preliminares 7:00 PM EST ( ESPDR)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises, preliminares 7:00 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises, preliminares 7:00 PM EST ( ESPDR)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49923
-#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Barbasol Championship First Round 5:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Barbasol Championship First Round 5:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Barbasol Championship First Round 5:00 PM EST ( Golf)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49924
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Inter Miami CF at New York Red Bulls 7:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Inter Miami CF at New York Red Bulls 7:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Inter Miami CF at New York Red Bulls 7:00 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49925
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05 PM EST ( PPV)" tvg-name="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05 PM EST ( PPV)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49926
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49927
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49928
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49929
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15 PM EST ( FOXD)" tvg-name="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15 PM EST ( FOXD)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49930
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49931
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49932
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49933
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) D.C. United at Philadelphia Union 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) D.C. United at Philadelphia Union 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) D.C. United at Philadelphia Union 7:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49934
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Orlando City SC at Toronto FC 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Orlando City SC at Toronto FC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Orlando City SC at Toronto FC 7:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49935
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New York City FC at Columbus Crew SC 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) New York City FC at Columbus Crew SC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New York City FC at Columbus Crew SC 7:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49936
-#EXTINF:-1 tvg-id="PPV|| Wrestling IMPACT Slammiversary 2021 8:00 PM EST ( PPV)" tvg-name="PPV|| Wrestling IMPACT Slammiversary 2021 8:00 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Wrestling IMPACT Slammiversary 2021 8:00 PM EST ( PPV)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49937
-#EXTINF:-1 tvg-id="PPV|| Horse Racing Meadowlands Pace 8:00 PM EST ( FS2)" tvg-name="PPV|| Horse Racing Meadowlands Pace 8:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Horse Racing Meadowlands Pace 8:00 PM EST ( FS2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49938
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) LA Dodgers at Colorado Rockies 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) LA Dodgers at Colorado Rockies 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) LA Dodgers at Colorado Rockies 8:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49939
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Chicago Fire at Nashville SC 8:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Chicago Fire at Nashville SC 8:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Chicago Fire at Nashville SC 8:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49940
-#EXTINF:-1 tvg-id="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( TYC)" tvg-name="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( TYC)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49941
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) San Jose Earthquakes at Colorado Rapids 9:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) San Jose Earthquakes at Colorado Rapids 9:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) San Jose Earthquakes at Colorado Rapids 9:00 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49942
-#EXTINF:-1 tvg-id="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOe)" tvg-name="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOe)"  group-title="EVENTOS PPV",PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOe)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49943
-#EXTINF:-1 tvg-id="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOw)" tvg-name="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOw)"  group-title="EVENTOS PPV",PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOw)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49944
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Seattle Mariners at LA Angels 9:07 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Seattle Mariners at LA Angels 9:07 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Seattle Mariners at LA Angels 9:07 PM EST ( MLBN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49945
-#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 10:00 PM EST ( ESPN)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 10:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 10:00 PM EST ( ESPN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49946
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Los Angeles Galaxy at Vancouver Whitecaps FC 10:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Los Angeles Galaxy at Vancouver Whitecaps FC 10:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Los Angeles Galaxy at Vancouver Whitecaps FC 10:00 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49947
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Real Salt Lake at Los Angeles FC 10:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Real Salt Lake at Los Angeles FC 10:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Real Salt Lake at Los Angeles FC 10:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49948
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) FC Dallas at Portland Timbers 10:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) FC Dallas at Portland Timbers 10:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) FC Dallas at Portland Timbers 10:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49949
-#EXTINF:-1 tvg-id="PPV|| Football (Australian) North Melbourne Kangaroos at Essendon Bombers 11:00 PM EST ( FSP)" tvg-name="PPV|| Football (Australian) North Melbourne Kangaroos at Essendon Bombers 11:00 PM EST ( FSP)"  group-title="EVENTOS PPV",PPV|| Football (Australian) North Melbourne Kangaroos at Essendon Bombers 11:00 PM EST ( FSP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49950
-#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 11:30 PM EST ( ESPDR)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 11:30 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 11:30 PM EST ( ESPDR)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49951
-#EXTINF:-1 tvg-id="PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)" tvg-name="PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49952
-#EXTINF:-1 tvg-id="PPV|| Soccer (CopaOro) Guadalupe vs Jamaica 6:30 PM EST ( Az7)" tvg-name="PPV|| Soccer (CopaOro) Guadalupe vs Jamaica 6:30 PM EST ( Az7)"  group-title="EVENTOS PPV",PPV|| Soccer (CopaOro) Guadalupe vs Jamaica 6:30 PM EST ( Az7)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49953
-#EXTINF:-1 tvg-id="PPV|| Soccer (CopaOro) Surinam vs Costa Rica 8:30 PM EST ( C5)" tvg-name="PPV|| Soccer (CopaOro) Surinam vs Costa Rica 8:30 PM EST ( C5)"  group-title="EVENTOS PPV",PPV|| Soccer (CopaOro) Surinam vs Costa Rica 8:30 PM EST ( C5)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49954
-#EXTINF:-1 tvg-id="PPV|| Tennis (PRO) Hall of Fame Open 4:30am EST (TNNS)" tvg-name="PPV|| Tennis (PRO) Hall of Fame Open 4:30am EST (TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (PRO) Hall of Fame Open 4:30am EST (TNNS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49955
-#EXTINF:-1 tvg-id="PPV|| Golf (PRO) 2021 Open Championship 6:00am EST (GOLF)" tvg-name="PPV|| Golf (PRO) 2021 Open Championship 6:00am EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) 2021 Open Championship 6:00am EST (GOLF)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49956
-#EXTINF:-1 tvg-id="PPV|| Racing (Auto) F1 British GP 6:55am EST (ESPN2)" tvg-name="PPV|| Racing (Auto) F1 British GP 6:55am EST (ESPN2)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) F1 British GP 6:55am EST (ESPN2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49957
-#EXTINF:-1 tvg-id="PPV|| Cycling (UCI) Tour de France Stage 18 7:30am EST (NBCS)" tvg-name="PPV|| Cycling (UCI) Tour de France Stage 18 7:30am EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Cycling (UCI) Tour de France Stage 18 7:30am EST (NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49958
-#EXTINF:-1 tvg-id="PPV|| Extreme Sports X Games 2021 1:00pm EST (ABC)" tvg-name="PPV|| Extreme Sports X Games 2021 1:00pm EST (ABC)"  group-title="EVENTOS PPV",PPV|| Extreme Sports X Games 2021 1:00pm EST (ABC)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49959
-#EXTINF:-1 tvg-id="PPV|| Basketball (BIG3) Week-2 2:00pm EST (CBS)" tvg-name="PPV|| Basketball (BIG3) Week-2 2:00pm EST (CBS)"  group-title="EVENTOS PPV",PPV|| Basketball (BIG3) Week-2 2:00pm EST (CBS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49961
-#EXTINF:-1 tvg-id="PPV|| Calgary Stampede Rodeo - Day #9 3:30pm EST (SNE)" tvg-name="PPV|| Calgary Stampede Rodeo - Day #9 3:30pm EST (SNE)"  group-title="EVENTOS PPV",PPV|| Calgary Stampede Rodeo - Day #9 3:30pm EST (SNE)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49963
-#EXTINF:-1 tvg-id="PPV|| Golf (PRO) PGA Tour Barbasol Championship 4:00pm EST (GOLF)" tvg-name="PPV|| Golf (PRO) PGA Tour Barbasol Championship 4:00pm EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) PGA Tour Barbasol Championship 4:00pm EST (GOLF)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49964
-#EXTINF:-1 tvg-id="PPV|| Golf (PRO) LPGA Tour Dow Great Lakes Bay Invitational 4:00pm EST (CBS)" tvg-name="PPV|| Golf (PRO) LPGA Tour Dow Great Lakes Bay Invitational 4:00pm EST (CBS)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) LPGA Tour Dow Great Lakes Bay Invitational 4:00pm EST (CBS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49965
-#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49966
-#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (TSN1)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (TSN1)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (TSN1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49967
-#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABConESPN3)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABConESPN3)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABConESPN3)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49968
-#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49969
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 9:40pm EST" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 9:40pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 9:40pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49970
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 1) 1:10pm EST" tvg-name="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 1) 1:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 1) 1:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49971
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07pm EST" tvg-name="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49972
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07pm EST" tvg-name="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49973
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10pm EST" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49974
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 2) 6:10pm EST" tvg-name="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 2) 6:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 2) 6:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49975
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05pm EST" tvg-name="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49976
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05pm EST" tvg-name="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49977
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05pm EST" tvg-name="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49978
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49979
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49980
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15pm EST" tvg-name="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49981
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15pm EST" tvg-name="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49982
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20pm EST" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49983
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15pm EST" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49984
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Los Angeles Dodgers at Colorado Rockies 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Los Angeles Dodgers at Colorado Rockies 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Los Angeles Dodgers at Colorado Rockies 8:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49985
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (MLBN)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (MLBN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49986
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (SNLA)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (SNLA)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (SNLA)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49987
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (HOME)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (HOME)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (HOME)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49988
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:07pm EST" tvg-name="PPV|| Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:07pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:07pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49989
-#EXTINF:-1 tvg-id="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD2)" tvg-name="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49990
-#EXTINF:-1 tvg-id="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD3)" tvg-name="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD3)"  group-title="EVENTOS PPV",PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD3)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49991
-#EXTINF:-1 tvg-id="PPV|| MMA LFA 111 De Sa vs. Bonfim 9:00pm EST (HD1)" tvg-name="PPV|| MMA LFA 111 De Sa vs. Bonfim 9:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA LFA 111 De Sa vs. Bonfim 9:00pm EST (HD1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49992
-#EXTINF:-1 tvg-id="PPV|| Boxing Juarez vs. Fernandez 9:00pm EST (HD1)(ESP)" tvg-name="PPV|| Boxing Juarez vs. Fernandez 9:00pm EST (HD1)(ESP)"  group-title="EVENTOS PPV",PPV|| Boxing Juarez vs. Fernandez 9:00pm EST (HD1)(ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49993
-#EXTINF:-1 tvg-id="PPV|| MMA Levy vs Marroquin 12:00am EST (HD1)" tvg-name="PPV|| MMA Levy vs Marroquin 12:00am EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA Levy vs Marroquin 12:00am EST (HD1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49994
-#EXTINF:-1 tvg-id="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV1)" tvg-name="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV1)"  group-title="EVENTOS PPV",PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49995
-#EXTINF:-1 tvg-id="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV2)" tvg-name="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV2)"  group-title="EVENTOS PPV",PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49996
-#EXTINF:-1 tvg-id="PPV|| MMA Ring Of Combat 73 8:00pm EST (HD1)" tvg-name="PPV|| MMA Ring Of Combat 73 8:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA Ring Of Combat 73 8:00pm EST (HD1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49997
-#EXTINF:-1 tvg-id="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD1)" tvg-name="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49998
-#EXTINF:-1 tvg-id="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD2)" tvg-name="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49999
-#EXTINF:-1 tvg-id="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD3)(ESP)" tvg-name="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD3)(ESP)"  group-title="EVENTOS PPV",PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD3)(ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50000
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD1)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50001
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD2)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50002
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD1)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50003
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD2)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50004
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD3)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD3)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD3)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50005
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD4)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD4)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD4)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50006
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (SD5)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (SD5)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (SD5)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50007
-#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD6)(ESP)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD6)(ESP)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD6)(ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50008
-#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ENG)" tvg-name="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50009
-#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ESP)" tvg-name="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50010
-#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ENG)" tvg-name="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50011
-#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ESP)" tvg-name="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50012
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ENG)" tvg-name="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50013
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ESP)" tvg-name="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50014
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New York RB vs. Inter Miami 7:00 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) New York RB vs. Inter Miami 7:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New York RB vs. Inter Miami 7:00 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50015
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Columbus Crew vs. New York City 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Columbus Crew vs. New York City 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Columbus Crew vs. New York City 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50016
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Philadelphia Union vs. DC United 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Philadelphia Union vs. DC United 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Philadelphia Union vs. DC United 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50017
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Toronto FC vs. Orlando City SC 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Toronto FC vs. Orlando City SC 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Toronto FC vs. Orlando City SC 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50018
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) CF Montreal vs. Cincinnati 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) CF Montreal vs. Cincinnati 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) CF Montreal vs. Cincinnati 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50019
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Sporting KC vs. Austin 8:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Sporting KC vs. Austin 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Sporting KC vs. Austin 8:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50020
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Nashville SC vs. Chicago Fire 8:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Nashville SC vs. Chicago Fire 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Nashville SC vs. Chicago Fire 8:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50021
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Colorado Rapids vs. SJ Earthquakes 9:00 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Colorado Rapids vs. SJ Earthquakes 9:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Colorado Rapids vs. SJ Earthquakes 9:00 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50022
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ENG)" tvg-name="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50023
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ESP)" tvg-name="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50024
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ENG)" tvg-name="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50025
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ESP)" tvg-name="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50026
-#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Portland Timbers vs. Dallas 10:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Portland Timbers vs. Dallas 10:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Portland Timbers vs. Dallas 10:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50027
+#EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 1" tvg-name="DIRECTV SPORTS PPV 1"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51077
+#EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 2" tvg-name="DIRECTV SPORTS PPV 2"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51078
+#EXTINF:-1 tvg-id="Olympics Softball Mexico vs. Canada 2:00 AM EST ( NBCS)" tvg-name="Olympics Softball Mexico vs. Canada 2:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball Mexico vs. Canada 2:00 AM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50988
+#EXTINF:-1 tvg-id="Olympics Women's Soccer Great Britain vs. Chile 3:30 AM EST ( OLYC)" tvg-name="Olympics Women's Soccer Great Britain vs. Chile 3:30 AM EST ( OLYC)"  group-title="EVENTOS PPV",Olympics Women's Soccer Great Britain vs. Chile 3:30 AM EST ( OLYC)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50989
+#EXTINF:-1 tvg-id="Olympics Women's Soccer China vs. Brazil 4:00 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer China vs. Brazil 4:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer China vs. Brazil 4:00 AM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50990
+#EXTINF:-1 tvg-id="Tennis (Pro) ATP/WTA Gdynia-WTA Early Rounds 4:30 AM EST ( TNNS)" tvg-name="Tennis (Pro) ATP/WTA Gdynia-WTA Early Rounds 4:30 AM EST ( TNNS)"  group-title="EVENTOS PPV",Tennis (Pro) ATP/WTA Gdynia-WTA Early Rounds 4:30 AM EST ( TNNS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50991
+#EXTINF:-1 tvg-id="Olympics Women's Soccer Sweden vs. U.S. 4:30 AM EST ( USA)" tvg-name="Olympics Women's Soccer Sweden vs. U.S. 4:30 AM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Olympics Women's Soccer Sweden vs. U.S. 4:30 AM EST ( USA)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50992
+#EXTINF:-1 tvg-id="Juegos Olimpicos de Tokyo 2020 5:00 AM EST ( TELe)" tvg-name="Juegos Olimpicos de Tokyo 2020 5:00 AM EST ( TELe)"  group-title="EVENTOS PPV",Juegos Olimpicos de Tokyo 2020 5:00 AM EST ( TELe)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50993
+#EXTINF:-1 tvg-id="Olympics 2020 Tokyo Olympics 6:00 AM EST ( NBCS)" tvg-name="Olympics 2020 Tokyo Olympics 6:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics 2020 Tokyo Olympics 6:00 AM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50994
+#EXTINF:-1 tvg-id="Olympics Women's Soccer Japan vs. Canada 6:30 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer Japan vs. Canada 6:30 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer Japan vs. Canada 6:30 AM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50995
+#EXTINF:-1 tvg-id="Olympics Women's Soccer Zambia vs. Netherlands 7:00 AM EST ( OLYC)" tvg-name="Olympics Women's Soccer Zambia vs. Netherlands 7:00 AM EST ( OLYC)"  group-title="EVENTOS PPV",Olympics Women's Soccer Zambia vs. Netherlands 7:00 AM EST ( OLYC)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50996
+#EXTINF:-1 tvg-id="Olympics Women's Soccer Australia vs. New Zealand 7:30 AM EST ( USA)" tvg-name="Olympics Women's Soccer Australia vs. New Zealand 7:30 AM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Olympics Women's Soccer Australia vs. New Zealand 7:30 AM EST ( USA)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50997
+#EXTINF:-1 tvg-id="Olympics Women's Soccer Sweden vs. U.S. 8:30 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer Sweden vs. U.S. 8:30 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer Sweden vs. U.S. 8:30 AM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50998
+#EXTINF:-1 tvg-id="Olympics Women's Soccer China vs. Brazil 10:30 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer China vs. Brazil 10:30 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer China vs. Brazil 10:30 AM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50999
+#EXTINF:-1 tvg-id="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10 PM EST ( MLB)" tvg-name="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10 PM EST ( MLB)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51000
+#EXTINF:-1 tvg-id="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20 PM EST ( MLB)" tvg-name="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) San Diego Padres at Atlanta Braves 12:20 PM EST ( MLB)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51001
+#EXTINF:-1 tvg-id="Baseball (MLB) New York Mets at Cincinnati Reds 12:35 PM EST ( MLBa)" tvg-name="Baseball (MLB) New York Mets at Cincinnati Reds 12:35 PM EST ( MLBa)"  group-title="EVENTOS PPV",Baseball (MLB) New York Mets at Cincinnati Reds 12:35 PM EST ( MLBa)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51002
+#EXTINF:-1 tvg-id="Horse Racing Saratoga Live 1:00 PM EST ( FS2)" tvg-name="Horse Racing Saratoga Live 1:00 PM EST ( FS2)"  group-title="EVENTOS PPV",Horse Racing Saratoga Live 1:00 PM EST ( FS2)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51003
+#EXTINF:-1 tvg-id="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10 PM EST ( MLB)" tvg-name="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10 PM EST ( MLB)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51004
+#EXTINF:-1 tvg-id="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10 PM EST ( MLBa)" tvg-name="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10 PM EST ( MLBa)"  group-title="EVENTOS PPV",Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10 PM EST ( MLBa)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51005
+#EXTINF:-1 tvg-id="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40 PM EST ( MLB)" tvg-name="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40 PM EST ( MLB)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51006
+#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07 PM EST ( MLB)" tvg-name="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07 PM EST ( MLB)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51007
+#EXTINF:-1 tvg-id="Soccer (MLS) New York Red Bulls at Toronto FC 7:30 PM EST ( MLS)" tvg-name="Soccer (MLS) New York Red Bulls at Toronto FC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) New York Red Bulls at Toronto FC 7:30 PM EST ( MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51008
+#EXTINF:-1 tvg-id="Soccer (MLS) Nashville SC at Columbus Crew SC 7:30 PM EST ( MLS)" tvg-name="Soccer (MLS) Nashville SC at Columbus Crew SC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Nashville SC at Columbus Crew SC 7:30 PM EST ( MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51009
+#EXTINF:-1 tvg-id="Tennis (Pro) ATP Mifel Open Early Rounds 8:00 PM EST ( TNNS)" tvg-name="Tennis (Pro) ATP Mifel Open Early Rounds 8:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",Tennis (Pro) ATP Mifel Open Early Rounds 8:00 PM EST ( TNNS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51010
+#EXTINF:-1 tvg-id="Olympics Softball U.S. vs. Canada 8:00 PM EST ( NBCS)" tvg-name="Olympics Softball U.S. vs. Canada 8:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball U.S. vs. Canada 8:00 PM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51011
+#EXTINF:-1 tvg-id="Wrestling AEW PLUS Jon Moxley vs. Lance Archer 8:00 PM EST ( TNT)" tvg-name="Wrestling AEW PLUS Jon Moxley vs. Lance Archer 8:00 PM EST ( TNT)"  group-title="EVENTOS PPV",Wrestling AEW PLUS Jon Moxley vs. Lance Archer 8:00 PM EST ( TNT)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51012
+#EXTINF:-1 tvg-id="Soccer (MLS) Atlanta United FC at FC Cincinnati 8:00 PM EST ( FOXD)" tvg-name="Soccer (MLS) Atlanta United FC at FC Cincinnati 8:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",Soccer (MLS) Atlanta United FC at FC Cincinnati 8:00 PM EST ( FOXD)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51013
+#EXTINF:-1 tvg-id="Soccer (MLS) D.C. United at Chicago Fire 8:00 PM EST ( MLS)" tvg-name="Soccer (MLS) D.C. United at Chicago Fire 8:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) D.C. United at Chicago Fire 8:00 PM EST ( MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51014
+#EXTINF:-1 tvg-id="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15 PM EST ( ESPN)" tvg-name="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15 PM EST ( ESPN)"  group-title="EVENTOS PPV",Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15 PM EST ( ESPN)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51015
+#EXTINF:-1 tvg-id="Soccer (MLS) San Jose Earthquakes at Sporting Kansas City 8:30 PM EST ( MLS)" tvg-name="Soccer (MLS) San Jose Earthquakes at Sporting Kansas City 8:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) San Jose Earthquakes at Sporting Kansas City 8:30 PM EST ( MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51016
+#EXTINF:-1 tvg-id="Soccer (MLS) FC Dallas at Colorado Rapids 9:00 PM EST ( MLS)" tvg-name="Soccer (MLS) FC Dallas at Colorado Rapids 9:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) FC Dallas at Colorado Rapids 9:00 PM EST ( MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51017
+#EXTINF:-1 tvg-id="Soccer (MLS) Real Salt Lake at Los Angeles Galaxy 10:00 PM EST ( MLS)" tvg-name="Soccer (MLS) Real Salt Lake at Los Angeles Galaxy 10:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Real Salt Lake at Los Angeles Galaxy 10:00 PM EST ( MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51018
+#EXTINF:-1 tvg-id="Soccer (MLS) Los Angeles FC at Portland Timbers 10:30 PM EST ( FS1)" tvg-name="Soccer (MLS) Los Angeles FC at Portland Timbers 10:30 PM EST ( FS1)"  group-title="EVENTOS PPV",Soccer (MLS) Los Angeles FC at Portland Timbers 10:30 PM EST ( FS1)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51019
+#EXTINF:-1 tvg-id="Olympics Softball Japan vs. Mexico 11:00 PM EST ( NBCS)" tvg-name="Olympics Softball Japan vs. Mexico 11:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball Japan vs. Mexico 11:00 PM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51020
+#EXTINF:-1 tvg-id="Soccer (CopaOro) Costa Rica vs Jamaica 7:00 PM EST ( Az7)" tvg-name="Soccer (CopaOro) Costa Rica vs Jamaica 7:00 PM EST ( Az7)"  group-title="EVENTOS PPV",Soccer (CopaOro) Costa Rica vs Jamaica 7:00 PM EST ( Az7)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51021
+#EXTINF:-1 tvg-id="Soccer (CopaOro) Honduras vs Qatar 9:00 PM EST ( C5)" tvg-name="Soccer (CopaOro) Honduras vs Qatar 9:00 PM EST ( C5)"  group-title="EVENTOS PPV",Soccer (CopaOro) Honduras vs Qatar 9:00 PM EST ( C5)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51022
+#EXTINF:-1 tvg-id="Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)" tvg-name="Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51023
+#EXTINF:-1 tvg-id="Olympics Softball Italy vs. U.S. 11:00 PM EST ( NBCS)" tvg-name="Olympics Softball Italy vs. U.S. 11:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball Italy vs. U.S. 11:00 PM EST ( NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51024
+#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-name="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51025
+#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (SNE)" tvg-name="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (SNE)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (SNE)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51026
+#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-name="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51027
+#EXTINF:-1 tvg-id="WEDNESDAY LIVE" tvg-name="WEDNESDAY LIVE"  group-title="EVENTOS PPV",WEDNESDAY LIVE
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51028
+#EXTINF:-1 tvg-id="Tennis (PRO) Swiss Open 4:30am EST (TNNS)" tvg-name="Tennis (PRO) Swiss Open 4:30am EST (TNNS)"  group-title="EVENTOS PPV",Tennis (PRO) Swiss Open 4:30am EST (TNNS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51029
+#EXTINF:-1 tvg-id="Olympic Channel News Multi-Sport Coverage 9:00am EST (OLY)" tvg-name="Olympic Channel News Multi-Sport Coverage 9:00am EST (OLY)"  group-title="EVENTOS PPV",Olympic Channel News Multi-Sport Coverage 9:00am EST (OLY)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51030
+#EXTINF:-1 tvg-id="Wrestling (AEW) All Elite Wrestling Dynamite 8:00pm EST (TNT)" tvg-name="Wrestling (AEW) All Elite Wrestling Dynamite 8:00pm EST (TNT)"  group-title="EVENTOS PPV",Wrestling (AEW) All Elite Wrestling Dynamite 8:00pm EST (TNT)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51031
+#EXTINF:-1 tvg-id="Olympics Softball U.S. vs. Canada 8:00pm EST (NBCS)" tvg-name="Olympics Softball U.S. vs. Canada 8:00pm EST (NBCS)"  group-title="EVENTOS PPV",Olympics Softball U.S. vs. Canada 8:00pm EST (NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51032
+#EXTINF:-1 tvg-id="Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)" tvg-name="Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)"  group-title="EVENTOS PPV",Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51033
+#EXTINF:-1 tvg-id="MLB WEDNESDAY" tvg-name="MLB WEDNESDAY"  group-title="EVENTOS PPV",MLB WEDNESDAY
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51034
+#EXTINF:-1 tvg-id="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10pm EST" tvg-name="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51035
+#EXTINF:-1 tvg-id="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20pm EST (Gm 1)" tvg-name="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20pm EST (Gm 1)"  group-title="EVENTOS PPV",Baseball (MLB) San Diego Padres at Atlanta Braves 12:20pm EST (Gm 1)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51036
+#EXTINF:-1 tvg-id="Baseball (MLB) New York Mets at Cincinnati Reds 12:35pm EST" tvg-name="Baseball (MLB) New York Mets at Cincinnati Reds 12:35pm EST"  group-title="EVENTOS PPV",Baseball (MLB) New York Mets at Cincinnati Reds 12:35pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51037
+#EXTINF:-1 tvg-id="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10pm EST" tvg-name="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51038
+#EXTINF:-1 tvg-id="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10pm EST" tvg-name="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51039
+#EXTINF:-1 tvg-id="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40pm EST" tvg-name="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51040
+#EXTINF:-1 tvg-id="Baseball (MLB) San Diego Padres at Atlanta Braves 5:20pm EST (Gm 2)" tvg-name="Baseball (MLB) San Diego Padres at Atlanta Braves 5:20pm EST (Gm 2)"  group-title="EVENTOS PPV",Baseball (MLB) San Diego Padres at Atlanta Braves 5:20pm EST (Gm 2)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51041
+#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07pm EST" tvg-name="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51042
+#EXTINF:-1 tvg-id="Baseball (MLB) Philadelphia Phillies at New York Yankees 7:05pm EST" tvg-name="Baseball (MLB) Philadelphia Phillies at New York Yankees 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Philadelphia Phillies at New York Yankees 7:05pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51043
+#EXTINF:-1 tvg-id="Baseball (MLB) Miami Marlins at Washington Nationals 7:05pm EST" tvg-name="Baseball (MLB) Miami Marlins at Washington Nationals 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Miami Marlins at Washington Nationals 7:05pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51044
+#EXTINF:-1 tvg-id="Baseball (MLB) Texas Rangers at Detroit Tigers 7:10pm EST" tvg-name="Baseball (MLB) Texas Rangers at Detroit Tigers 7:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Texas Rangers at Detroit Tigers 7:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51045
+#EXTINF:-1 tvg-id="Baseball (MLB) Minnesota Twins at Chicago White Sox 8:10pm EST" tvg-name="Baseball (MLB) Minnesota Twins at Chicago White Sox 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Minnesota Twins at Chicago White Sox 8:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51046
+#EXTINF:-1 tvg-id="Baseball (MLB) Cleveland Indians at Houston Astros 8:10pm EST" tvg-name="Baseball (MLB) Cleveland Indians at Houston Astros 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Cleveland Indians at Houston Astros 8:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51047
+#EXTINF:-1 tvg-id="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15pm EST" tvg-name="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51048
+#EXTINF:-1 tvg-id="Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST" tvg-name="Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51049
+#EXTINF:-1 tvg-id="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)" tvg-name="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)"  group-title="EVENTOS PPV",Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51050
+#EXTINF:-1 tvg-id="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)" tvg-name="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)"  group-title="EVENTOS PPV",Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51051
+#EXTINF:-1 tvg-id="Soccer (MLS) Inter Miami vs. New England 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) Inter Miami vs. New England 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Inter Miami vs. New England 7:30 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51052
+#EXTINF:-1 tvg-id="Soccer (MLS) Columbus Crew vs. Nashville SC 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) Columbus Crew vs. Nashville SC 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Columbus Crew vs. Nashville SC 7:30 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51053
+#EXTINF:-1 tvg-id="Soccer (MLS) Toronto FC vs. New York RB 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) Toronto FC vs. New York RB 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Toronto FC vs. New York RB 7:30 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51054
+#EXTINF:-1 tvg-id="Soccer (MLS) New York City vs. CF Montreal 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) New York City vs. CF Montreal 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) New York City vs. CF Montreal 7:30 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51055
+#EXTINF:-1 tvg-id="Soccer (MLS) Cincinnati vs. Atlanta United 8:00 pm EST (MLS)" tvg-name="Soccer (MLS) Cincinnati vs. Atlanta United 8:00 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Cincinnati vs. Atlanta United 8:00 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51056
+#EXTINF:-1 tvg-id="Soccer (MLS) Chicago Fire vs. DC United 8:00 pm EST (MLS)" tvg-name="Soccer (MLS) Chicago Fire vs. DC United 8:00 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Chicago Fire vs. DC United 8:00 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51057
+#EXTINF:-1 tvg-id="Soccer (MLS) Sporting KC vs. SJ Earthquakes 8:30 pm EST (MLS)" tvg-name="Soccer (MLS) Sporting KC vs. SJ Earthquakes 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Sporting KC vs. SJ Earthquakes 8:30 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51058
+#EXTINF:-1 tvg-id="Soccer (MLS) Colorado Rapids vs. Dallas 9:00 pm EST (MLS)" tvg-name="Soccer (MLS) Colorado Rapids vs. Dallas 9:00 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Colorado Rapids vs. Dallas 9:00 pm EST (MLS)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51059
+#EXTINF:-1 tvg-id="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ENG)" tvg-name="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ENG)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51060
+#EXTINF:-1 tvg-id="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ESP)" tvg-name="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ESP)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51061
+#EXTINF:-1 tvg-id="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ENG)" tvg-name="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ENG)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51062
+#EXTINF:-1 tvg-id="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ESP)" tvg-name="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ESP)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51063
+#EXTINF:-1 tvg-id="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ENG)" tvg-name="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ENG)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51064
+#EXTINF:-1 tvg-id="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ESP)" tvg-name="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ESP)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51065
+#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Palmeiras vs. Universidad Catolica 6:15 pm EST (beINn)" tvg-name="Soccer (Copa Libertadores) Palmeiras vs. Universidad Catolica 6:15 pm EST (beINn)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Palmeiras vs. Universidad Catolica 6:15 pm EST (beINn)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51066
+#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Barcelona vs. Velez Sarsfield 6:15 pm EST (beIN)" tvg-name="Soccer (Copa Libertadores) Barcelona vs. Velez Sarsfield 6:15 pm EST (beIN)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Barcelona vs. Velez Sarsfield 6:15 pm EST (beIN)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51067
+#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Argentinos Juniors vs. River Plate 8:30 pm EST (beINn)" tvg-name="Soccer (Copa Libertadores) Argentinos Juniors vs. River Plate 8:30 pm EST (beINn)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Argentinos Juniors vs. River Plate 8:30 pm EST (beINn)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51068
+#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Flamengo vs. Defensa Y Justicia 8:30 pm EST (beIN)" tvg-name="Soccer (Copa Libertadores) Flamengo vs. Defensa Y Justicia 8:30 pm EST (beIN)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Flamengo vs. Defensa Y Justicia 8:30 pm EST (beIN)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51069
+#EXTINF:-1 tvg-id="Soccer (WSoccer) Great Britain vs. Chile 3:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Great Britain vs. Chile 3:30 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Great Britain vs. Chile 3:30 am EST (WSoccer)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51070
+#EXTINF:-1 tvg-id="Soccer (WSoccer) China vs. Brazil 4:00 am EST (WSoccer)" tvg-name="Soccer (WSoccer) China vs. Brazil 4:00 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) China vs. Brazil 4:00 am EST (WSoccer)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51071
+#EXTINF:-1 tvg-id="Soccer (WSoccer) Sweden vs. USA 4:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Sweden vs. USA 4:30 am EST (WSoccer)" tvg-logo="" group-title="EVENTOS PPV",Soccer (WSoccer) Sweden vs. USA 4:30 am EST (WSoccer)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51072
+#EXTINF:-1 tvg-id="Soccer (WSoccer) Japan vs. Canada 6:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Japan vs. Canada 6:30 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Japan vs. Canada 6:30 am EST (WSoccer)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51073
+#EXTINF:-1 tvg-id="Soccer (WSoccer) Zambia vs. Netherlands 7:00 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Zambia vs. Netherlands 7:00 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Zambia vs. Netherlands 7:00 am EST (WSoccer)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51074
+#EXTINF:-1 tvg-id="Soccer (WSoccer) Australia vs. New Zealand 7:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Australia vs. New Zealand 7:30 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Australia vs. New Zealand 7:30 am EST (WSoccer)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51075
+#EXTINF:-1 tvg-id="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)" tvg-name="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)"  group-title="EVENTOS PPV",Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51076
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -5997,8 +5959,6 @@ http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/28003.mp4
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/28004.mp4
 #EXTINF:-1 tvg-id="El laberinto del fauno (2006)" tvg-name="El laberinto del fauno (2006)"  group-title="VFLIX AVENTURA",El laberinto del fauno (2006)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/28005.mp4
-#EXTINF:-1 tvg-id="El secreto de los hermanos Grimm (2005)" tvg-name="El secreto de los hermanos Grimm (2005)"  group-title="VFLIX AVENTURA",El secreto de los hermanos Grimm (2005)
-http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/28006.mp4
 #EXTINF:-1 tvg-id="La quinta ola (2016)" tvg-name="La quinta ola (2016)"  group-title="VFLIX AVENTURA",La quinta ola (2016)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/28007.avi
 #EXTINF:-1 tvg-id="Cazadores de sombras Ciudad de hueso (2013)" tvg-name="Cazadores de sombras Ciudad de hueso (2013)"  group-title="VFLIX AVENTURA",Cazadores de sombras Ciudad de hueso (2013)
@@ -13653,10 +13613,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/87
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/122
-#EXTINF:-1 tvg-id="PPV|| Racing (Auto) NHRA Camping World Drag Racing Series 2:00pm EST (FS1)" tvg-name="PPV|| Racing (Auto) NHRA Camping World Drag Racing Series 2:00pm EST (FS1)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) NHRA Camping World Drag Racing Series 2:00pm EST (FS1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49960
-#EXTINF:-1 tvg-id="PPV|| Racing (Auto) NASCAR Xfinity Series Ambetter Get Vaccinated 200 3:00pm EST (NBCS)" tvg-name="PPV|| Racing (Auto) NASCAR Xfinity Series Ambetter Get Vaccinated 200 3:00pm EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) NASCAR Xfinity Series Ambetter Get Vaccinated 200 3:00pm EST (NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/49962
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E01" tvg-name="Falcon y el Soldado del Invierno S01 E01"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/42784.mkv
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E02" tvg-name="Falcon y el Soldado del Invierno S01 E02"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E02
@@ -23067,252 +23023,6 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6201.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6202.mkv
 #EXTINF:-1 tvg-id="Game of Thrones S08 E06" tvg-name="Game of Thrones S08 E06"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S08 E06
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6203.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E01" tvg-name="Grimm S01 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6558.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E02" tvg-name="Grimm S01 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6559.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E03" tvg-name="Grimm S01 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6560.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E04" tvg-name="Grimm S01 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6561.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E05" tvg-name="Grimm S01 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6562.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E06" tvg-name="Grimm S01 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6563.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E07" tvg-name="Grimm S01 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6564.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E08" tvg-name="Grimm S01 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6565.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E09" tvg-name="Grimm S01 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6566.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E10" tvg-name="Grimm S01 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6567.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E11" tvg-name="Grimm S01 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6568.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E12" tvg-name="Grimm S01 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6569.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E13" tvg-name="Grimm S01 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6570.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E14" tvg-name="Grimm S01 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6571.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E15" tvg-name="Grimm S01 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6572.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E16" tvg-name="Grimm S01 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6573.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E17" tvg-name="Grimm S01 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6574.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E18" tvg-name="Grimm S01 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6575.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E19" tvg-name="Grimm S01 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6576.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E20" tvg-name="Grimm S01 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6577.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E21" tvg-name="Grimm S01 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6578.mkv
-#EXTINF:-1 tvg-id="Grimm S01 E22" tvg-name="Grimm S01 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6579.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E01" tvg-name="Grimm S02 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6580.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E02" tvg-name="Grimm S02 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6581.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E03" tvg-name="Grimm S02 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6582.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E04" tvg-name="Grimm S02 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6583.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E05" tvg-name="Grimm S02 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6584.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E06" tvg-name="Grimm S02 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6585.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E07" tvg-name="Grimm S02 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6586.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E08" tvg-name="Grimm S02 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6587.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E09" tvg-name="Grimm S02 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6588.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E10" tvg-name="Grimm S02 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6589.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E11" tvg-name="Grimm S02 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6590.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E12" tvg-name="Grimm S02 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6591.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E13" tvg-name="Grimm S02 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6592.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E14" tvg-name="Grimm S02 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6593.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E15" tvg-name="Grimm S02 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6594.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E16" tvg-name="Grimm S02 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6595.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E17" tvg-name="Grimm S02 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6596.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E18" tvg-name="Grimm S02 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6597.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E19" tvg-name="Grimm S02 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6598.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E20" tvg-name="Grimm S02 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6599.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E21" tvg-name="Grimm S02 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6600.mkv
-#EXTINF:-1 tvg-id="Grimm S02 E22" tvg-name="Grimm S02 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6601.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E01" tvg-name="Grimm S03 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6602.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E02" tvg-name="Grimm S03 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6603.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E03" tvg-name="Grimm S03 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6604.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E04" tvg-name="Grimm S03 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6605.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E05" tvg-name="Grimm S03 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6606.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E06" tvg-name="Grimm S03 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6607.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E07" tvg-name="Grimm S03 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6608.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E08" tvg-name="Grimm S03 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6609.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E09" tvg-name="Grimm S03 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6610.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E10" tvg-name="Grimm S03 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6611.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E11" tvg-name="Grimm S03 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6612.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E12" tvg-name="Grimm S03 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6613.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E13" tvg-name="Grimm S03 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6614.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E14" tvg-name="Grimm S03 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6615.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E15" tvg-name="Grimm S03 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6616.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E16" tvg-name="Grimm S03 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6617.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E17" tvg-name="Grimm S03 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6618.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E18" tvg-name="Grimm S03 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6619.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E19" tvg-name="Grimm S03 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6620.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E20" tvg-name="Grimm S03 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6621.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E21" tvg-name="Grimm S03 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6622.mkv
-#EXTINF:-1 tvg-id="Grimm S03 E22" tvg-name="Grimm S03 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6623.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E01" tvg-name="Grimm S04 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6624.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E02" tvg-name="Grimm S04 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6625.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E03" tvg-name="Grimm S04 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6626.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E04" tvg-name="Grimm S04 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6627.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E05" tvg-name="Grimm S04 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6628.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E06" tvg-name="Grimm S04 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6629.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E07" tvg-name="Grimm S04 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6630.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E08" tvg-name="Grimm S04 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6631.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E09" tvg-name="Grimm S04 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6632.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E10" tvg-name="Grimm S04 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6633.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E11" tvg-name="Grimm S04 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6634.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E12" tvg-name="Grimm S04 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6635.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E13" tvg-name="Grimm S04 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6636.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E14" tvg-name="Grimm S04 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6637.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E15" tvg-name="Grimm S04 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6638.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E16" tvg-name="Grimm S04 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6639.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E17" tvg-name="Grimm S04 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6640.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E18" tvg-name="Grimm S04 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6641.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E19" tvg-name="Grimm S04 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6642.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E20" tvg-name="Grimm S04 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6643.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E21" tvg-name="Grimm S04 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6644.mkv
-#EXTINF:-1 tvg-id="Grimm S04 E22" tvg-name="Grimm S04 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6645.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E01" tvg-name="Grimm S05 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6646.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E02" tvg-name="Grimm S05 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6647.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E03" tvg-name="Grimm S05 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6648.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E04" tvg-name="Grimm S05 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6649.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E05" tvg-name="Grimm S05 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6650.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E06" tvg-name="Grimm S05 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6651.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E07" tvg-name="Grimm S05 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6652.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E08" tvg-name="Grimm S05 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6653.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E09" tvg-name="Grimm S05 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6654.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E10" tvg-name="Grimm S05 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6655.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E11" tvg-name="Grimm S05 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6656.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E12" tvg-name="Grimm S05 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6657.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E13" tvg-name="Grimm S05 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6658.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E14" tvg-name="Grimm S05 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6659.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E15" tvg-name="Grimm S05 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6660.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E16" tvg-name="Grimm S05 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6661.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E17" tvg-name="Grimm S05 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6662.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E18" tvg-name="Grimm S05 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6663.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E19" tvg-name="Grimm S05 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6664.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E20" tvg-name="Grimm S05 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6665.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E21" tvg-name="Grimm S05 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6666.mkv
-#EXTINF:-1 tvg-id="Grimm S05 E22" tvg-name="Grimm S05 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6667.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E01" tvg-name="Grimm S06 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6668.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E02" tvg-name="Grimm S06 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6669.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E03" tvg-name="Grimm S06 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6670.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E04" tvg-name="Grimm S06 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6671.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E05" tvg-name="Grimm S06 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6672.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E06" tvg-name="Grimm S06 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6673.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E07" tvg-name="Grimm S06 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6674.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E08" tvg-name="Grimm S06 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6675.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E09" tvg-name="Grimm S06 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6676.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E10" tvg-name="Grimm S06 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6677.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E11" tvg-name="Grimm S06 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6678.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E12" tvg-name="Grimm S06 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6679.mkv
-#EXTINF:-1 tvg-id="Grimm S06 E13" tvg-name="Grimm S06 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/6680.mkv
 #EXTINF:-1 tvg-id="La orden S01 E01" tvg-name="La orden S01 E01"  group-title="SERIES FICCION - FANTASIA",La orden S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/7116.mkv
 #EXTINF:-1 tvg-id="La orden S01 E02" tvg-name="La orden S01 E02"  group-title="SERIES FICCION - FANTASIA",La orden S01 E02
@@ -24607,356 +24317,6 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29204.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29200.mkv
 #EXTINF:-1 tvg-id="Shadowhunters S03 E22" tvg-name="Shadowhunters S03 E22"  group-title="SERIES FICCION - FANTASIA",Shadowhunters S03 E22
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29201.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E01" tvg-name="Embrujadas S01 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29425.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E02" tvg-name="Embrujadas S01 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29426.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E03" tvg-name="Embrujadas S01 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29427.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E04" tvg-name="Embrujadas S01 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29428.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E05" tvg-name="Embrujadas S01 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29429.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E06" tvg-name="Embrujadas S01 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29430.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E07" tvg-name="Embrujadas S01 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29431.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E08" tvg-name="Embrujadas S01 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29432.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E09" tvg-name="Embrujadas S01 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29433.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E10" tvg-name="Embrujadas S01 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29434.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E11" tvg-name="Embrujadas S01 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29435.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E12" tvg-name="Embrujadas S01 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29436.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E13" tvg-name="Embrujadas S01 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29437.mkv
-#EXTINF:-1 tvg-id="Embrujadas S01 E14" tvg-name="Embrujadas S01 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29438.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E15" tvg-name="Embrujadas S01 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29439.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E16" tvg-name="Embrujadas S01 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29440.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E17" tvg-name="Embrujadas S01 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29441.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E18" tvg-name="Embrujadas S01 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29442.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E19" tvg-name="Embrujadas S01 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29443.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E20" tvg-name="Embrujadas S01 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29444.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E21" tvg-name="Embrujadas S01 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29445.mp4
-#EXTINF:-1 tvg-id="Embrujadas S01 E22" tvg-name="Embrujadas S01 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29446.mkv
-#EXTINF:-1 tvg-id="Embrujadas S02 E01" tvg-name="Embrujadas S02 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29272.mkv
-#EXTINF:-1 tvg-id="Embrujadas S02 E02" tvg-name="Embrujadas S02 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29273.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E03" tvg-name="Embrujadas S02 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29274.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E04" tvg-name="Embrujadas S02 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29275.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E05" tvg-name="Embrujadas S02 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29276.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E06" tvg-name="Embrujadas S02 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29277.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E07" tvg-name="Embrujadas S02 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29278.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E08" tvg-name="Embrujadas S02 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29279.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E09" tvg-name="Embrujadas S02 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29280.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E10" tvg-name="Embrujadas S02 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29281.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E11" tvg-name="Embrujadas S02 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29282.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E12" tvg-name="Embrujadas S02 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29283.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E13" tvg-name="Embrujadas S02 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29284.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E14" tvg-name="Embrujadas S02 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29285.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E15" tvg-name="Embrujadas S02 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29286.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E16" tvg-name="Embrujadas S02 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29287.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E17" tvg-name="Embrujadas S02 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29288.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E18" tvg-name="Embrujadas S02 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29289.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E19" tvg-name="Embrujadas S02 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29290.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E20" tvg-name="Embrujadas S02 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29291.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E21" tvg-name="Embrujadas S02 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29292.avi
-#EXTINF:-1 tvg-id="Embrujadas S02 E22" tvg-name="Embrujadas S02 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29293.mkv
-#EXTINF:-1 tvg-id="Embrujadas S03 E01" tvg-name="Embrujadas S03 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29294.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E02" tvg-name="Embrujadas S03 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29295.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E03" tvg-name="Embrujadas S03 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29296.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E04" tvg-name="Embrujadas S03 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29297.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E05" tvg-name="Embrujadas S03 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29298.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E06" tvg-name="Embrujadas S03 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29299.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E07" tvg-name="Embrujadas S03 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29300.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E08" tvg-name="Embrujadas S03 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29301.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E09" tvg-name="Embrujadas S03 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29302.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E10" tvg-name="Embrujadas S03 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29303.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E11" tvg-name="Embrujadas S03 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29304.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E12" tvg-name="Embrujadas S03 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29305.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E13" tvg-name="Embrujadas S03 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29306.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E14" tvg-name="Embrujadas S03 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29307.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E15" tvg-name="Embrujadas S03 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29308.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E16" tvg-name="Embrujadas S03 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29309.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E17" tvg-name="Embrujadas S03 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29310.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E18" tvg-name="Embrujadas S03 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29311.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E19" tvg-name="Embrujadas S03 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29312.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E20" tvg-name="Embrujadas S03 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29313.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E21" tvg-name="Embrujadas S03 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29314.avi
-#EXTINF:-1 tvg-id="Embrujadas S03 E22" tvg-name="Embrujadas S03 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29315.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E01" tvg-name="Embrujadas S04 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29316.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E02" tvg-name="Embrujadas S04 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29317.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E03" tvg-name="Embrujadas S04 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29318.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E04" tvg-name="Embrujadas S04 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29319.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E05" tvg-name="Embrujadas S04 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29320.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E06" tvg-name="Embrujadas S04 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29321.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E07" tvg-name="Embrujadas S04 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29322.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E08" tvg-name="Embrujadas S04 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29323.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E09" tvg-name="Embrujadas S04 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29324.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E10" tvg-name="Embrujadas S04 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29325.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E11" tvg-name="Embrujadas S04 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29326.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E12" tvg-name="Embrujadas S04 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29327.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E13" tvg-name="Embrujadas S04 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29328.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E14" tvg-name="Embrujadas S04 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29329.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E15" tvg-name="Embrujadas S04 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29330.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E16" tvg-name="Embrujadas S04 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29331.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E17" tvg-name="Embrujadas S04 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29332.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E18" tvg-name="Embrujadas S04 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29333.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E19" tvg-name="Embrujadas S04 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29334.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E20" tvg-name="Embrujadas S04 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29335.avi
-#EXTINF:-1 tvg-id="Embrujadas S04 E21" tvg-name="Embrujadas S04 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29336.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E01" tvg-name="Embrujadas S05 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29337.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E02" tvg-name="Embrujadas S05 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29338.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E03" tvg-name="Embrujadas S05 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29339.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E04" tvg-name="Embrujadas S05 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29340.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E05" tvg-name="Embrujadas S05 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29341.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E06" tvg-name="Embrujadas S05 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29342.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E07" tvg-name="Embrujadas S05 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29343.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E08" tvg-name="Embrujadas S05 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29344.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E09" tvg-name="Embrujadas S05 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29345.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E10" tvg-name="Embrujadas S05 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29346.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E11" tvg-name="Embrujadas S05 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29347.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E12" tvg-name="Embrujadas S05 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29348.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E13" tvg-name="Embrujadas S05 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29349.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E14" tvg-name="Embrujadas S05 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29350.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E15" tvg-name="Embrujadas S05 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29351.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E16" tvg-name="Embrujadas S05 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29352.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E17" tvg-name="Embrujadas S05 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29353.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E18" tvg-name="Embrujadas S05 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29354.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E19" tvg-name="Embrujadas S05 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29355.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E20" tvg-name="Embrujadas S05 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29356.avi
-#EXTINF:-1 tvg-id="Embrujadas S05 E21" tvg-name="Embrujadas S05 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29357.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E01" tvg-name="Embrujadas S06 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29358.mkv
-#EXTINF:-1 tvg-id="Embrujadas S06 E02" tvg-name="Embrujadas S06 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29359.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E03" tvg-name="Embrujadas S06 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29360.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E04" tvg-name="Embrujadas S06 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29361.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E05" tvg-name="Embrujadas S06 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29362.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E06" tvg-name="Embrujadas S06 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29363.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E07" tvg-name="Embrujadas S06 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29364.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E08" tvg-name="Embrujadas S06 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29365.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E09" tvg-name="Embrujadas S06 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29366.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E10" tvg-name="Embrujadas S06 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29367.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E11" tvg-name="Embrujadas S06 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29368.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E12" tvg-name="Embrujadas S06 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29369.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E13" tvg-name="Embrujadas S06 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29370.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E14" tvg-name="Embrujadas S06 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29371.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E15" tvg-name="Embrujadas S06 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29372.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E16" tvg-name="Embrujadas S06 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29373.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E17" tvg-name="Embrujadas S06 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29374.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E18" tvg-name="Embrujadas S06 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29375.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E19" tvg-name="Embrujadas S06 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29376.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E20" tvg-name="Embrujadas S06 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29377.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E21" tvg-name="Embrujadas S06 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29378.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E22" tvg-name="Embrujadas S06 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29379.avi
-#EXTINF:-1 tvg-id="Embrujadas S06 E23" tvg-name="Embrujadas S06 E23"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E23
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29380.mkv
-#EXTINF:-1 tvg-id="Embrujadas S07 E01" tvg-name="Embrujadas S07 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29381.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E02" tvg-name="Embrujadas S07 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29382.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E03" tvg-name="Embrujadas S07 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29383.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E04" tvg-name="Embrujadas S07 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29384.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E05" tvg-name="Embrujadas S07 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29385.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E06" tvg-name="Embrujadas S07 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29386.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E07" tvg-name="Embrujadas S07 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29387.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E08" tvg-name="Embrujadas S07 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29388.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E09" tvg-name="Embrujadas S07 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29389.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E10" tvg-name="Embrujadas S07 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29390.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E11" tvg-name="Embrujadas S07 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29391.mkv
-#EXTINF:-1 tvg-id="Embrujadas S07 E12" tvg-name="Embrujadas S07 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29392.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E13" tvg-name="Embrujadas S07 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29393.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E14" tvg-name="Embrujadas S07 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29394.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E15" tvg-name="Embrujadas S07 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29395.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E16" tvg-name="Embrujadas S07 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29396.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E17" tvg-name="Embrujadas S07 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29397.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E18" tvg-name="Embrujadas S07 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29398.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E19" tvg-name="Embrujadas S07 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29399.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E20" tvg-name="Embrujadas S07 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29400.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E21" tvg-name="Embrujadas S07 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29401.avi
-#EXTINF:-1 tvg-id="Embrujadas S07 E22" tvg-name="Embrujadas S07 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29402.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E01" tvg-name="Embrujadas S08 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29403.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E02" tvg-name="Embrujadas S08 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29404.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E03" tvg-name="Embrujadas S08 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29405.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E04" tvg-name="Embrujadas S08 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29406.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E05" tvg-name="Embrujadas S08 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29407.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E06" tvg-name="Embrujadas S08 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29408.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E07" tvg-name="Embrujadas S08 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29409.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E08" tvg-name="Embrujadas S08 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29410.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E09" tvg-name="Embrujadas S08 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29411.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E10" tvg-name="Embrujadas S08 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29412.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E11" tvg-name="Embrujadas S08 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29413.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E12" tvg-name="Embrujadas S08 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29414.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E13" tvg-name="Embrujadas S08 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29415.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E14" tvg-name="Embrujadas S08 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29416.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E15" tvg-name="Embrujadas S08 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29417.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E16" tvg-name="Embrujadas S08 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29418.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E17" tvg-name="Embrujadas S08 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29419.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E18" tvg-name="Embrujadas S08 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29420.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E19" tvg-name="Embrujadas S08 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29421.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E20" tvg-name="Embrujadas S08 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29422.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E21" tvg-name="Embrujadas S08 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29423.avi
-#EXTINF:-1 tvg-id="Embrujadas S08 E22" tvg-name="Embrujadas S08 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E22
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29424.avi
 #EXTINF:-1 tvg-id="Marvel's Capa y Punal S01 E01" tvg-name="Marvel's Capa y Punal S01 E01"  group-title="SERIES FICCION - FANTASIA",Marvel's Capa y Punal S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/12307.mkv
 #EXTINF:-1 tvg-id="Marvel's Capa y Punal S01 E02" tvg-name="Marvel's Capa y Punal S01 E02"  group-title="SERIES FICCION - FANTASIA",Marvel's Capa y Punal S01 E02
@@ -28969,6 +28329,8 @@ http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/49518.mkv
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/49519.mkv
 #EXTINF:-1 tvg-id="Seve (2021)" tvg-name="Seve (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnbmx93GzJeb2Q2KlbrszvwtYlT.jpg" group-title="VFLIX ESTRENOS",Seve (2021)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/49520.mkv
+#EXTINF:-1 tvg-id="Los Simpson: La buena el malo y Loki (2021)" tvg-name="Los Simpson: La buena el malo y Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg" group-title="VFLIX ESTRENOS",Los Simpson: La buena el malo y Loki (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/49521.mkv
 #EXTINF:-1 tvg-id="El hombre agua (2020)" tvg-name="El hombre agua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krupbFlSTnnKIjpRryrg2CTdeIL.jpg" group-title="VFLIX ESTRENOS",El hombre agua (2020)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/49522.mkv
 #EXTINF:-1 tvg-id="La magia de la Isla (2021)" tvg-name="La magia de la Isla (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZaXFQkLsyty136SBJJ2PKuTKEb.jpg" group-title="VFLIX ESTRENOS",La magia de la Isla (2021)
