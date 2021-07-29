@@ -225,8 +225,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/41046
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/30266
 #EXTINF:-1 tvg-id="24 Horas Prime Accion" tvg-name="UNIVERSO RAPIDOS Y FURIOSOS" group-title="24/7",UNIVERSO RAPIDOS Y FURIOSOS
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/41048
-#EXTINF:-1 tvg-id="UNIVERSO MOVIES TARANTINO" tvg-name="UNIVERSO SCARY MOVIE" group-title="24/7",UNIVERSO SCARY MOVIE
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/23950
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="UNIVERSO STAR WARS" group-title="24/7",UNIVERSO STAR WARS
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/41218
 #EXTINF:-1 tvg-id="24 Horas Prime Accion" tvg-name="UNIVERSO X-MEN" group-title="24/7",UNIVERSO X-MEN
@@ -285,6 +283,10 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1123
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/24478
 #EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HQ
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/40087
+#EXTINF:-1 tvg-id="CO RCN INTERNACIONAL HD" tvg-name="CO RCN INTERNACIONAL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HD
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51909
+#EXTINF:-1 tvg-id="CO RCN INTERNACIONAL FHD" tvg-name="CO RCN INTERNACIONAL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL FHD
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51908
 #EXTINF:-1 tvg-id="CO SENAL COLOMBIA HD" tvg-name="CO SENAL COLOMBIA HD" tvg-logo="https://seeklogo.com/images/S/senal-colombia-logo-B158E46E46-seeklogo.com.gif" group-title="COLOMBIA",CO SENAL COLOMBIA HD
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1124
 #EXTINF:-1 tvg-id="CO TELEANTOQUIA HD" tvg-name="CO TELEANTOQUIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBRY4kxOcRpLSq25LHRafULa_CHBq4qsbm2pdaxrRaYGr95Hw&s" group-title="COLOMBIA",CO TELEANTOQUIA HD
@@ -427,10 +429,14 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/29594
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/30425
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN SUR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1858
-#EXTINF:-1 tvg-id="ESPN SUR HD op2" tvg-name="ESPN SUR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD op2
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/47915
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR FHD
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1861
+#EXTINF:-1 tvg-id="ESPN AR HQ" tvg-name="ESPN AR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HQ
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/52033
+#EXTINF:-1 tvg-id="ESPN AR HD" tvg-name="ESPN AR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/47915
+#EXTINF:-1 tvg-id="ESPN AR HD op2" tvg-name="ESPN AR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD op2
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/52032
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/1797
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HD
@@ -995,8 +1001,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/30191
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2049
 #EXTINF:-1 tvg-id="YES NETWORK" tvg-name="YES NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",YES NETWORK
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/30196
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 12
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/40046
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/40047
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
@@ -1975,184 +1979,30 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/47231
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51077
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 2" tvg-name="DIRECTV SPORTS PPV 2"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51078
-#EXTINF:-1 tvg-id="Olympics Softball Mexico vs. Canada 2:00 AM EST ( NBCS)" tvg-name="Olympics Softball Mexico vs. Canada 2:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball Mexico vs. Canada 2:00 AM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50988
-#EXTINF:-1 tvg-id="Olympics Women's Soccer Great Britain vs. Chile 3:30 AM EST ( OLYC)" tvg-name="Olympics Women's Soccer Great Britain vs. Chile 3:30 AM EST ( OLYC)"  group-title="EVENTOS PPV",Olympics Women's Soccer Great Britain vs. Chile 3:30 AM EST ( OLYC)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50989
-#EXTINF:-1 tvg-id="Olympics Women's Soccer China vs. Brazil 4:00 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer China vs. Brazil 4:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer China vs. Brazil 4:00 AM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50990
-#EXTINF:-1 tvg-id="Tennis (Pro) ATP/WTA Gdynia-WTA Early Rounds 4:30 AM EST ( TNNS)" tvg-name="Tennis (Pro) ATP/WTA Gdynia-WTA Early Rounds 4:30 AM EST ( TNNS)"  group-title="EVENTOS PPV",Tennis (Pro) ATP/WTA Gdynia-WTA Early Rounds 4:30 AM EST ( TNNS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50991
-#EXTINF:-1 tvg-id="Olympics Women's Soccer Sweden vs. U.S. 4:30 AM EST ( USA)" tvg-name="Olympics Women's Soccer Sweden vs. U.S. 4:30 AM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Olympics Women's Soccer Sweden vs. U.S. 4:30 AM EST ( USA)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50992
-#EXTINF:-1 tvg-id="Juegos Olimpicos de Tokyo 2020 5:00 AM EST ( TELe)" tvg-name="Juegos Olimpicos de Tokyo 2020 5:00 AM EST ( TELe)"  group-title="EVENTOS PPV",Juegos Olimpicos de Tokyo 2020 5:00 AM EST ( TELe)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50993
-#EXTINF:-1 tvg-id="Olympics 2020 Tokyo Olympics 6:00 AM EST ( NBCS)" tvg-name="Olympics 2020 Tokyo Olympics 6:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics 2020 Tokyo Olympics 6:00 AM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50994
-#EXTINF:-1 tvg-id="Olympics Women's Soccer Japan vs. Canada 6:30 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer Japan vs. Canada 6:30 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer Japan vs. Canada 6:30 AM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50995
-#EXTINF:-1 tvg-id="Olympics Women's Soccer Zambia vs. Netherlands 7:00 AM EST ( OLYC)" tvg-name="Olympics Women's Soccer Zambia vs. Netherlands 7:00 AM EST ( OLYC)"  group-title="EVENTOS PPV",Olympics Women's Soccer Zambia vs. Netherlands 7:00 AM EST ( OLYC)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50996
-#EXTINF:-1 tvg-id="Olympics Women's Soccer Australia vs. New Zealand 7:30 AM EST ( USA)" tvg-name="Olympics Women's Soccer Australia vs. New Zealand 7:30 AM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Olympics Women's Soccer Australia vs. New Zealand 7:30 AM EST ( USA)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50997
-#EXTINF:-1 tvg-id="Olympics Women's Soccer Sweden vs. U.S. 8:30 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer Sweden vs. U.S. 8:30 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer Sweden vs. U.S. 8:30 AM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50998
-#EXTINF:-1 tvg-id="Olympics Women's Soccer China vs. Brazil 10:30 AM EST ( NBCS)" tvg-name="Olympics Women's Soccer China vs. Brazil 10:30 AM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Women's Soccer China vs. Brazil 10:30 AM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/50999
-#EXTINF:-1 tvg-id="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10 PM EST ( MLB)" tvg-name="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51000
-#EXTINF:-1 tvg-id="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20 PM EST ( MLB)" tvg-name="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) San Diego Padres at Atlanta Braves 12:20 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51001
-#EXTINF:-1 tvg-id="Baseball (MLB) New York Mets at Cincinnati Reds 12:35 PM EST ( MLBa)" tvg-name="Baseball (MLB) New York Mets at Cincinnati Reds 12:35 PM EST ( MLBa)"  group-title="EVENTOS PPV",Baseball (MLB) New York Mets at Cincinnati Reds 12:35 PM EST ( MLBa)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51002
-#EXTINF:-1 tvg-id="Horse Racing Saratoga Live 1:00 PM EST ( FS2)" tvg-name="Horse Racing Saratoga Live 1:00 PM EST ( FS2)"  group-title="EVENTOS PPV",Horse Racing Saratoga Live 1:00 PM EST ( FS2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51003
-#EXTINF:-1 tvg-id="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10 PM EST ( MLB)" tvg-name="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51004
-#EXTINF:-1 tvg-id="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10 PM EST ( MLBa)" tvg-name="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10 PM EST ( MLBa)"  group-title="EVENTOS PPV",Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10 PM EST ( MLBa)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51005
-#EXTINF:-1 tvg-id="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40 PM EST ( MLB)" tvg-name="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51006
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07 PM EST ( MLB)" tvg-name="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51007
-#EXTINF:-1 tvg-id="Soccer (MLS) New York Red Bulls at Toronto FC 7:30 PM EST ( MLS)" tvg-name="Soccer (MLS) New York Red Bulls at Toronto FC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) New York Red Bulls at Toronto FC 7:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51008
-#EXTINF:-1 tvg-id="Soccer (MLS) Nashville SC at Columbus Crew SC 7:30 PM EST ( MLS)" tvg-name="Soccer (MLS) Nashville SC at Columbus Crew SC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Nashville SC at Columbus Crew SC 7:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51009
-#EXTINF:-1 tvg-id="Tennis (Pro) ATP Mifel Open Early Rounds 8:00 PM EST ( TNNS)" tvg-name="Tennis (Pro) ATP Mifel Open Early Rounds 8:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",Tennis (Pro) ATP Mifel Open Early Rounds 8:00 PM EST ( TNNS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51010
-#EXTINF:-1 tvg-id="Olympics Softball U.S. vs. Canada 8:00 PM EST ( NBCS)" tvg-name="Olympics Softball U.S. vs. Canada 8:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball U.S. vs. Canada 8:00 PM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51011
-#EXTINF:-1 tvg-id="Wrestling AEW PLUS Jon Moxley vs. Lance Archer 8:00 PM EST ( TNT)" tvg-name="Wrestling AEW PLUS Jon Moxley vs. Lance Archer 8:00 PM EST ( TNT)"  group-title="EVENTOS PPV",Wrestling AEW PLUS Jon Moxley vs. Lance Archer 8:00 PM EST ( TNT)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51012
-#EXTINF:-1 tvg-id="Soccer (MLS) Atlanta United FC at FC Cincinnati 8:00 PM EST ( FOXD)" tvg-name="Soccer (MLS) Atlanta United FC at FC Cincinnati 8:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",Soccer (MLS) Atlanta United FC at FC Cincinnati 8:00 PM EST ( FOXD)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51013
-#EXTINF:-1 tvg-id="Soccer (MLS) D.C. United at Chicago Fire 8:00 PM EST ( MLS)" tvg-name="Soccer (MLS) D.C. United at Chicago Fire 8:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) D.C. United at Chicago Fire 8:00 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51014
-#EXTINF:-1 tvg-id="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15 PM EST ( ESPN)" tvg-name="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15 PM EST ( ESPN)"  group-title="EVENTOS PPV",Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15 PM EST ( ESPN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51015
-#EXTINF:-1 tvg-id="Soccer (MLS) San Jose Earthquakes at Sporting Kansas City 8:30 PM EST ( MLS)" tvg-name="Soccer (MLS) San Jose Earthquakes at Sporting Kansas City 8:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) San Jose Earthquakes at Sporting Kansas City 8:30 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51016
-#EXTINF:-1 tvg-id="Soccer (MLS) FC Dallas at Colorado Rapids 9:00 PM EST ( MLS)" tvg-name="Soccer (MLS) FC Dallas at Colorado Rapids 9:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) FC Dallas at Colorado Rapids 9:00 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51017
-#EXTINF:-1 tvg-id="Soccer (MLS) Real Salt Lake at Los Angeles Galaxy 10:00 PM EST ( MLS)" tvg-name="Soccer (MLS) Real Salt Lake at Los Angeles Galaxy 10:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Real Salt Lake at Los Angeles Galaxy 10:00 PM EST ( MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51018
-#EXTINF:-1 tvg-id="Soccer (MLS) Los Angeles FC at Portland Timbers 10:30 PM EST ( FS1)" tvg-name="Soccer (MLS) Los Angeles FC at Portland Timbers 10:30 PM EST ( FS1)"  group-title="EVENTOS PPV",Soccer (MLS) Los Angeles FC at Portland Timbers 10:30 PM EST ( FS1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51019
-#EXTINF:-1 tvg-id="Olympics Softball Japan vs. Mexico 11:00 PM EST ( NBCS)" tvg-name="Olympics Softball Japan vs. Mexico 11:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball Japan vs. Mexico 11:00 PM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51020
-#EXTINF:-1 tvg-id="Soccer (CopaOro) Costa Rica vs Jamaica 7:00 PM EST ( Az7)" tvg-name="Soccer (CopaOro) Costa Rica vs Jamaica 7:00 PM EST ( Az7)"  group-title="EVENTOS PPV",Soccer (CopaOro) Costa Rica vs Jamaica 7:00 PM EST ( Az7)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51021
-#EXTINF:-1 tvg-id="Soccer (CopaOro) Honduras vs Qatar 9:00 PM EST ( C5)" tvg-name="Soccer (CopaOro) Honduras vs Qatar 9:00 PM EST ( C5)"  group-title="EVENTOS PPV",Soccer (CopaOro) Honduras vs Qatar 9:00 PM EST ( C5)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51022
-#EXTINF:-1 tvg-id="Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)" tvg-name="Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)"  group-title="EVENTOS PPV",Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51023
-#EXTINF:-1 tvg-id="Olympics Softball Italy vs. U.S. 11:00 PM EST ( NBCS)" tvg-name="Olympics Softball Italy vs. U.S. 11:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",Olympics Softball Italy vs. U.S. 11:00 PM EST ( NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51024
-#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-name="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51025
-#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (SNE)" tvg-name="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (SNE)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (SNE)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51026
-#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-name="Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51027
-#EXTINF:-1 tvg-id="WEDNESDAY LIVE" tvg-name="WEDNESDAY LIVE"  group-title="EVENTOS PPV",WEDNESDAY LIVE
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51028
-#EXTINF:-1 tvg-id="Tennis (PRO) Swiss Open 4:30am EST (TNNS)" tvg-name="Tennis (PRO) Swiss Open 4:30am EST (TNNS)"  group-title="EVENTOS PPV",Tennis (PRO) Swiss Open 4:30am EST (TNNS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51029
-#EXTINF:-1 tvg-id="Olympic Channel News Multi-Sport Coverage 9:00am EST (OLY)" tvg-name="Olympic Channel News Multi-Sport Coverage 9:00am EST (OLY)"  group-title="EVENTOS PPV",Olympic Channel News Multi-Sport Coverage 9:00am EST (OLY)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51030
-#EXTINF:-1 tvg-id="Wrestling (AEW) All Elite Wrestling Dynamite 8:00pm EST (TNT)" tvg-name="Wrestling (AEW) All Elite Wrestling Dynamite 8:00pm EST (TNT)"  group-title="EVENTOS PPV",Wrestling (AEW) All Elite Wrestling Dynamite 8:00pm EST (TNT)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51031
-#EXTINF:-1 tvg-id="Olympics Softball U.S. vs. Canada 8:00pm EST (NBCS)" tvg-name="Olympics Softball U.S. vs. Canada 8:00pm EST (NBCS)"  group-title="EVENTOS PPV",Olympics Softball U.S. vs. Canada 8:00pm EST (NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51032
-#EXTINF:-1 tvg-id="Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)" tvg-name="Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)"  group-title="EVENTOS PPV",Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51033
-#EXTINF:-1 tvg-id="MLB WEDNESDAY" tvg-name="MLB WEDNESDAY"  group-title="EVENTOS PPV",MLB WEDNESDAY
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51034
-#EXTINF:-1 tvg-id="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10pm EST" tvg-name="Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Baltimore Orioles at Tampa Bay Rays 12:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51035
-#EXTINF:-1 tvg-id="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20pm EST (Gm 1)" tvg-name="Baseball (MLB) San Diego Padres at Atlanta Braves 12:20pm EST (Gm 1)"  group-title="EVENTOS PPV",Baseball (MLB) San Diego Padres at Atlanta Braves 12:20pm EST (Gm 1)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51036
-#EXTINF:-1 tvg-id="Baseball (MLB) New York Mets at Cincinnati Reds 12:35pm EST" tvg-name="Baseball (MLB) New York Mets at Cincinnati Reds 12:35pm EST"  group-title="EVENTOS PPV",Baseball (MLB) New York Mets at Cincinnati Reds 12:35pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51037
-#EXTINF:-1 tvg-id="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10pm EST" tvg-name="Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Kansas City Royals at Milwaukee Brewers 2:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51038
-#EXTINF:-1 tvg-id="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10pm EST" tvg-name="Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Seattle Mariners at Colorado Rockies 3:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51039
-#EXTINF:-1 tvg-id="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40pm EST" tvg-name="Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Pittsburgh Pirates at Arizona Diamondbacks 3:40pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51040
-#EXTINF:-1 tvg-id="Baseball (MLB) San Diego Padres at Atlanta Braves 5:20pm EST (Gm 2)" tvg-name="Baseball (MLB) San Diego Padres at Atlanta Braves 5:20pm EST (Gm 2)"  group-title="EVENTOS PPV",Baseball (MLB) San Diego Padres at Atlanta Braves 5:20pm EST (Gm 2)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51041
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07pm EST" tvg-name="Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Toronto Blue Jays 7:07pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51042
-#EXTINF:-1 tvg-id="Baseball (MLB) Philadelphia Phillies at New York Yankees 7:05pm EST" tvg-name="Baseball (MLB) Philadelphia Phillies at New York Yankees 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Philadelphia Phillies at New York Yankees 7:05pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51043
-#EXTINF:-1 tvg-id="Baseball (MLB) Miami Marlins at Washington Nationals 7:05pm EST" tvg-name="Baseball (MLB) Miami Marlins at Washington Nationals 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Miami Marlins at Washington Nationals 7:05pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51044
-#EXTINF:-1 tvg-id="Baseball (MLB) Texas Rangers at Detroit Tigers 7:10pm EST" tvg-name="Baseball (MLB) Texas Rangers at Detroit Tigers 7:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Texas Rangers at Detroit Tigers 7:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51045
-#EXTINF:-1 tvg-id="Baseball (MLB) Minnesota Twins at Chicago White Sox 8:10pm EST" tvg-name="Baseball (MLB) Minnesota Twins at Chicago White Sox 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Minnesota Twins at Chicago White Sox 8:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51046
-#EXTINF:-1 tvg-id="Baseball (MLB) Cleveland Indians at Houston Astros 8:10pm EST" tvg-name="Baseball (MLB) Cleveland Indians at Houston Astros 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Cleveland Indians at Houston Astros 8:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51047
-#EXTINF:-1 tvg-id="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15pm EST" tvg-name="Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Chicago Cubs at St. Louis Cardinals 8:15pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51048
-#EXTINF:-1 tvg-id="Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST" tvg-name="Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51049
-#EXTINF:-1 tvg-id="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)" tvg-name="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)"  group-title="EVENTOS PPV",Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51050
-#EXTINF:-1 tvg-id="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)" tvg-name="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)"  group-title="EVENTOS PPV",Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51051
-#EXTINF:-1 tvg-id="Soccer (MLS) Inter Miami vs. New England 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) Inter Miami vs. New England 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Inter Miami vs. New England 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51052
-#EXTINF:-1 tvg-id="Soccer (MLS) Columbus Crew vs. Nashville SC 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) Columbus Crew vs. Nashville SC 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Columbus Crew vs. Nashville SC 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51053
-#EXTINF:-1 tvg-id="Soccer (MLS) Toronto FC vs. New York RB 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) Toronto FC vs. New York RB 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Toronto FC vs. New York RB 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51054
-#EXTINF:-1 tvg-id="Soccer (MLS) New York City vs. CF Montreal 7:30 pm EST (MLS)" tvg-name="Soccer (MLS) New York City vs. CF Montreal 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) New York City vs. CF Montreal 7:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51055
-#EXTINF:-1 tvg-id="Soccer (MLS) Cincinnati vs. Atlanta United 8:00 pm EST (MLS)" tvg-name="Soccer (MLS) Cincinnati vs. Atlanta United 8:00 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Cincinnati vs. Atlanta United 8:00 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51056
-#EXTINF:-1 tvg-id="Soccer (MLS) Chicago Fire vs. DC United 8:00 pm EST (MLS)" tvg-name="Soccer (MLS) Chicago Fire vs. DC United 8:00 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Chicago Fire vs. DC United 8:00 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51057
-#EXTINF:-1 tvg-id="Soccer (MLS) Sporting KC vs. SJ Earthquakes 8:30 pm EST (MLS)" tvg-name="Soccer (MLS) Sporting KC vs. SJ Earthquakes 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Sporting KC vs. SJ Earthquakes 8:30 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51058
-#EXTINF:-1 tvg-id="Soccer (MLS) Colorado Rapids vs. Dallas 9:00 pm EST (MLS)" tvg-name="Soccer (MLS) Colorado Rapids vs. Dallas 9:00 pm EST (MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Colorado Rapids vs. Dallas 9:00 pm EST (MLS)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51059
-#EXTINF:-1 tvg-id="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ENG)" tvg-name="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51060
-#EXTINF:-1 tvg-id="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ESP)" tvg-name="Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (MLS) Real Salt Lake vs. LA Galaxy 10:00 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51061
-#EXTINF:-1 tvg-id="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ENG)" tvg-name="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51062
-#EXTINF:-1 tvg-id="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ESP)" tvg-name="Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (MLS) Portland Timbers vs. Los Angeles FC 10:30 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51063
-#EXTINF:-1 tvg-id="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ENG)" tvg-name="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ENG)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51064
-#EXTINF:-1 tvg-id="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ESP)" tvg-name="Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (GoldCup) Panama vs. Grenada 9:00 pm EST (ESP)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51065
-#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Palmeiras vs. Universidad Catolica 6:15 pm EST (beINn)" tvg-name="Soccer (Copa Libertadores) Palmeiras vs. Universidad Catolica 6:15 pm EST (beINn)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Palmeiras vs. Universidad Catolica 6:15 pm EST (beINn)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51066
-#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Barcelona vs. Velez Sarsfield 6:15 pm EST (beIN)" tvg-name="Soccer (Copa Libertadores) Barcelona vs. Velez Sarsfield 6:15 pm EST (beIN)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Barcelona vs. Velez Sarsfield 6:15 pm EST (beIN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51067
-#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Argentinos Juniors vs. River Plate 8:30 pm EST (beINn)" tvg-name="Soccer (Copa Libertadores) Argentinos Juniors vs. River Plate 8:30 pm EST (beINn)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Argentinos Juniors vs. River Plate 8:30 pm EST (beINn)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51068
-#EXTINF:-1 tvg-id="Soccer (Copa Libertadores) Flamengo vs. Defensa Y Justicia 8:30 pm EST (beIN)" tvg-name="Soccer (Copa Libertadores) Flamengo vs. Defensa Y Justicia 8:30 pm EST (beIN)"  group-title="EVENTOS PPV",Soccer (Copa Libertadores) Flamengo vs. Defensa Y Justicia 8:30 pm EST (beIN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51069
-#EXTINF:-1 tvg-id="Soccer (WSoccer) Great Britain vs. Chile 3:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Great Britain vs. Chile 3:30 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Great Britain vs. Chile 3:30 am EST (WSoccer)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51070
-#EXTINF:-1 tvg-id="Soccer (WSoccer) China vs. Brazil 4:00 am EST (WSoccer)" tvg-name="Soccer (WSoccer) China vs. Brazil 4:00 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) China vs. Brazil 4:00 am EST (WSoccer)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51071
-#EXTINF:-1 tvg-id="Soccer (WSoccer) Sweden vs. USA 4:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Sweden vs. USA 4:30 am EST (WSoccer)" tvg-logo="" group-title="EVENTOS PPV",Soccer (WSoccer) Sweden vs. USA 4:30 am EST (WSoccer)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51072
-#EXTINF:-1 tvg-id="Soccer (WSoccer) Japan vs. Canada 6:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Japan vs. Canada 6:30 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Japan vs. Canada 6:30 am EST (WSoccer)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51073
-#EXTINF:-1 tvg-id="Soccer (WSoccer) Zambia vs. Netherlands 7:00 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Zambia vs. Netherlands 7:00 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Zambia vs. Netherlands 7:00 am EST (WSoccer)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51074
-#EXTINF:-1 tvg-id="Soccer (WSoccer) Australia vs. New Zealand 7:30 am EST (WSoccer)" tvg-name="Soccer (WSoccer) Australia vs. New Zealand 7:30 am EST (WSoccer)"  group-title="EVENTOS PPV",Soccer (WSoccer) Australia vs. New Zealand 7:30 am EST (WSoccer)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51075
-#EXTINF:-1 tvg-id="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)" tvg-name="Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)"  group-title="EVENTOS PPV",Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51076
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51680
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 1 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 1 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 1 HD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51904
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51684
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51681
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 2 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 2 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 2 HD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51905
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51685
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51682
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 3 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 3 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 3 HD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51906
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51686
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51683
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 HD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51907
+#EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)
+http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/51687
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2295,8 +2145,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42918
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42919
 #EXTINF:-1 tvg-id="IL Disney Jr" tvg-name="IL Disney Jr"  group-title="ISRAEL",IL Disney Jr
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42921
-#EXTINF:-1 tvg-id="IL E!" tvg-name="IL E!"  group-title="ISRAEL",IL E!
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42922
 #EXTINF:-1 tvg-id="IL Ego Total" tvg-name="IL Ego Total"  group-title="ISRAEL",IL Ego Total
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42923
 #EXTINF:-1 tvg-id="IL Food Channel" tvg-name="IL Food Channel"  group-title="ISRAEL",IL Food Channel
@@ -2319,8 +2167,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42934
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42935
 #EXTINF:-1 tvg-id="IL Hot HBO" tvg-name="IL Hot HBO"  group-title="ISRAEL",IL Hot HBO
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42936
-#EXTINF:-1 tvg-id="IL Hot Kidz" tvg-name="IL Hot Kidz"  group-title="ISRAEL",IL Hot Kidz
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42937
 #EXTINF:-1 tvg-id="IL Hot Zone" tvg-name="IL Hot Zone"  group-title="ISRAEL",IL Hot Zone
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42938
 #EXTINF:-1 tvg-id="IL Hot3" tvg-name="IL Hot3"  group-title="ISRAEL",IL Hot3
@@ -2331,12 +2177,8 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42940
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42941
 #EXTINF:-1 tvg-id="IL Luli" tvg-name="IL Luli"  group-title="ISRAEL",IL Luli
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42942
-#EXTINF:-1 tvg-id="IL NatGeo" tvg-name="IL NatGeo"  group-title="ISRAEL",IL NatGeo
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42943
 #EXTINF:-1 tvg-id="IL Nick Jr" tvg-name="IL Nick Jr"  group-title="ISRAEL",IL Nick Jr
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42944
-#EXTINF:-1 tvg-id="IL Nickelodeon" tvg-name="IL Nickelodeon"  group-title="ISRAEL",IL Nickelodeon
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42945
 #EXTINF:-1 tvg-id="IL Sport 1" tvg-name="IL Sport 1"  group-title="ISRAEL",IL Sport 1
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42946
 #EXTINF:-1 tvg-id="IL Sport 2" tvg-name="IL Sport 2"  group-title="ISRAEL",IL Sport 2
@@ -2345,8 +2187,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42947
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42948
 #EXTINF:-1 tvg-id="IL Sport 4" tvg-name="IL Sport 4"  group-title="ISRAEL",IL Sport 4
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42949
-#EXTINF:-1 tvg-id="IL Sport 5 Gold" tvg-name="IL Sport 5 Gold"  group-title="ISRAEL",IL Sport 5 Gold
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42951
 #EXTINF:-1 tvg-id="IL Sport 5 Live" tvg-name="IL Sport 5 Live"  group-title="ISRAEL",IL Sport 5 Live
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42952
 #EXTINF:-1 tvg-id="IL Sport 5 Stars" tvg-name="IL Sport 5 Stars"  group-title="ISRAEL",IL Sport 5 Stars
@@ -2363,14 +2203,10 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42958
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42959
 #EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42960
-#EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42961
 #EXTINF:-1 tvg-id="IL ZOOM" tvg-name="IL ZOOM"  group-title="ISRAEL",IL ZOOM
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42970
 #EXTINF:-1 tvg-id="IL Hot Bollywood" tvg-name="IL Hot Bollywood"  group-title="ISRAEL",IL Hot Bollywood
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42971
-#EXTINF:-1 tvg-id="IL Hidabrot" tvg-name="IL Hidabrot"  group-title="ISRAEL",IL Hidabrot
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42972
 #EXTINF:-1 tvg-id="IL Kabal" tvg-name="IL Kabal"  group-title="ISRAEL",IL Kabal
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/42973
 #EXTINF:-1 tvg-id="IL Mikan" tvg-name="IL Mikan"  group-title="ISRAEL",IL Mikan
@@ -3713,8 +3549,6 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/355
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/354
 #EXTINF:-1 tvg-id="Telemundo Fresno" tvg-name="Telemundo Fresno" tvg-logo="" group-title="USA LATINO",Telemundo Fresno
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/353
-#EXTINF:-1 tvg-id="Telemundo Harlingen" tvg-name="Telemundo Harlingen" tvg-logo="" group-title="USA LATINO",Telemundo Harlingen
-http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/352
 #EXTINF:-1 tvg-id="Telemundo Houston" tvg-name="Telemundo Houston" tvg-logo="" group-title="USA LATINO",Telemundo Houston
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/351
 #EXTINF:-1 tvg-id="Telemundo HD" tvg-name="Telemundo Internacional" tvg-logo="" group-title="USA LATINO",Telemundo Internacional
@@ -3839,6 +3673,8 @@ http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/30351
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/30350
 #EXTINF:-1 tvg-id="Univision West" tvg-name="Univision West" tvg-logo="" group-title="USA LATINO",Univision West
 http://xdgo.live:8080/35_jhonsalas_d/znE6wsjSkS/385
+#EXTINF:-1 tvg-id="Fast & Furious 9 4K (2021)" tvg-name="Fast & Furious 9 4K (2021)"  group-title="VFLIX 4K",Fast & Furious 9 4K (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/52066.mkv
 #EXTINF:-1 tvg-id="Godzilla vs. Kong (2021) 4K" tvg-name="Godzilla vs. Kong (2021) 4K"  group-title="VFLIX 4K",Godzilla vs. Kong (2021) 4K
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/46140.mkv
 #EXTINF:-1 tvg-id="Mortal Kombat (2021) 4K" tvg-name="Mortal Kombat (2021) 4K"  group-title="VFLIX 4K",Mortal Kombat (2021) 4K
@@ -14019,6 +13855,50 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/11351.mp4
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/11352.mp4
 #EXTINF:-1 tvg-id="Hakan, el protector S01 E10" tvg-name="Hakan, el protector S01 E10"  group-title="SERIES ACCION",Hakan, el protector S01 E10
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/11353.mp4
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E01" tvg-name="Hakan, el protector S02 E01"  group-title="SERIES ACCION",Hakan, el protector S02 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51490.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E02" tvg-name="Hakan, el protector S02 E02"  group-title="SERIES ACCION",Hakan, el protector S02 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51491.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E03" tvg-name="Hakan, el protector S02 E03"  group-title="SERIES ACCION",Hakan, el protector S02 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51492.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E04" tvg-name="Hakan, el protector S02 E04"  group-title="SERIES ACCION",Hakan, el protector S02 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51493.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E05" tvg-name="Hakan, el protector S02 E05"  group-title="SERIES ACCION",Hakan, el protector S02 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51494.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E06" tvg-name="Hakan, el protector S02 E06"  group-title="SERIES ACCION",Hakan, el protector S02 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51495.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E07" tvg-name="Hakan, el protector S02 E07"  group-title="SERIES ACCION",Hakan, el protector S02 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51496.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E08" tvg-name="Hakan, el protector S02 E08"  group-title="SERIES ACCION",Hakan, el protector S02 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51497.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E01" tvg-name="Hakan, el protector S03 E01"  group-title="SERIES ACCION",Hakan, el protector S03 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51498.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E02" tvg-name="Hakan, el protector S03 E02"  group-title="SERIES ACCION",Hakan, el protector S03 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51499.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E03" tvg-name="Hakan, el protector S03 E03"  group-title="SERIES ACCION",Hakan, el protector S03 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51500.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E04" tvg-name="Hakan, el protector S03 E04"  group-title="SERIES ACCION",Hakan, el protector S03 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51501.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E05" tvg-name="Hakan, el protector S03 E05"  group-title="SERIES ACCION",Hakan, el protector S03 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51502.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E06" tvg-name="Hakan, el protector S03 E06"  group-title="SERIES ACCION",Hakan, el protector S03 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51503.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E07" tvg-name="Hakan, el protector S03 E07"  group-title="SERIES ACCION",Hakan, el protector S03 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51504.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E01" tvg-name="Hakan, el protector S04 E01"  group-title="SERIES ACCION",Hakan, el protector S04 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51505.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E02" tvg-name="Hakan, el protector S04 E02"  group-title="SERIES ACCION",Hakan, el protector S04 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51506.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E03" tvg-name="Hakan, el protector S04 E03"  group-title="SERIES ACCION",Hakan, el protector S04 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51507.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E04" tvg-name="Hakan, el protector S04 E04"  group-title="SERIES ACCION",Hakan, el protector S04 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51508.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E05" tvg-name="Hakan, el protector S04 E05"  group-title="SERIES ACCION",Hakan, el protector S04 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51509.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E06" tvg-name="Hakan, el protector S04 E06"  group-title="SERIES ACCION",Hakan, el protector S04 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51510.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E07" tvg-name="Hakan, el protector S04 E07"  group-title="SERIES ACCION",Hakan, el protector S04 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51511.mkv
 #EXTINF:-1 tvg-id="Marvel - The Punisher S01 E01" tvg-name="Marvel - The Punisher S01 E01"  group-title="SERIES ACCION",Marvel - The Punisher S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/11354.mp4
 #EXTINF:-1 tvg-id="Marvel - The Punisher S01 E02" tvg-name="Marvel - The Punisher S01 E02"  group-title="SERIES ACCION",Marvel - The Punisher S01 E02
@@ -17871,6 +17751,20 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29049.mp4
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29050.mp4
 #EXTINF:-1 tvg-id="De viaje con los Derbez S01 E09" tvg-name="De viaje con los Derbez S01 E09"  group-title="SERIES COMEDIA",De viaje con los Derbez S01 E09
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/29051.mp4
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E01" tvg-name="De viaje con los Derbez S02 E01"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51415.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E02" tvg-name="De viaje con los Derbez S02 E02"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51416.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E03" tvg-name="De viaje con los Derbez S02 E03"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51417.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E04" tvg-name="De viaje con los Derbez S02 E04"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51418.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E05" tvg-name="De viaje con los Derbez S02 E05"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51419.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E06" tvg-name="De viaje con los Derbez S02 E06"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51420.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E07" tvg-name="De viaje con los Derbez S02 E07"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51421.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E01" tvg-name="Como sobrevivir soltero S01 E01"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/30028.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E02" tvg-name="Como sobrevivir soltero S01 E02"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E02
@@ -18426,49 +18320,113 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8631.mkv
 #EXTINF:-1 tvg-id="Monzon S01 E03" tvg-name="Monzon S01 E03"  group-title="SERIES DRAMA",Monzon S01 E03
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8632.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E01" tvg-name="New Amsterdam S01 E01"  group-title="SERIES DRAMA",New Amsterdam S01 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8644.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E02" tvg-name="New Amsterdam S01 E02"  group-title="SERIES DRAMA",New Amsterdam S01 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8654.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E03" tvg-name="New Amsterdam S01 E03"  group-title="SERIES DRAMA",New Amsterdam S01 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8653.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E04" tvg-name="New Amsterdam S01 E04"  group-title="SERIES DRAMA",New Amsterdam S01 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8652.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E05" tvg-name="New Amsterdam S01 E05"  group-title="SERIES DRAMA",New Amsterdam S01 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8651.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E06" tvg-name="New Amsterdam S01 E06"  group-title="SERIES DRAMA",New Amsterdam S01 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8650.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E07" tvg-name="New Amsterdam S01 E07"  group-title="SERIES DRAMA",New Amsterdam S01 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8649.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E08" tvg-name="New Amsterdam S01 E08"  group-title="SERIES DRAMA",New Amsterdam S01 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8648.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E09" tvg-name="New Amsterdam S01 E09"  group-title="SERIES DRAMA",New Amsterdam S01 E09
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8647.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E02" tvg-name="New Amsterdam S01 E02"  group-title="SERIES DRAMA",New Amsterdam S01 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8633.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E03" tvg-name="New Amsterdam S01 E03"  group-title="SERIES DRAMA",New Amsterdam S01 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8654.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E04" tvg-name="New Amsterdam S01 E04"  group-title="SERIES DRAMA",New Amsterdam S01 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8653.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E05" tvg-name="New Amsterdam S01 E05"  group-title="SERIES DRAMA",New Amsterdam S01 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8652.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E06" tvg-name="New Amsterdam S01 E06"  group-title="SERIES DRAMA",New Amsterdam S01 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8651.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E07" tvg-name="New Amsterdam S01 E07"  group-title="SERIES DRAMA",New Amsterdam S01 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8650.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E08" tvg-name="New Amsterdam S01 E08"  group-title="SERIES DRAMA",New Amsterdam S01 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8649.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E09" tvg-name="New Amsterdam S01 E09"  group-title="SERIES DRAMA",New Amsterdam S01 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8648.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E10" tvg-name="New Amsterdam S01 E10"  group-title="SERIES DRAMA",New Amsterdam S01 E10
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8646.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E11" tvg-name="New Amsterdam S01 E11"  group-title="SERIES DRAMA",New Amsterdam S01 E11
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8645.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E12" tvg-name="New Amsterdam S01 E12"  group-title="SERIES DRAMA",New Amsterdam S01 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8633.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E13" tvg-name="New Amsterdam S01 E13"  group-title="SERIES DRAMA",New Amsterdam S01 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8643.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E14" tvg-name="New Amsterdam S01 E14"  group-title="SERIES DRAMA",New Amsterdam S01 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8642.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E15" tvg-name="New Amsterdam S01 E15"  group-title="SERIES DRAMA",New Amsterdam S01 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8641.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E16" tvg-name="New Amsterdam S01 E16"  group-title="SERIES DRAMA",New Amsterdam S01 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8640.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E17" tvg-name="New Amsterdam S01 E17"  group-title="SERIES DRAMA",New Amsterdam S01 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8639.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E18" tvg-name="New Amsterdam S01 E18"  group-title="SERIES DRAMA",New Amsterdam S01 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8638.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E19" tvg-name="New Amsterdam S01 E19"  group-title="SERIES DRAMA",New Amsterdam S01 E19
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8637.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E20" tvg-name="New Amsterdam S01 E20"  group-title="SERIES DRAMA",New Amsterdam S01 E20
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8636.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E21" tvg-name="New Amsterdam S01 E21"  group-title="SERIES DRAMA",New Amsterdam S01 E21
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8635.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E22" tvg-name="New Amsterdam S01 E22"  group-title="SERIES DRAMA",New Amsterdam S01 E22
+#EXTINF:-1 tvg-id="New Amsterdam S01 E13" tvg-name="New Amsterdam S01 E13"  group-title="SERIES DRAMA",New Amsterdam S01 E13
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8634.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E14" tvg-name="New Amsterdam S01 E14"  group-title="SERIES DRAMA",New Amsterdam S01 E14
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8635.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E15" tvg-name="New Amsterdam S01 E15"  group-title="SERIES DRAMA",New Amsterdam S01 E15
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8636.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E16" tvg-name="New Amsterdam S01 E16"  group-title="SERIES DRAMA",New Amsterdam S01 E16
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8644.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E17" tvg-name="New Amsterdam S01 E17"  group-title="SERIES DRAMA",New Amsterdam S01 E17
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8638.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E18" tvg-name="New Amsterdam S01 E18"  group-title="SERIES DRAMA",New Amsterdam S01 E18
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8639.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E19" tvg-name="New Amsterdam S01 E19"  group-title="SERIES DRAMA",New Amsterdam S01 E19
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8640.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E20" tvg-name="New Amsterdam S01 E20"  group-title="SERIES DRAMA",New Amsterdam S01 E20
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8641.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E21" tvg-name="New Amsterdam S01 E21"  group-title="SERIES DRAMA",New Amsterdam S01 E21
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8642.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E22" tvg-name="New Amsterdam S01 E22"  group-title="SERIES DRAMA",New Amsterdam S01 E22
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8643.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E01" tvg-name="New Amsterdam S02 E01"  group-title="SERIES DRAMA",New Amsterdam S02 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51458.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E02" tvg-name="New Amsterdam S02 E02"  group-title="SERIES DRAMA",New Amsterdam S02 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51459.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E03" tvg-name="New Amsterdam S02 E03"  group-title="SERIES DRAMA",New Amsterdam S02 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51460.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E04" tvg-name="New Amsterdam S02 E04"  group-title="SERIES DRAMA",New Amsterdam S02 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51461.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E05" tvg-name="New Amsterdam S02 E05"  group-title="SERIES DRAMA",New Amsterdam S02 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51462.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E06" tvg-name="New Amsterdam S02 E06"  group-title="SERIES DRAMA",New Amsterdam S02 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51463.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E07" tvg-name="New Amsterdam S02 E07"  group-title="SERIES DRAMA",New Amsterdam S02 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51464.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E08" tvg-name="New Amsterdam S02 E08"  group-title="SERIES DRAMA",New Amsterdam S02 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51465.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E09" tvg-name="New Amsterdam S02 E09"  group-title="SERIES DRAMA",New Amsterdam S02 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51466.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E10" tvg-name="New Amsterdam S02 E10"  group-title="SERIES DRAMA",New Amsterdam S02 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51467.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E11" tvg-name="New Amsterdam S02 E11"  group-title="SERIES DRAMA",New Amsterdam S02 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51468.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E12" tvg-name="New Amsterdam S02 E12"  group-title="SERIES DRAMA",New Amsterdam S02 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51469.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E13" tvg-name="New Amsterdam S02 E13"  group-title="SERIES DRAMA",New Amsterdam S02 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51470.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E14" tvg-name="New Amsterdam S02 E14"  group-title="SERIES DRAMA",New Amsterdam S02 E14
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51471.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E15" tvg-name="New Amsterdam S02 E15"  group-title="SERIES DRAMA",New Amsterdam S02 E15
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51472.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E16" tvg-name="New Amsterdam S02 E16"  group-title="SERIES DRAMA",New Amsterdam S02 E16
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51473.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E17" tvg-name="New Amsterdam S02 E17"  group-title="SERIES DRAMA",New Amsterdam S02 E17
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51474.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E18" tvg-name="New Amsterdam S02 E18"  group-title="SERIES DRAMA",New Amsterdam S02 E18
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51475.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E01" tvg-name="New Amsterdam S03 E01"  group-title="SERIES DRAMA",New Amsterdam S03 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51485.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E02" tvg-name="New Amsterdam S03 E02"  group-title="SERIES DRAMA",New Amsterdam S03 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51486.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E03" tvg-name="New Amsterdam S03 E03"  group-title="SERIES DRAMA",New Amsterdam S03 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51487.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E04" tvg-name="New Amsterdam S03 E04"  group-title="SERIES DRAMA",New Amsterdam S03 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51477.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E05" tvg-name="New Amsterdam S03 E05"  group-title="SERIES DRAMA",New Amsterdam S03 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51476.mp4
+#EXTINF:-1 tvg-id="New Amsterdam S03 E06" tvg-name="New Amsterdam S03 E06"  group-title="SERIES DRAMA",New Amsterdam S03 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51478.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E07" tvg-name="New Amsterdam S03 E07"  group-title="SERIES DRAMA",New Amsterdam S03 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51479.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E08" tvg-name="New Amsterdam S03 E08"  group-title="SERIES DRAMA",New Amsterdam S03 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51488.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E09" tvg-name="New Amsterdam S03 E09"  group-title="SERIES DRAMA",New Amsterdam S03 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51489.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E10" tvg-name="New Amsterdam S03 E10"  group-title="SERIES DRAMA",New Amsterdam S03 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51480.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E11" tvg-name="New Amsterdam S03 E11"  group-title="SERIES DRAMA",New Amsterdam S03 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51481.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E12" tvg-name="New Amsterdam S03 E12"  group-title="SERIES DRAMA",New Amsterdam S03 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51482.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E13" tvg-name="New Amsterdam S03 E13"  group-title="SERIES DRAMA",New Amsterdam S03 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51483.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E14" tvg-name="New Amsterdam S03 E14"  group-title="SERIES DRAMA",New Amsterdam S03 E14
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51484.mkv
 #EXTINF:-1 tvg-id="Nicky Jam El Ganador S01 E01" tvg-name="Nicky Jam El Ganador S01 E01"  group-title="SERIES DRAMA",Nicky Jam El Ganador S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/8655.mp4
 #EXTINF:-1 tvg-id="Nicky Jam El Ganador S01 E02" tvg-name="Nicky Jam El Ganador S01 E02"  group-title="SERIES DRAMA",Nicky Jam El Ganador S01 E02
@@ -19379,6 +19337,78 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/12304.avi
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/12305.avi
 #EXTINF:-1 tvg-id="Chicago Fire S07 E09" tvg-name="Chicago Fire S07 E09"  group-title="SERIES DRAMA",Chicago Fire S07 E09
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/12306.avi
+#EXTINF:-1 tvg-id="Chicago Fire S08 E01" tvg-name="Chicago Fire S08 E01"  group-title="SERIES DRAMA",Chicago Fire S08 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51254.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E02" tvg-name="Chicago Fire S08 E02"  group-title="SERIES DRAMA",Chicago Fire S08 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51255.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E03" tvg-name="Chicago Fire S08 E03"  group-title="SERIES DRAMA",Chicago Fire S08 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51256.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E04" tvg-name="Chicago Fire S08 E04"  group-title="SERIES DRAMA",Chicago Fire S08 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51257.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E05" tvg-name="Chicago Fire S08 E05"  group-title="SERIES DRAMA",Chicago Fire S08 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51258.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E06" tvg-name="Chicago Fire S08 E06"  group-title="SERIES DRAMA",Chicago Fire S08 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51259.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E07" tvg-name="Chicago Fire S08 E07"  group-title="SERIES DRAMA",Chicago Fire S08 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51260.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E08" tvg-name="Chicago Fire S08 E08"  group-title="SERIES DRAMA",Chicago Fire S08 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51261.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E09" tvg-name="Chicago Fire S08 E09"  group-title="SERIES DRAMA",Chicago Fire S08 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51262.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E10" tvg-name="Chicago Fire S08 E10"  group-title="SERIES DRAMA",Chicago Fire S08 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51263.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E11" tvg-name="Chicago Fire S08 E11"  group-title="SERIES DRAMA",Chicago Fire S08 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51264.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E12" tvg-name="Chicago Fire S08 E12"  group-title="SERIES DRAMA",Chicago Fire S08 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51265.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E13" tvg-name="Chicago Fire S08 E13"  group-title="SERIES DRAMA",Chicago Fire S08 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51266.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E14" tvg-name="Chicago Fire S08 E14"  group-title="SERIES DRAMA",Chicago Fire S08 E14
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51267.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E15" tvg-name="Chicago Fire S08 E15"  group-title="SERIES DRAMA",Chicago Fire S08 E15
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51268.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E16" tvg-name="Chicago Fire S08 E16"  group-title="SERIES DRAMA",Chicago Fire S08 E16
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51269.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E17" tvg-name="Chicago Fire S08 E17"  group-title="SERIES DRAMA",Chicago Fire S08 E17
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51270.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E18" tvg-name="Chicago Fire S08 E18"  group-title="SERIES DRAMA",Chicago Fire S08 E18
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51271.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E19" tvg-name="Chicago Fire S08 E19"  group-title="SERIES DRAMA",Chicago Fire S08 E19
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51272.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E20" tvg-name="Chicago Fire S08 E20"  group-title="SERIES DRAMA",Chicago Fire S08 E20
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51273.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E01" tvg-name="Chicago Fire S09 E01"  group-title="SERIES DRAMA",Chicago Fire S09 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51274.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E02" tvg-name="Chicago Fire S09 E02"  group-title="SERIES DRAMA",Chicago Fire S09 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51275.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E03" tvg-name="Chicago Fire S09 E03"  group-title="SERIES DRAMA",Chicago Fire S09 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51276.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E04" tvg-name="Chicago Fire S09 E04"  group-title="SERIES DRAMA",Chicago Fire S09 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51277.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E05" tvg-name="Chicago Fire S09 E05"  group-title="SERIES DRAMA",Chicago Fire S09 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51278.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E06" tvg-name="Chicago Fire S09 E06"  group-title="SERIES DRAMA",Chicago Fire S09 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51279.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E07" tvg-name="Chicago Fire S09 E07"  group-title="SERIES DRAMA",Chicago Fire S09 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51280.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E08" tvg-name="Chicago Fire S09 E08"  group-title="SERIES DRAMA",Chicago Fire S09 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51281.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E09" tvg-name="Chicago Fire S09 E09"  group-title="SERIES DRAMA",Chicago Fire S09 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51282.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E10" tvg-name="Chicago Fire S09 E10"  group-title="SERIES DRAMA",Chicago Fire S09 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51283.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E11" tvg-name="Chicago Fire S09 E11"  group-title="SERIES DRAMA",Chicago Fire S09 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51284.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E12" tvg-name="Chicago Fire S09 E12"  group-title="SERIES DRAMA",Chicago Fire S09 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51285.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E13" tvg-name="Chicago Fire S09 E13"  group-title="SERIES DRAMA",Chicago Fire S09 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51286.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E14" tvg-name="Chicago Fire S09 E14"  group-title="SERIES DRAMA",Chicago Fire S09 E14
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51287.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E15" tvg-name="Chicago Fire S09 E15"  group-title="SERIES DRAMA",Chicago Fire S09 E15
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51288.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E16" tvg-name="Chicago Fire S09 E16"  group-title="SERIES DRAMA",Chicago Fire S09 E16
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51289.mkv
 #EXTINF:-1 tvg-id="Historia de un crimen Colosio S01 E01" tvg-name="Historia de un crimen Colosio S01 E01"  group-title="SERIES DRAMA",Historia de un crimen Colosio S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/12343.mkv
 #EXTINF:-1 tvg-id="Historia de un crimen Colosio S01 E02" tvg-name="Historia de un crimen Colosio S01 E02"  group-title="SERIES DRAMA",Historia de un crimen Colosio S01 E02
@@ -19539,6 +19569,16 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/13484.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/13485.mkv
 #EXTINF:-1 tvg-id="El marginal S03 E03" tvg-name="El marginal S03 E03"  group-title="SERIES DRAMA",El marginal S03 E03
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/13486.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E04" tvg-name="El marginal S03 E04"  group-title="SERIES DRAMA",El marginal S03 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51401.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E05" tvg-name="El marginal S03 E05"  group-title="SERIES DRAMA",El marginal S03 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51397.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E06" tvg-name="El marginal S03 E06"  group-title="SERIES DRAMA",El marginal S03 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51398.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E07" tvg-name="El marginal S03 E07"  group-title="SERIES DRAMA",El marginal S03 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51399.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E08" tvg-name="El marginal S03 E08"  group-title="SERIES DRAMA",El marginal S03 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51400.mkv
 #EXTINF:-1 tvg-id="El Tigre Veron S01 E01" tvg-name="El Tigre Veron S01 E01"  group-title="SERIES DRAMA",El Tigre Veron S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/14178.mkv
 #EXTINF:-1 tvg-id="El Tigre Veron S01 E02" tvg-name="El Tigre Veron S01 E02"  group-title="SERIES DRAMA",El Tigre Veron S01 E02
@@ -21521,6 +21561,18 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/40180.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/40181.mkv
 #EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S02 E06" tvg-name="Como vender drogas online (a toda pastilla) S02 E06"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S02 E06
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/40182.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E01" tvg-name="Como vender drogas online (a toda pastilla) S03 E01"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/52024.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E02" tvg-name="Como vender drogas online (a toda pastilla) S03 E02"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/52025.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E03" tvg-name="Como vender drogas online (a toda pastilla) S03 E03"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/52026.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E04" tvg-name="Como vender drogas online (a toda pastilla) S03 E04"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/52027.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E05" tvg-name="Como vender drogas online (a toda pastilla) S03 E05"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/52028.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E06" tvg-name="Como vender drogas online (a toda pastilla) S03 E06"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/52029.mkv
 #EXTINF:-1 tvg-id="Gambito de reina S01 E01" tvg-name="Gambito de reina S01 E01"  group-title="SERIES DRAMA",Gambito de reina S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/40183.mkv
 #EXTINF:-1 tvg-id="Gambito de reina S01 E02" tvg-name="Gambito de reina S01 E02"  group-title="SERIES DRAMA",Gambito de reina S01 E02
@@ -22774,44 +22826,70 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/47686.mkv
 #EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E08" tvg-name="¿Quien mato a Sara? S02 E08"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E08
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/47687.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E01" tvg-name="Prodigal Son S01 E01"  group-title="SERIES DRAMA",Prodigal Son S01 E01
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44888.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51402.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E02" tvg-name="Prodigal Son S01 E02"  group-title="SERIES DRAMA",Prodigal Son S01 E02
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44889.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44888.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E03" tvg-name="Prodigal Son S01 E03"  group-title="SERIES DRAMA",Prodigal Son S01 E03
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44890.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44889.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E04" tvg-name="Prodigal Son S01 E04"  group-title="SERIES DRAMA",Prodigal Son S01 E04
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44891.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51403.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E05" tvg-name="Prodigal Son S01 E05"  group-title="SERIES DRAMA",Prodigal Son S01 E05
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44892.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44890.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E06" tvg-name="Prodigal Son S01 E06"  group-title="SERIES DRAMA",Prodigal Son S01 E06
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44893.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51411.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E07" tvg-name="Prodigal Son S01 E07"  group-title="SERIES DRAMA",Prodigal Son S01 E07
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44894.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51404.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E08" tvg-name="Prodigal Son S01 E08"  group-title="SERIES DRAMA",Prodigal Son S01 E08
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44895.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44891.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E09" tvg-name="Prodigal Son S01 E09"  group-title="SERIES DRAMA",Prodigal Son S01 E09
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44896.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51405.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E10" tvg-name="Prodigal Son S01 E10"  group-title="SERIES DRAMA",Prodigal Son S01 E10
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44897.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44892.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E11" tvg-name="Prodigal Son S01 E11"  group-title="SERIES DRAMA",Prodigal Son S01 E11
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44898.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51412.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E12" tvg-name="Prodigal Son S01 E12"  group-title="SERIES DRAMA",Prodigal Son S01 E12
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44899.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44893.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E13" tvg-name="Prodigal Son S01 E13"  group-title="SERIES DRAMA",Prodigal Son S01 E13
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44900.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51406.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E14" tvg-name="Prodigal Son S01 E14"  group-title="SERIES DRAMA",Prodigal Son S01 E14
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44901.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44894.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E15" tvg-name="Prodigal Son S01 E15"  group-title="SERIES DRAMA",Prodigal Son S01 E15
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44902.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51407.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E16" tvg-name="Prodigal Son S01 E16"  group-title="SERIES DRAMA",Prodigal Son S01 E16
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44903.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44895.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E17" tvg-name="Prodigal Son S01 E17"  group-title="SERIES DRAMA",Prodigal Son S01 E17
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44904.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51413.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E18" tvg-name="Prodigal Son S01 E18"  group-title="SERIES DRAMA",Prodigal Son S01 E18
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44905.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44896.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E19" tvg-name="Prodigal Son S01 E19"  group-title="SERIES DRAMA",Prodigal Son S01 E19
-http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44906.mkv
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44897.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E20" tvg-name="Prodigal Son S01 E20"  group-title="SERIES DRAMA",Prodigal Son S01 E20
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51408.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E21" tvg-name="Prodigal Son S01 E21"  group-title="SERIES DRAMA",Prodigal Son S01 E21
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44898.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E22" tvg-name="Prodigal Son S01 E22"  group-title="SERIES DRAMA",Prodigal Son S01 E22
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51409.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E23" tvg-name="Prodigal Son S01 E23"  group-title="SERIES DRAMA",Prodigal Son S01 E23
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51414.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E24" tvg-name="Prodigal Son S01 E24"  group-title="SERIES DRAMA",Prodigal Son S01 E24
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44899.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E25" tvg-name="Prodigal Son S01 E25"  group-title="SERIES DRAMA",Prodigal Son S01 E25
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51410.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E26" tvg-name="Prodigal Son S01 E26"  group-title="SERIES DRAMA",Prodigal Son S01 E26
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44900.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E27" tvg-name="Prodigal Son S01 E27"  group-title="SERIES DRAMA",Prodigal Son S01 E27
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44901.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E28" tvg-name="Prodigal Son S01 E28"  group-title="SERIES DRAMA",Prodigal Son S01 E28
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44902.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E29" tvg-name="Prodigal Son S01 E29"  group-title="SERIES DRAMA",Prodigal Son S01 E29
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44903.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E30" tvg-name="Prodigal Son S01 E30"  group-title="SERIES DRAMA",Prodigal Son S01 E30
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44904.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E31" tvg-name="Prodigal Son S01 E31"  group-title="SERIES DRAMA",Prodigal Son S01 E31
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44905.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E32" tvg-name="Prodigal Son S01 E32"  group-title="SERIES DRAMA",Prodigal Son S01 E32
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44906.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E33" tvg-name="Prodigal Son S01 E33"  group-title="SERIES DRAMA",Prodigal Son S01 E33
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44907.mkv
 #EXTINF:-1 tvg-id="Dinero facil S01 E01" tvg-name="Dinero facil S01 E01"  group-title="SERIES DRAMA",Dinero facil S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/44932.mkv
@@ -24687,6 +24765,44 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/16483.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/16484.mkv
 #EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E07" tvg-name="El escritor fantasma (Ghostwriter) S01 E07"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E07
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/16485.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E08" tvg-name="El escritor fantasma (Ghostwriter) S01 E08"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51512.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E09" tvg-name="El escritor fantasma (Ghostwriter) S01 E09"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51513.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E10" tvg-name="El escritor fantasma (Ghostwriter) S01 E10"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51514.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E11" tvg-name="El escritor fantasma (Ghostwriter) S01 E11"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51515.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E12" tvg-name="El escritor fantasma (Ghostwriter) S01 E12"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51516.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E13" tvg-name="El escritor fantasma (Ghostwriter) S01 E13"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51517.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E01" tvg-name="El escritor fantasma (Ghostwriter) S02 E01"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51518.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E02" tvg-name="El escritor fantasma (Ghostwriter) S02 E02"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51519.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E03" tvg-name="El escritor fantasma (Ghostwriter) S02 E03"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51520.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E04" tvg-name="El escritor fantasma (Ghostwriter) S02 E04"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51521.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E05" tvg-name="El escritor fantasma (Ghostwriter) S02 E05"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51522.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E06" tvg-name="El escritor fantasma (Ghostwriter) S02 E06"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51523.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E07" tvg-name="El escritor fantasma (Ghostwriter) S02 E07"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51524.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E08" tvg-name="El escritor fantasma (Ghostwriter) S02 E08"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51525.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E09" tvg-name="El escritor fantasma (Ghostwriter) S02 E09"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51526.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E10" tvg-name="El escritor fantasma (Ghostwriter) S02 E10"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51527.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E11" tvg-name="El escritor fantasma (Ghostwriter) S02 E11"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51528.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E12" tvg-name="El escritor fantasma (Ghostwriter) S02 E12"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51529.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E13" tvg-name="El escritor fantasma (Ghostwriter) S02 E13"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51530.mkv
 #EXTINF:-1 tvg-id="Carnival Row S01 E01" tvg-name="Carnival Row S01 E01"  group-title="SERIES FICCION - FANTASIA",Carnival Row S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/19460.mkv
 #EXTINF:-1 tvg-id="Carnival Row S01 E02" tvg-name="Carnival Row S01 E02"  group-title="SERIES FICCION - FANTASIA",Carnival Row S01 E02
@@ -27335,6 +27451,78 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/20541.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/20542.mkv
 #EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S01 E13" tvg-name="El bebe jefazo Vuelta al curro S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FkAPqaH658yafCEEhBSZ3Abr7v.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S01 E13
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/20543.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E01" tvg-name="El bebe jefazo Vuelta al curro S02 E01" tvg-logo="http://xdgo.live:8080/images/3b5aeffedaf6dabe4680f827fc6d8bdf.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51422.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E02" tvg-name="El bebe jefazo Vuelta al curro S02 E02" tvg-logo="http://xdgo.live:8080/images/a42a582f160cbda8a412dfe1280bee52.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51423.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E03" tvg-name="El bebe jefazo Vuelta al curro S02 E03" tvg-logo="http://xdgo.live:8080/images/c51257b159438c83ea30708db18a7033.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51424.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E04" tvg-name="El bebe jefazo Vuelta al curro S02 E04" tvg-logo="http://xdgo.live:8080/images/d9ea2c42e33addc7f5aa235e7015bfb5.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51425.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E05" tvg-name="El bebe jefazo Vuelta al curro S02 E05" tvg-logo="http://xdgo.live:8080/images/3b10f3bcd44081ba5214e7a8f3d37398.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51426.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E06" tvg-name="El bebe jefazo Vuelta al curro S02 E06" tvg-logo="http://xdgo.live:8080/images/0b5da6766f6dbc7c2a83e03d4f0348f9.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51427.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E07" tvg-name="El bebe jefazo Vuelta al curro S02 E07" tvg-logo="http://xdgo.live:8080/images/ed8b75758bcab65401d8faccca80f2f6.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51428.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E08" tvg-name="El bebe jefazo Vuelta al curro S02 E08" tvg-logo="http://xdgo.live:8080/images/a3ab4925f721fd2c047fb099472ce483.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51429.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E09" tvg-name="El bebe jefazo Vuelta al curro S02 E09" tvg-logo="http://xdgo.live:8080/images/96b05023d582751ebf9481c24225cd23.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51430.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E10" tvg-name="El bebe jefazo Vuelta al curro S02 E10" tvg-logo="http://xdgo.live:8080/images/3037a6804a5ae66eb1ef993fe8dd766a.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51431.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E11" tvg-name="El bebe jefazo Vuelta al curro S02 E11" tvg-logo="http://xdgo.live:8080/images/6e59ee640d37ccbbba32cab69e621ca7.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51432.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E12" tvg-name="El bebe jefazo Vuelta al curro S02 E12" tvg-logo="http://xdgo.live:8080/images/2087805f6c4f183ac02d19843a89c645.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51433.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E13" tvg-name="El bebe jefazo Vuelta al curro S02 E13" tvg-logo="http://xdgo.live:8080/images/8e164454f132dcb4a7ec784af4f863be.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E13
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51434.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E01" tvg-name="El bebe jefazo Vuelta al curro S03 E01" tvg-logo="http://xdgo.live:8080/images/50a1d1ad92b98ddb86a470f0dd837376.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51435.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E02" tvg-name="El bebe jefazo Vuelta al curro S03 E02" tvg-logo="http://xdgo.live:8080/images/330ab10eace3d4349fbf3864ea607bf8.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51436.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E03" tvg-name="El bebe jefazo Vuelta al curro S03 E03" tvg-logo="http://xdgo.live:8080/images/12a1e371c8235439595c8796c2b945fb.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51437.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E04" tvg-name="El bebe jefazo Vuelta al curro S03 E04" tvg-logo="http://xdgo.live:8080/images/e90444485c29ea4cb92a6d3e29d81647.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51438.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E05" tvg-name="El bebe jefazo Vuelta al curro S03 E05" tvg-logo="http://xdgo.live:8080/images/795843c316b8e2b6756349db5cdcd60e.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51439.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E06" tvg-name="El bebe jefazo Vuelta al curro S03 E06" tvg-logo="http://xdgo.live:8080/images/90e792f82f223f435defd7e79e849b71.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51440.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E07" tvg-name="El bebe jefazo Vuelta al curro S03 E07" tvg-logo="http://xdgo.live:8080/images/ae1f373c35ec8374514fb3391206e238.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51441.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E08" tvg-name="El bebe jefazo Vuelta al curro S03 E08" tvg-logo="http://xdgo.live:8080/images/75acca24039a21148a9daa1c5189f8e2.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51442.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E09" tvg-name="El bebe jefazo Vuelta al curro S03 E09" tvg-logo="http://xdgo.live:8080/images/f2c8101be30f71f9be74cc5eaa6a7656.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51443.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E10" tvg-name="El bebe jefazo Vuelta al curro S03 E10" tvg-logo="http://xdgo.live:8080/images/eba253297f628fc3dff0f3144bc19b69.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51444.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E11" tvg-name="El bebe jefazo Vuelta al curro S03 E11" tvg-logo="http://xdgo.live:8080/images/d53639dbe9d6881fa38fd790d519b032.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51445.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E01" tvg-name="El bebe jefazo Vuelta al curro S04 E01" tvg-logo="http://xdgo.live:8080/images/86170f597d3baf1f2bb8ab0f9db2df8f.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E01
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51446.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E02" tvg-name="El bebe jefazo Vuelta al curro S04 E02" tvg-logo="http://xdgo.live:8080/images/ba78d003e4a799260b64dd7ec549faf2.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E02
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51447.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E03" tvg-name="El bebe jefazo Vuelta al curro S04 E03" tvg-logo="http://xdgo.live:8080/images/50e154e00faf3542282343c14262ea23.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E03
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51448.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E04" tvg-name="El bebe jefazo Vuelta al curro S04 E04" tvg-logo="http://xdgo.live:8080/images/46482f06b1e97e4b4b40fd93111c862f.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E04
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51449.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E05" tvg-name="El bebe jefazo Vuelta al curro S04 E05" tvg-logo="http://xdgo.live:8080/images/8fa8cb57b5baeb3b326ed87d3d38ed02.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E05
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51450.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E06" tvg-name="El bebe jefazo Vuelta al curro S04 E06" tvg-logo="http://xdgo.live:8080/images/3e6efd90ed3cb08844cfdb3eeb10a535.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E06
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51451.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E07" tvg-name="El bebe jefazo Vuelta al curro S04 E07" tvg-logo="http://xdgo.live:8080/images/6640a4e1a968445efd41c520d58e4eec.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E07
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51452.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E08" tvg-name="El bebe jefazo Vuelta al curro S04 E08" tvg-logo="http://xdgo.live:8080/images/21285888427602de7da779496dfde88d.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E08
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51453.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E09" tvg-name="El bebe jefazo Vuelta al curro S04 E09" tvg-logo="http://xdgo.live:8080/images/10d5cf3877810030f27df828a32a1851.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E09
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51454.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E10" tvg-name="El bebe jefazo Vuelta al curro S04 E10" tvg-logo="http://xdgo.live:8080/images/5d384c81d924e348942627ee7f092ff0.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E10
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51455.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E11" tvg-name="El bebe jefazo Vuelta al curro S04 E11" tvg-logo="http://xdgo.live:8080/images/940d4a6d842b23454641e874f236f23d.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E11
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51456.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E12" tvg-name="El bebe jefazo Vuelta al curro S04 E12" tvg-logo="http://xdgo.live:8080/images/c9c8ed1f52dc28860f46f54aca869346.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E12
+http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/51457.mkv
 #EXTINF:-1 tvg-id="Los Picapiedra S01 E01" tvg-name="Los Picapiedra S01 E01" tvg-logo="http://xdgo.live:8080/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="SERIES INFANTILES",Los Picapiedra S01 E01
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/20544.avi
 #EXTINF:-1 tvg-id="Los Picapiedra S01 E02" tvg-name="Los Picapiedra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKqY1scWpBiWbQuDq3zKLteauNF.jpg" group-title="SERIES INFANTILES",Los Picapiedra S01 E02
@@ -28271,10 +28459,50 @@ http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/41776.mkv
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/35_jhonsalas_d/znE6wsjSkS/42412.mkv
+#EXTINF:-1 tvg-id="Fast & Furious 9 (2021)" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIyqWTuf6NouKphVlxzbv9pblxQ.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9 (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/52065.mkv
+#EXTINF:-1 tvg-id="Teen Titans Go! See Space Jam (2021)" tvg-name="Teen Titans Go! See Space Jam (2021)" tvg-logo="http://xdgo.live:8080/images/87d8fa7ae3682bb796178f6b073e684f.jpg" group-title="VFLIX ESTRENOS",Teen Titans Go! See Space Jam (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/52031.mkv
+#EXTINF:-1 tvg-id="Batman: El Largo Halloween Parte 1 (2021)" tvg-name="Batman: El Largo Halloween Parte 1 (2021)" tvg-logo="http://xdgo.live:8080/images/fc7e046507fc978d2f1adb128dd16dc2.jpg" group-title="VFLIX ESTRENOS",Batman: El Largo Halloween Parte 1 (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/52030.mkv
+#EXTINF:-1 tvg-id="Jolt (Impacto) (2021)" tvg-name="Jolt (Impacto) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="VFLIX ESTRENOS",Jolt (Impacto) (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51803.mkv
+#EXTINF:-1 tvg-id="La última carta de amor (2021)" tvg-name="La última carta de amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="VFLIX ESTRENOS",La última carta de amor (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51806.mkv
+#EXTINF:-1 tvg-id="Fondeados (2021)" tvg-name="Fondeados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWIHh4nsUbT5Z7a0E51ZnEBE2lG.jpg" group-title="VFLIX ESTRENOS",Fondeados (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51801.mkv
+#EXTINF:-1 tvg-id="Cielo rojo sangre (2021)" tvg-name="Cielo rojo sangre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky8Fua6PD7FyyOA7JACh3GDETli.jpg" group-title="VFLIX ESTRENOS",Cielo rojo sangre (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51802.mkv
+#EXTINF:-1 tvg-id="Kingdom: La historia de Ashin (2021)" tvg-name="Kingdom: La historia de Ashin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnPTn7XNRUAD33YPbwAPDTHG3r.jpg" group-title="VFLIX ESTRENOS",Kingdom: La historia de Ashin (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51804.mkv
+#EXTINF:-1 tvg-id="Playing with Sharks (2021)" tvg-name="Playing with Sharks (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sChTuxwVuajaoctBBfMcGoaWoru.jpg" group-title="VFLIX ESTRENOS",Playing with Sharks (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51805.mkv
+#EXTINF:-1 tvg-id="El traficante (2021)" tvg-name="El traficante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VKxWwVew6oCyYJVPN8RHtWg98r.jpg" group-title="VFLIX ESTRENOS",El traficante (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51608.mkv
+#EXTINF:-1 tvg-id="Morir en un tiroteo (2021)" tvg-name="Morir en un tiroteo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byXLJZq5vfveYdAWaC4uMtojsWj.jpg" group-title="VFLIX ESTRENOS",Morir en un tiroteo (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51609.mkv
+#EXTINF:-1 tvg-id="El exorcismo de Carmen Farías (2021)" tvg-name="El exorcismo de Carmen Farías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjtOLYF87BuXQeznkuSUcgNQ12U.jpg" group-title="VFLIX ESTRENOS",El exorcismo de Carmen Farías (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51610.mkv
+#EXTINF:-1 tvg-id="Gintama: The Final (2021)" tvg-name="Gintama: The Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikTmjGDSXWlPRsNZ3AvnBR3Pry8.jpg" group-title="VFLIX ESTRENOS",Gintama: The Final (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51611.mkv
+#EXTINF:-1 tvg-id="Tiburón blanco (2021)" tvg-name="Tiburón blanco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1qKnA83dtRaocubZx353j8qQje.jpg" group-title="VFLIX ESTRENOS",Tiburón blanco (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51612.mkv
+#EXTINF:-1 tvg-id="Midnight in the Switchgrass (2021)" tvg-name="Midnight in the Switchgrass (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" group-title="VFLIX ESTRENOS",Midnight in the Switchgrass (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51613.mkv
+#EXTINF:-1 tvg-id="La Purga: Infinita (2021)" tvg-name="La Purga: Infinita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg" group-title="VFLIX ESTRENOS",La Purga: Infinita (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51615.mkv
+#EXTINF:-1 tvg-id="Y al séptimo día (2021)" tvg-name="Y al séptimo día (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtt2dfMdmlCcgaJZkPPQsIY5oR6.jpg" group-title="VFLIX ESTRENOS",Y al séptimo día (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51616.mkv
+#EXTINF:-1 tvg-id="Trollhunters: El despertar de los titanes (2021)" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="VFLIX ESTRENOS",Trollhunters: El despertar de los titanes (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51617.mkv
+#EXTINF:-1 tvg-id="Cider no You ni Kotoba ga Wakiagaru (2021)" tvg-name="Cider no You ni Kotoba ga Wakiagaru (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj55UtUAJgryvGim67w9B3NhA6.jpg" group-title="VFLIX ESTRENOS",Cider no You ni Kotoba ga Wakiagaru (2021)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51618.mkv
+#EXTINF:-1 tvg-id="Inmune (2020)" tvg-name="Inmune (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pKj3Awn5SThyHRkpprwHpRbe9Q.jpg" group-title="VFLIX ESTRENOS",Inmune (2020)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51614.mkv
+#EXTINF:-1 tvg-id="La Otra Cara de La Guerra (2019)" tvg-name="La Otra Cara de La Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVLXwfawIYdGhwU6IJ2soO0gdLC.jpg" group-title="VFLIX ESTRENOS",La Otra Cara de La Guerra (2019)
+http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/51607.mkv
 #EXTINF:-1 tvg-id="Pig (2021)" tvg-name="Pig (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFgybTip4QOWa8Jd9zIDCrmW3xO.jpg" group-title="VFLIX ESTRENOS",Pig (2021)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/50028.mkv
-#EXTINF:-1 tvg-id="La Purga: Infinita (2021)" tvg-name="La Purga: Infinita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yvawJviOjb2nUFvHGXcCpGVTqy.jpg" group-title="VFLIX ESTRENOS",La Purga: Infinita (2021)
-http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/50029.mkv
 #EXTINF:-1 tvg-id="Despierta la furia (2021)" tvg-name="Despierta la furia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emM894kjspdQsHyTAF7sjRNlbTr.jpg" group-title="VFLIX ESTRENOS",Despierta la furia (2021)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/50030.mkv
 #EXTINF:-1 tvg-id="Space Jam 2: Una nueva era (2021)" tvg-name="Space Jam 2: Una nueva era (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHDF2320SbWDTP1FMZ8LgEIHew2.jpg" group-title="VFLIX ESTRENOS",Space Jam 2: Una nueva era (2021)
@@ -28597,8 +28825,6 @@ http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/46730.mkv
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/46731.mkv
 #EXTINF:-1 tvg-id="Ruega por nosotros (2021)" tvg-name="Ruega por nosotros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPoOn553ARmSQl0ChKTlGDvYq9x.jpg" group-title="VFLIX ESTRENOS",Ruega por nosotros (2021)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/46732.mkv
-#EXTINF:-1 tvg-id="Fast & Furious 9  (2021)" tvg-name="Fast & Furious 9  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9  (2021)
-http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/46652.mkv
 #EXTINF:-1 tvg-id="Ejército de los muertos (2021)" tvg-name="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VFLIX ESTRENOS",Ejército de los muertos (2021)
 http://xdgo.live:8080/movie/35_jhonsalas_d/znE6wsjSkS/46642.mkv
 #EXTINF:-1 tvg-id="Entonces Apareciste (2021)" tvg-name="Entonces Apareciste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxECW0qUol2pxI2ycRzIDPYO43t.jpg" group-title="VFLIX ESTRENOS",Entonces Apareciste (2021)
