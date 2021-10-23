@@ -1121,6 +1121,10 @@ http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/2049
 http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/30196
 #EXTINF:-1 tvg-id="BEIN SPORTS NBA" tvg-name="BEIN SPORTS NBA" tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS NBA
 http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/52689
+#EXTINF:-1 tvg-id="PPV|| Soccer (Colombia Primera) Independiente MedellÃ­n vs. Deportes Tolima 7:00 PM EST ( NTEL)" tvg-name="PPV|| Soccer (Colombia Primera) Independiente MedellÃ­n vs. Deportes Tolima 7:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV|| Soccer (Colombia Primera) Independiente MedellÃ­n vs. Deportes Tolima 7:00 PM EST ( NTEL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54785
+#EXTINF:-1 tvg-id="PPV|| Soccer (Colombia Primera) Millonarios vs. Junior 9:00 PM EST ( NTEL)" tvg-name="PPV|| Soccer (Colombia Primera) Millonarios vs. Junior 9:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV|| Soccer (Colombia Primera) Millonarios vs. Junior 9:00 PM EST ( NTEL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54806
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/48_vivianaper/rqRxJspfZ7/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -2113,86 +2117,150 @@ http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54379
 http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54394
-#EXTINF:-1 tvg-id="Auto Racing F1 United States Grand Prix Practice 2 3:55 PM EST ( ESPN2)" tvg-name="Auto Racing F1 United States Grand Prix Practice 2 3:55 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Auto Racing F1 United States Grand Prix Practice 2 3:55 PM EST ( ESPN2)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54727
-#EXTINF:-1 tvg-id="Football (NCAA) Columbia at Dartmouth 6:00 PM EST ( ESPNU)" tvg-name="Football (NCAA) Columbia at Dartmouth 6:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Football (NCAA) Columbia at Dartmouth 6:00 PM EST ( ESPNU)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54728
-#EXTINF:-1 tvg-id="Football (NCAA) Middle Tennessee State at Connecticut 6:00 PM EST ( CBSSN)" tvg-name="Football (NCAA) Middle Tennessee State at Connecticut 6:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Middle Tennessee State at Connecticut 6:00 PM EST ( CBSSN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54729
-#EXTINF:-1 tvg-id="Hockey (NHL) San Jose Sharks at Toronto Maple Leafs 6:00 PM EST ( NHL)" tvg-name="Hockey (NHL) San Jose Sharks at Toronto Maple Leafs 6:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) San Jose Sharks at Toronto Maple Leafs 6:00 PM EST ( NHL)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54730
-#EXTINF:-1 tvg-id="Football (NCAA) Memphis at Central Florida 7:00 PM EST ( ESPN2)" tvg-name="Football (NCAA) Memphis at Central Florida 7:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Memphis at Central Florida 7:00 PM EST ( ESPN2)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54731
-#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Penn State at Minnesota 7:00 PM EST ( BTN)" tvg-name="Volleyball (NCAA Women) Penn State at Minnesota 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Penn State at Minnesota 7:00 PM EST ( BTN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54732
-#EXTINF:-1 tvg-id="Soccer (NCAA Men) Pittsburgh at Virginia 7:00 PM EST ( ACCN)" tvg-name="Soccer (NCAA Men) Pittsburgh at Virginia 7:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",Soccer (NCAA Men) Pittsburgh at Virginia 7:00 PM EST ( ACCN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54733
-#EXTINF:-1 tvg-id="Basketball (NBA) Charlotte Hornets at Cleveland Cavaliers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Charlotte Hornets at Cleveland Cavaliers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Charlotte Hornets at Cleveland Cavaliers 7:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54734
-#EXTINF:-1 tvg-id="Basketball (NBA) New York Knicks at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New York Knicks at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New York Knicks at Orlando Magic 7:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54735
-#EXTINF:-1 tvg-id="Basketball (NBA) Indiana Pacers at Washington Wizards 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Indiana Pacers at Washington Wizards 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Indiana Pacers at Washington Wizards 7:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54736
-#EXTINF:-1 tvg-id="Basketball (NBA) Brooklyn Nets at Philadelphia 76ers 7:30 PM EST ( ESPN)" tvg-name="Basketball (NBA) Brooklyn Nets at Philadelphia 76ers 7:30 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Brooklyn Nets at Philadelphia 76ers 7:30 PM EST ( ESPN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54737
-#EXTINF:-1 tvg-id="Basketball (NBA) Toronto Raptors at Boston Celtics 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Toronto Raptors at Boston Celtics 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Toronto Raptors at Boston Celtics 7:30 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54738
-#EXTINF:-1 tvg-id="Soccer (Ecuador Serie A) Tecnico Universitario at Aucas 8:00 PM EST ( GOL)" tvg-name="Soccer (Ecuador Serie A) Tecnico Universitario at Aucas 8:00 PM EST ( GOL)"  group-title="EVENTOS PPV",Soccer (Ecuador Serie A) Tecnico Universitario at Aucas 8:00 PM EST ( GOL)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54739
-#EXTINF:-1 tvg-id="Soccer (Argentina Primera) Independiente Rivadavia vs. AtlÃ©tico de Rafaela 8:00 PM EST ( TYC)" tvg-name="Soccer (Argentina Primera) Independiente Rivadavia vs. AtlÃ©tico de Rafaela 8:00 PM EST ( TYC)"  group-title="EVENTOS PPV",Soccer (Argentina Primera) Independiente Rivadavia vs. AtlÃ©tico de Rafaela 8:00 PM EST ( TYC)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54740
-#EXTINF:-1 tvg-id="Basketball (NBA) New Orleans Pelicans at Chicago Bulls 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New Orleans Pelicans at Chicago Bulls 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New Orleans Pelicans at Chicago Bulls 8:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54741
-#EXTINF:-1 tvg-id="Basketball (NBA) Oklahoma City Thunder at Houston Rockets 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Oklahoma City Thunder at Houston Rockets 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Oklahoma City Thunder at Houston Rockets 8:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54742
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Houston Astros 8:08 PM EST ( FS1)" tvg-name="Baseball (MLB) Boston Red Sox at Houston Astros 8:08 PM EST ( FS1)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Houston Astros 8:08 PM EST ( FS1)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54743
-#EXTINF:-1 tvg-id="Volleyball (NCAA Women) San Diego at Brigham Young 9:00 PM EST ( BYU)" tvg-name="Volleyball (NCAA Women) San Diego at Brigham Young 9:00 PM EST ( BYU)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) San Diego at Brigham Young 9:00 PM EST ( BYU)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54744
-#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Ohio State at Wisconsin 9:00 PM EST ( BTN)" tvg-name="Volleyball (NCAA Women) Ohio State at Wisconsin 9:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Ohio State at Wisconsin 9:00 PM EST ( BTN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54745
-#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Arkansas at Kentucky 9:00 PM EST ( SEC)" tvg-name="Volleyball (NCAA Women) Arkansas at Kentucky 9:00 PM EST ( SEC)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Arkansas at Kentucky 9:00 PM EST ( SEC)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54746
-#EXTINF:-1 tvg-id="Basketball (NBA) San Antonio Spurs at Denver Nuggets 9:00 PM EST ( NBA)" tvg-name="Basketball (NBA) San Antonio Spurs at Denver Nuggets 9:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) San Antonio Spurs at Denver Nuggets 9:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54747
-#EXTINF:-1 tvg-id="Football (NCAA) Colorado State at Utah State 9:30 PM EST ( CBSSN)" tvg-name="Football (NCAA) Colorado State at Utah State 9:30 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Colorado State at Utah State 9:30 PM EST ( CBSSN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54748
-#EXTINF:-1 tvg-id="Basketball (NBA) Phoenix Suns at Los Angeles Lakers 10:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Phoenix Suns at Los Angeles Lakers 10:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Phoenix Suns at Los Angeles Lakers 10:00 PM EST ( ESPN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54749
-#EXTINF:-1 tvg-id="Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Mazatlan FC 10:00 PM EST ( TUDN)" tvg-name="Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Mazatlan FC 10:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Mazatlan FC 10:00 PM EST ( TUDN)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54750
-#EXTINF:-1 tvg-id="Basketball (NBA) Utah Jazz at Sacramento Kings 10:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Utah Jazz at Sacramento Kings 10:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Utah Jazz at Sacramento Kings 10:00 PM EST ( NBA)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54751
-#EXTINF:-1 tvg-id="Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 10:00 PM EST ( NHL)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54752
-#EXTINF:-1 tvg-id="Football (NCAA) Washington at Arizona 10:30 PM EST ( ESPN2)" tvg-name="Football (NCAA) Washington at Arizona 10:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Washington at Arizona 10:30 PM EST ( ESPN2)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54753
-#EXTINF:-1 tvg-id="Golf (Pro) PGA ZOZO Championship Third Round 11:30 PM EST ( Golf)" tvg-name="Golf (Pro) PGA ZOZO Championship Third Round 11:30 PM EST ( Golf)"  group-title="EVENTOS PPV",Golf (Pro) PGA ZOZO Championship Third Round 11:30 PM EST ( Golf)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54754
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSHD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSHD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54755
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSSD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSSD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54756
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPHD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPHD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54757
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPSD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPSD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54758
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPSD)" tvg-name="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPSD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54759
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST (FS1HD)" tvg-name="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST (FS1HD)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST (FS1HD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54760
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPHD)" tvg-name="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPHD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54761
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST ( FS1SD)" tvg-name="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST ( FS1SD)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST ( FS1SD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54762
-#EXTINF:-1 tvg-id="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (HD)" tvg-name="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (HD)"  group-title="EVENTOS PPV",Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (HD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54763
-#EXTINF:-1 tvg-id="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (SD)" tvg-name="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (SD)"  group-title="EVENTOS PPV",Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (SD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54764
-#EXTINF:-1 tvg-id="LFA 116 Fremd vs Valente 10:00 PM EST (HD)" tvg-name="LFA 116 Fremd vs Valente 10:00 PM EST (HD)"  group-title="EVENTOS PPV",LFA 116 Fremd vs Valente 10:00 PM EST (HD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54765
-#EXTINF:-1 tvg-id="LFA 116 Fremd vs Valente 10:00 PM EST (SD)" tvg-name="LFA 116 Fremd vs Valente 10:00 PM EST (SD)"  group-title="EVENTOS PPV",LFA 116 Fremd vs Valente 10:00 PM EST (SD)
-http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54766
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) East Carolina at Houston 4:00 PM EST ( ESPNU)" tvg-name="PPV|| Football (NCAA) East Carolina at Houston 4:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) East Carolina at Houston 4:00 PM EST ( ESPNU)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54767
+#EXTINF:-1 tvg-id="PPV|| Soccer (Argentina Primera) Deportivo Moron at Defensores de Belgrano 4:00 PM EST ( TYC)" tvg-name="PPV|| Soccer (Argentina Primera) Deportivo Moron at Defensores de Belgrano 4:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Soccer (Argentina Primera) Deportivo Moron at Defensores de Belgrano 4:00 PM EST ( TYC)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54768
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) Mississippi State at Vanderbilt 4:00 PM EST ( SEC)" tvg-name="PPV|| Football (NCAA) Mississippi State at Vanderbilt 4:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) Mississippi State at Vanderbilt 4:00 PM EST ( SEC)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54769
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) Boston College at Louisville 4:00 PM EST ( ACCN)" tvg-name="PPV|| Football (NCAA) Boston College at Louisville 4:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) Boston College at Louisville 4:00 PM EST ( ACCN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54770
+#EXTINF:-1 tvg-id="PPV|| Auto Racing F1 United States Grand Prix Qualifying 4:55 PM EST ( ESN)" tvg-name="PPV|| Auto Racing F1 United States Grand Prix Qualifying 4:55 PM EST ( ESN)"  group-title="EVENTOS PPV",PPV|| Auto Racing F1 United States Grand Prix Qualifying 4:55 PM EST ( ESN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54771
+#EXTINF:-1 tvg-id="PPV|| Automovilismo F1 Gran Premio de Estados Unidos clasificacion 4:55 PM EST ( ESPDR)" tvg-name="PPV|| Automovilismo F1 Gran Premio de Estados Unidos clasificacion 4:55 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Automovilismo F1 Gran Premio de Estados Unidos clasificacion 4:55 PM EST ( ESPDR)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54772
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Leon at Puebla 6:00 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MX) Leon at Puebla 6:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Leon at Puebla 6:00 PM EST ( TUDN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54773
+#EXTINF:-1 tvg-id="PPV|| Soccer (Argentina Primera) Tigre at Chacarita 6:00 PM EST ( TYC)" tvg-name="PPV|| Soccer (Argentina Primera) Tigre at Chacarita 6:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Soccer (Argentina Primera) Tigre at Chacarita 6:00 PM EST ( TYC)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54774
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New York Red Bulls at Columbus Crew SC 6:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) New York Red Bulls at Columbus Crew SC 6:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New York Red Bulls at Columbus Crew SC 6:00 PM EST ( MLS)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54775
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Atlanta Hawks at Cleveland Cavaliers 6:00 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Atlanta Hawks at Cleveland Cavaliers 6:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Atlanta Hawks at Cleveland Cavaliers 6:00 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54776
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Anaheim Ducks at Minnesota Wild 6:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Anaheim Ducks at Minnesota Wild 6:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Anaheim Ducks at Minnesota Wild 6:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54777
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Necaxa at Monterrey 6:06 PM EST ( FOXD)" tvg-name="PPV|| Soccer (Liga MX) Necaxa at Monterrey 6:06 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Necaxa at Monterrey 6:06 PM EST ( FOXD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54778
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) Tennessee at Alabama 7:00 PM EST ( ESPN)" tvg-name="PPV|| Football (NCAA) Tennessee at Alabama 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) Tennessee at Alabama 7:00 PM EST ( ESPN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54779
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Toronto Maple Leafs at Pittsburgh Penguins 7:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Toronto Maple Leafs at Pittsburgh Penguins 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Toronto Maple Leafs at Pittsburgh Penguins 7:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54780
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Colorado Avalanche at Tampa Bay Lightning 7:00 PM EST ( NHLa)" tvg-name="PPV|| Hockey (NHL) Colorado Avalanche at Tampa Bay Lightning 7:00 PM EST ( NHLa)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Colorado Avalanche at Tampa Bay Lightning 7:00 PM EST ( NHLa)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54781
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Miami Heat at Indiana Pacers 7:00 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Miami Heat at Indiana Pacers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Miami Heat at Indiana Pacers 7:00 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54782
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Florida Panthers at Philadelphia Flyers 7:00 PM EST ( NBCS)" tvg-name="PPV|| Hockey (NHL) Florida Panthers at Philadelphia Flyers 7:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Florida Panthers at Philadelphia Flyers 7:00 PM EST ( NBCS)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54783
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) San Diego State at Air Force 7:00 PM EST ( CBSSN)" tvg-name="PPV|| Football (NCAA) San Diego State at Air Force 7:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) San Diego State at Air Force 7:00 PM EST ( CBSSN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54784
+#EXTINF:-1 tvg-id="PPV|| Volleyball (NCAA Women) Penn State at Wisconsin 7:00 PM EST ( BTN)" tvg-name="PPV|| Volleyball (NCAA Women) Penn State at Wisconsin 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV|| Volleyball (NCAA Women) Penn State at Wisconsin 7:00 PM EST ( BTN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54786
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) Nevada at Fresno State 7:00 PM EST ( FS2)" tvg-name="PPV|| Football (NCAA) Nevada at Fresno State 7:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) Nevada at Fresno State 7:00 PM EST ( FS2)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54787
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Detroit Red Wings at Montreal Canadiens 7:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Detroit Red Wings at Montreal Canadiens 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Detroit Red Wings at Montreal Canadiens 7:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54788
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Buffalo Sabres at New Jersey Devils 7:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Buffalo Sabres at New Jersey Devils 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Buffalo Sabres at New Jersey Devils 7:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54789
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Carolina Hurricanes at Columbus Blue Jackets 7:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Carolina Hurricanes at Columbus Blue Jackets 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Carolina Hurricanes at Columbus Blue Jackets 7:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54790
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Nashville Predators at Winnipeg Jets 7:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Nashville Predators at Winnipeg Jets 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Nashville Predators at Winnipeg Jets 7:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54791
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) West Virginia at Texas Christian University 7:30 PM EST ( ESPNU)" tvg-name="PPV|| Football (NCAA) West Virginia at Texas Christian University 7:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) West Virginia at Texas Christian University 7:30 PM EST ( ESPNU)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54792
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) North Carolina State at Miami (FL) 7:30 PM EST ( ESPN2)" tvg-name="PPV|| Football (NCAA) North Carolina State at Miami (FL) 7:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) North Carolina State at Miami (FL) 7:30 PM EST ( ESPN2)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54793
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Nashville SC at Philadelphia Union 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Nashville SC at Philadelphia Union 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Nashville SC at Philadelphia Union 7:30 PM EST ( MLS)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54794
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) South Carolina at Texas A&M 7:30 PM EST ( SEC)" tvg-name="PPV|| Football (NCAA) South Carolina at Texas A&M 7:30 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) South Carolina at Texas A&M 7:30 PM EST ( SEC)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54795
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) Georgia Tech at Virginia 7:30 PM EST ( ACCN)" tvg-name="PPV|| Football (NCAA) Georgia Tech at Virginia 7:30 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) Georgia Tech at Virginia 7:30 PM EST ( ACCN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54796
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Dallas Mavericks at Toronto Raptors 7:30 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Dallas Mavericks at Toronto Raptors 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Dallas Mavericks at Toronto Raptors 7:30 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54797
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) U. de N. Leon at America 8:00 PM EST ( UNIe)" tvg-name="PPV|| Soccer (Liga MX) U. de N. Leon at America 8:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) U. de N. Leon at America 8:00 PM EST ( UNIe)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54798
+#EXTINF:-1 tvg-id="PPV|| Soccer (Argentina Primera) Agropecuario at Almirante Brown 8:00 PM EST ( TYC)" tvg-name="PPV|| Soccer (Argentina Primera) Agropecuario at Almirante Brown 8:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Soccer (Argentina Primera) Agropecuario at Almirante Brown 8:00 PM EST ( TYC)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54799
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) FC Cincinnati at Inter Miami CF 8:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) FC Cincinnati at Inter Miami CF 8:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) FC Cincinnati at Inter Miami CF 8:00 PM EST ( MLS)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54800
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Detroit Pistons at Chicago Bulls 8:00 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Detroit Pistons at Chicago Bulls 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Detroit Pistons at Chicago Bulls 8:00 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54801
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) New Orleans Pelicans at Minnesota Timberwolves 8:00 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) New Orleans Pelicans at Minnesota Timberwolves 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) New Orleans Pelicans at Minnesota Timberwolves 8:00 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54802
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Los Angeles Kings at St. Louis Blues 8:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Los Angeles Kings at St. Louis Blues 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Los Angeles Kings at St. Louis Blues 8:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54803
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) LA Dodgers at Atlanta Braves 8:08 PM EST ( TBS)" tvg-name="PPV|| Baseball (MLB) LA Dodgers at Atlanta Braves 8:08 PM EST ( TBS)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) LA Dodgers at Atlanta Braves 8:08 PM EST ( TBS)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54804
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at San Antonio Spurs 8:30 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54805
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Portland Timbers at Colorado Rapids 9:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Portland Timbers at Colorado Rapids 9:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Portland Timbers at Colorado Rapids 9:00 PM EST ( MLS)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54807
+#EXTINF:-1 tvg-id="PPV|| Volleyball (NCAA Women) Purdue at Nebraska 9:00 PM EST ( BTN)" tvg-name="PPV|| Volleyball (NCAA Women) Purdue at Nebraska 9:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV|| Volleyball (NCAA Women) Purdue at Nebraska 9:00 PM EST ( BTN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54808
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) New York Islanders at Arizona Coyotes 9:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) New York Islanders at Arizona Coyotes 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) New York Islanders at Arizona Coyotes 9:00 PM EST ( NHL)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54809
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Phoenix Suns at Portland Trail Blazers 10:00 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Phoenix Suns at Portland Trail Blazers 10:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Phoenix Suns at Portland Trail Blazers 10:00 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54810
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Cruz Azul at Guadalajara 10:00 PM EST ( TELe)" tvg-name="PPV|| Soccer (Liga MX) Cruz Azul at Guadalajara 10:00 PM EST ( TELe)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Cruz Azul at Guadalajara 10:00 PM EST ( TELe)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54811
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) FC Dallas at Los Angeles Galaxy 10:00 PM EST ( TUDN)" tvg-name="PPV|| Soccer (MLS) FC Dallas at Los Angeles Galaxy 10:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) FC Dallas at Los Angeles Galaxy 10:00 PM EST ( TUDN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54812
+#EXTINF:-1 tvg-id="PPV|| Boxing Jamel Herring vs. Shakur Stevenson 10:30 PM EST ( ESPN)" tvg-name="PPV|| Boxing Jamel Herring vs. Shakur Stevenson 10:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Boxing Jamel Herring vs. Shakur Stevenson 10:30 PM EST ( ESPN)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54813
+#EXTINF:-1 tvg-id="PPV|| Boxing Jamel Herring vs. Shakur Stevenson 10:30 PM EST ( ESPDR)" tvg-name="PPV|| Boxing Jamel Herring vs. Shakur Stevenson 10:30 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Boxing Jamel Herring vs. Shakur Stevenson 10:30 PM EST ( ESPDR)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54814
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Memphis Grizzlies at Los Angeles Clippers 10:30 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Memphis Grizzlies at Los Angeles Clippers 10:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Memphis Grizzlies at Los Angeles Clippers 10:30 PM EST ( NBA)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54815
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA ZOZO Championship Final Round 11:30 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA ZOZO Championship Final Round 11:30 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA ZOZO Championship Final Round 11:30 PM EST ( Golf)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54816
+#EXTINF:-1 tvg-id="PPV|| Glory 79 Collision 3 Verhoeven vs Ben Saddik 12:00 PM EST (HD)" tvg-name="PPV|| Glory 79 Collision 3 Verhoeven vs Ben Saddik 12:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV|| Glory 79 Collision 3 Verhoeven vs Ben Saddik 12:00 PM EST (HD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54817
+#EXTINF:-1 tvg-id="PPV|| Glory 79 Collision 3 Verhoeven vs Ben Saddik 12:00 PM EST (SD)" tvg-name="PPV|| Glory 79 Collision 3 Verhoeven vs Ben Saddik 12:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV|| Glory 79 Collision 3 Verhoeven vs Ben Saddik 12:00 PM EST (SD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54818
+#EXTINF:-1 tvg-id="PPV|| KSW 64 Pudzianowski vs Bombardier 1:00 PM EST (HD)" tvg-name="PPV|| KSW 64 Pudzianowski vs Bombardier 1:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV|| KSW 64 Pudzianowski vs Bombardier 1:00 PM EST (HD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54819
+#EXTINF:-1 tvg-id="PPV|| KSW 64 Pudzianowski vs Bombardier 1:00 PM EST (SD)" tvg-name="PPV|| KSW 64 Pudzianowski vs Bombardier 1:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV|| KSW 64 Pudzianowski vs Bombardier 1:00 PM EST (SD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54820
+#EXTINF:-1 tvg-id="PPV|| Bellator 269 Fedor vs Johnson 2:00 PM EST (SD)" tvg-name="PPV|| Bellator 269 Fedor vs Johnson 2:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV|| Bellator 269 Fedor vs Johnson 2:00 PM EST (SD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54821
+#EXTINF:-1 tvg-id="PPV|| Bellator 269 Fedor vs Johnson 2:00 PM EST (HD)" tvg-name="PPV|| Bellator 269 Fedor vs Johnson 2:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV|| Bellator 269 Fedor vs Johnson 2:00 PM EST (HD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54822
+#EXTINF:-1 tvg-id="PPV|| Bellator MMA 269 Fedor vs. Johnson 3:00 PM EST ( SHOe)" tvg-name="PPV|| Bellator MMA 269 Fedor vs. Johnson 3:00 PM EST ( SHOe)"  group-title="EVENTOS PPV",PPV|| Bellator MMA 269 Fedor vs. Johnson 3:00 PM EST ( SHOe)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54823
+#EXTINF:-1 tvg-id="PPV|| Bellator MMA 269 Fedor vs. Johnson 3:00 PM EST ( SHOw)" tvg-name="PPV|| Bellator MMA 269 Fedor vs. Johnson 3:00 PM EST ( SHOw)"  group-title="EVENTOS PPV",PPV|| Bellator MMA 269 Fedor vs. Johnson 3:00 PM EST ( SHOw)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54824
+#EXTINF:-1 tvg-id="PPV|| Wrestling AEW World Championship Eliminator Tournament 8:00 PM EST ( TNT)" tvg-name="PPV|| Wrestling AEW World Championship Eliminator Tournament 8:00 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV|| Wrestling AEW World Championship Eliminator Tournament 8:00 PM EST ( TNT)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54825
+#EXTINF:-1 tvg-id="PPV|| BKFC Fight Night Wichita Rickels vs Lane 9:00 PM EST (HD)" tvg-name="PPV|| BKFC Fight Night Wichita Rickels vs Lane 9:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV|| BKFC Fight Night Wichita Rickels vs Lane 9:00 PM EST (HD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54826
+#EXTINF:-1 tvg-id="PPV|| BKFC Fight Night Wichita Rickels vs Lane 9:00 PM EST (SD)" tvg-name="PPV|| BKFC Fight Night Wichita Rickels vs Lane 9:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV|| BKFC Fight Night Wichita Rickels vs Lane 9:00 PM EST (SD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54827
+#EXTINF:-1 tvg-id="PPV|| Wrestling IMPACT Bound For Glory 2021 10:00 PM EST ( PPV)" tvg-name="PPV|| Wrestling IMPACT Bound For Glory 2021 10:00 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Wrestling IMPACT Bound For Glory 2021 10:00 PM EST ( PPV)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54828
+#EXTINF:-1 tvg-id="PPV|| Wrestling IMPACT Bound For Glory 2021 10:00 PM EST ( PPV)" tvg-name="PPV|| Wrestling IMPACT Bound For Glory 2021 10:00 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Wrestling IMPACT Bound For Glory 2021 10:00 PM EST ( PPV)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54829
+#EXTINF:-1 tvg-id="PPV|| IMPACT Wrestling Bound For Glory 10:00 PM EST (HD)" tvg-name="PPV|| IMPACT Wrestling Bound For Glory 10:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV|| IMPACT Wrestling Bound For Glory 10:00 PM EST (HD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54830
+#EXTINF:-1 tvg-id="PPV|| IMPACT Wrestling Bound For Glory 10:00 PM EST (SD)" tvg-name="PPV|| IMPACT Wrestling Bound For Glory 10:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV|| IMPACT Wrestling Bound For Glory 10:00 PM EST (SD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54831
+#EXTINF:-1 tvg-id="PPV|| Boxing Jamel Herring vs Shakur Stevenson 10:30 PM EST (HD)" tvg-name="PPV|| Boxing Jamel Herring vs Shakur Stevenson 10:30 PM EST (HD)"  group-title="EVENTOS PPV",PPV|| Boxing Jamel Herring vs Shakur Stevenson 10:30 PM EST (HD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54832
+#EXTINF:-1 tvg-id="PPV|| Boxing Jamel Herring vs Shakur Stevenson 10:30 PM EST (SD)" tvg-name="PPV|| Boxing Jamel Herring vs Shakur Stevenson 10:30 PM EST (SD)"  group-title="EVENTOS PPV",PPV|| Boxing Jamel Herring vs Shakur Stevenson 10:30 PM EST (SD)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54833
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (HD1)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (HD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (HD1)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54834
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (HD2)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (HD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (HD2)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54835
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (ESPHD1)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (ESPHD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Prelims 1:00 PM EST (ESPHD1)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54836
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (ESPHD2)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (ESPHD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (ESPHD2)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54837
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (HD5)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (HD5)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (HD5)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54838
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (SD1)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (SD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (SD1)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54839
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (ESPSD3)" tvg-name="PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (ESPSD3)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Costa vs Vettori Main 4:00 PM EST (ESPSD3)
+http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/54840
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/48_vivianaper/rqRxJspfZ7/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
