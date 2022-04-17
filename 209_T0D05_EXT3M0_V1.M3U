@@ -981,6 +981,14 @@ http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/15989
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/15961
 #EXTINF:-1 tvg-id="TV AGRO" tvg-name="TV AGRO"  group-title="COLOMBIA",TV AGRO
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/15990
+#EXTINF:-1 tvg-id="ARG FOX SPORTS PREMIUM HD (b)" tvg-name="ARG FOX SPORTS PREMIUM HD (b)" tvg-logo="http://prolive.info:25461/images/384d580d7536175e2d3309505bb6f10e.png" group-title="DEPORTES",ARG FOX SPORTS PREMIUM HD (b)
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/26517
+#EXTINF:-1 tvg-id="ARGENTINA - LS FOX SPORTS PREMIUM" tvg-name="ARGENTINA - LS FOX SPORTS PREMIUM" tvg-logo="http://prolive.info:25461/images/384d580d7536175e2d3309505bb6f10e.png" group-title="DEPORTES",ARGENTINA - LS FOX SPORTS PREMIUM
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/26518
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://prolive.info:25461/images/384d580d7536175e2d3309505bb6f10e.png" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16805
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM SD" tvg-name="FOX SPORTS PREMIUM SD" tvg-logo="http://prolive.info:25461/images/158975ee1aeac8fed9141dcc030f4ea5.png" group-title="DEPORTES",FOX SPORTS PREMIUM SD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/15829
 #EXTINF:-1 tvg-id="BRASIL - LS PREMIERE 1 HD" tvg-name="BRASIL - LS PREMIERE 1 HD" tvg-logo="http://prolive.info:25461/images/a26eb593d9f186fe93dd1a9239cc63b7.png" group-title="DEPORTES",- LS PREMIERE 1 HD BRASIL
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16403
 #EXTINF:-1 tvg-id="BRASIL - LS PREMIERE 2 HD" tvg-name="BRASIL - LS PREMIERE 2 HD" tvg-logo="http://prolive.info:25461/images/bc5bc85d4af3407ed7e0a0a2104aa580.png" group-title="DEPORTES",- LS PREMIERE 2 HD BRASIL
@@ -1009,6 +1017,12 @@ http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16414
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16415
 #EXTINF:-1 tvg-id="BRASIL SPORTV 3 HD" tvg-name="BRASIL SPORTV 3 HD" tvg-logo="http://prolive.info:25461/images/dd1e405d4006fb5e2da4a96a21007c4a.png" group-title="DEPORTES",SPORTV 3 HD BRASIL
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16416
+#EXTINF:-1 tvg-id="DTV SPORTS CHILE HD" tvg-name="DTV SPORTS CHILE HD" tvg-logo="http://prolive.info:25461/images/e3dc56b907287e64aab955f9499af814.png" group-title="DEPORTES",DTV SPORTS CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/14659
+#EXTINF:-1 tvg-id="ESPN 2 CHILE HD" tvg-name="ESPN 2 CHILE HD" tvg-logo="http://74.208.91.37:25461/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="DEPORTES",ESPN 2 CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/14661
+#EXTINF:-1 tvg-id="ESPN CHILE HD" tvg-name="ESPN CHILE HD" tvg-logo="http://74.208.91.37:25461/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="DEPORTES",ESPN CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/14660
 #EXTINF:-1 tvg-id="DEP HD ESPN 2 (COL)" tvg-name="DEP HD ESPN 2 (COL)"  group-title="DEPORTES",DEP HD ESPN 2 (COL)
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/21752
 #EXTINF:-1 tvg-id="DTV SPORTS 2 COLOMBIA HD" tvg-name="DTV SPORTS 2 COLOMBIA HD" tvg-logo="http://prolive.info:25461/images/4af5e27aaaa58f1adadb230203155bce.png" group-title="DEPORTES",DTV SPORTS 2 COLOMBIA HD
@@ -1371,20 +1385,32 @@ http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12596
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12498
 #EXTINF:-1 tvg-id="DTV SPORTS  PLUS  ECUADOR HD" tvg-name="DTV SPORTS  PLUS  ECUADOR HD" tvg-logo="http://prolive.info:25461/images/e04e7c1fed64dbbb3b567f548c71cdc8.png" group-title="DEPORTES",DTV SPORTS  PLUS  ECUADOR HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12497
+#EXTINF:-1 tvg-id="DTV SPORTS CHILE HD" tvg-name="DTV SPORTS CHILE HD" tvg-logo="http://prolive.info:25461/images/e3dc56b907287e64aab955f9499af814.png" group-title="DEPORTES",DTV SPORTS CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12493
 #EXTINF:-1 tvg-id="DTV SPORTS COLOMBIA HD" tvg-name="DTV SPORTS COLOMBIA HD" tvg-logo="http://prolive.info:25461/images/e3dc56b907287e64aab955f9499af814.png" group-title="DEPORTES",DTV SPORTS COLOMBIA HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12495
 #EXTINF:-1 tvg-id="DTV SPORTS ECUADOR HD" tvg-name="DTV SPORTS ECUADOR HD" tvg-logo="http://prolive.info:25461/images/e3dc56b907287e64aab955f9499af814.png" group-title="DEPORTES",DTV SPORTS ECUADOR HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12490
+#EXTINF:-1 tvg-id="DTV SPORTS PERU HD" tvg-name="DTV SPORTS PERU HD" tvg-logo="http://prolive.info:25461/images/e3dc56b907287e64aab955f9499af814.png" group-title="DEPORTES",DTV SPORTS PERU HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12494
+#EXTINF:-1 tvg-id="DTV SPORTS URUGUAY HD" tvg-name="DTV SPORTS URUGUAY HD" tvg-logo="http://prolive.info:25461/images/e3dc56b907287e64aab955f9499af814.png" group-title="DEPORTES",DTV SPORTS URUGUAY HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12491
 #EXTINF:-1 tvg-id="ESPN  PLUS  MEXICO HD" tvg-name="ESPN  PLUS  MEXICO HD" tvg-logo="http://74.208.91.37:25461/images/9c280460d9ca687a033e0481601bd02e.png" group-title="DEPORTES",ESPN  PLUS  MEXICO HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12514
+#EXTINF:-1 tvg-id="ESPN 2 CHILE FULL HD" tvg-name="ESPN 2 CHILE FULL HD" tvg-logo="http://74.208.91.37:25461/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="DEPORTES",ESPN 2 CHILE FULL HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12506
 #EXTINF:-1 tvg-id="ESPN 2 COLOMBIA HD" tvg-name="ESPN 2 COLOMBIA HD" tvg-logo="http://74.208.91.37:25461/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="DEPORTES",ESPN 2 COLOMBIA HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12509
 #EXTINF:-1 tvg-id="ESPN 2 MEXICO HD" tvg-name="ESPN 2 MEXICO HD" tvg-logo="http://74.208.91.37:25461/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="DEPORTES",ESPN 2 MEXICO HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12512
+#EXTINF:-1 tvg-id="ESPN 3 CHILE HD" tvg-name="ESPN 3 CHILE HD" tvg-logo="http://74.208.91.37:25461/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="DEPORTES",ESPN 3 CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12507
 #EXTINF:-1 tvg-id="ESPN 3 COLOMBIA FULL HD" tvg-name="ESPN 3 COLOMBIA FULL HD" tvg-logo="http://prolive.info:25461/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="DEPORTES",ESPN 3 COLOMBIA FULL HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12510
 #EXTINF:-1 tvg-id="ESPN 3 MEXICO HD" tvg-name="ESPN 3 MEXICO HD" tvg-logo="http://74.208.91.37:25461/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="DEPORTES",ESPN 3 MEXICO HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12513
+#EXTINF:-1 tvg-id="ESPN CHILE HD" tvg-name="ESPN CHILE HD" tvg-logo="http://74.208.91.37:25461/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="DEPORTES",ESPN CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12505
 #EXTINF:-1 tvg-id="ESPN COLOMBIA HD" tvg-name="ESPN COLOMBIA HD" tvg-logo="http://74.208.91.37:25461/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="DEPORTES",ESPN COLOMBIA HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12508
 #EXTINF:-1 tvg-id="ESPN DEPORTES FULL HD" tvg-name="ESPN DEPORTES FULL HD" tvg-logo="http://74.208.91.37:25461/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="DEPORTES",ESPN DEPORTES FULL HD
@@ -1399,14 +1425,20 @@ http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12537
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12536
 #EXTINF:-1 tvg-id="FOX NFL HD" tvg-name="FOX NFL HD" tvg-logo="http://74.208.91.37:25461/images/920c00a91d394f99657eaa43aa708cf1.png" group-title="DEPORTES",FOX NFL HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12591
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CHILE HD" tvg-name="FOX SPORTS 2 CHILE HD" tvg-logo="http://74.208.91.37:25461/images/4e30238679427cf61979378dc815f0ae.png" group-title="DEPORTES",FOX SPORTS 2 CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12520
 #EXTINF:-1 tvg-id="FOX SPORTS 2 COLOMBIA HD" tvg-name="FOX SPORTS 2 COLOMBIA HD" tvg-logo="http://74.208.91.37:25461/images/4e30238679427cf61979378dc815f0ae.png" group-title="DEPORTES",FOX SPORTS 2 COLOMBIA HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12523
 #EXTINF:-1 tvg-id="FOX SPORTS 2 MEXICO HD" tvg-name="FOX SPORTS 2 MEXICO HD" tvg-logo="http://74.208.91.37:25461/images/4e30238679427cf61979378dc815f0ae.png" group-title="DEPORTES",FOX SPORTS 2 MEXICO HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12526
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CHILE HD" tvg-name="FOX SPORTS 3 CHILE HD" tvg-logo="http://74.208.91.37:25461/images/777b383eea161b73957a45bcc559efb9.png" group-title="DEPORTES",FOX SPORTS 3 CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12521
 #EXTINF:-1 tvg-id="FOX SPORTS 3 COLOMBIA HD" tvg-name="FOX SPORTS 3 COLOMBIA HD" tvg-logo="http://74.208.91.37:25461/images/777b383eea161b73957a45bcc559efb9.png" group-title="DEPORTES",FOX SPORTS 3 COLOMBIA HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12524
 #EXTINF:-1 tvg-id="FOX SPORTS 3 MEXICO HD" tvg-name="FOX SPORTS 3 MEXICO HD" tvg-logo="http://74.208.91.37:25461/images/777b383eea161b73957a45bcc559efb9.png" group-title="DEPORTES",FOX SPORTS 3 MEXICO HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12527
+#EXTINF:-1 tvg-id="FOX SPORTS CHILE HD" tvg-name="FOX SPORTS CHILE HD" tvg-logo="http://74.208.91.37:25461/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="DEPORTES",FOX SPORTS CHILE HD
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12519
 #EXTINF:-1 tvg-id="FOX SPORTS MEXICO HD" tvg-name="FOX SPORTS MEXICO HD" tvg-logo="http://74.208.91.37:25461/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="DEPORTES",FOX SPORTS MEXICO HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12525
 #EXTINF:-1 tvg-id="FOX SPORTS PLUS COLOMBIA HD" tvg-name="FOX SPORTS PLUS COLOMBIA HD" tvg-logo="http://74.208.91.37:25461/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="DEPORTES",FOX SPORTS PLUS COLOMBIA HD
@@ -1471,6 +1503,10 @@ http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12580
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12581
 #EXTINF:-1 tvg-id="WWE NETWORK HD" tvg-name="WWE NETWORK HD" tvg-logo="http://74.208.91.37:25461/images/2c33020f6c513acbce379b229f4b8473.png" group-title="DEPORTES",WWE NETWORK HD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/12595
+#EXTINF:-1 tvg-id="PERU ESPN 2 PERU HD (E)" tvg-name="PERU ESPN 2 PERU HD (E)" tvg-logo="http://prolive.info:25461/images/d26745ff3adde4922edce80ce0eeaab2.jpg" group-title="DEPORTES",PERU ESPN 2 PERU HD (E)
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16583
+#EXTINF:-1 tvg-id="PERU PLUS DTV SPORTS 2 (C-1080)" tvg-name="PERU PLUS DTV SPORTS 2 (C-1080)" tvg-logo="http://prolive.info:25461/images/fdb7dd37b259b35d52f3c3d587a57375.png" group-title="DEPORTES",PERU PLUS DTV SPORTS 2 (C-1080)
+http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/16582
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA SD" tvg-name="BEIN SPORTS EXTRA SD" tvg-logo="http://prolive.info:25461/images/3a7ee2e1208d2d8dd65ae13478dea41a.png" group-title="DEPORTES",BEIN SPORTS EXTRA SD
 http://prolive.info:25461/209_lauramola_g/BRZjZ47T73km/15807
 #EXTINF:-1 tvg-id="CLARO SPORTS SD" tvg-name="CLARO SPORTS SD" tvg-logo="http://prolive.info:25461/images/7b02680e70ff85c15a62458296ccc66f.jpg" group-title="DEPORTES",CLARO SPORTS SD
