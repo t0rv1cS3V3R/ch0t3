@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="22/08 • 17:00 • Belgrano vs Paranaense 01" tvg-name="22/08 • 17:00 • Belgrano vs Paranaense 01" PLUS group-title="COPA SUDAMERICANA",22/08 • 17:00 • Belgrano vs Paranaense 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQCVN_Qu8f6_x0MWYzIYqYa/ts
-#EXTINF:-1 tvg-id="22/08 • 17:00 • Belgrano vs Paranaense 02" tvg-name="22/08 • 17:00 • Belgrano vs Paranaense 02" PLUS group-title="COPA SUDAMERICANA",22/08 • 17:00 • Belgrano vs Paranaense 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTIuZ5WMi3s2QM4o1DEu_l8/ts
-#EXTINF:-1 tvg-id="22/08 • 19:30 • Cruzeiro vs Boca Juniors 01" tvg-name="22/08 • 19:30 • Cruzeiro vs Boca Juniors 01" PLUS group-title="COPA SUDAMERICANA",22/08 • 19:30 • Cruzeiro vs Boca Juniors 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRl6HREVfs2G-mZb6aAu4pk/ts
-#EXTINF:-1 tvg-id="22/08 • 19:30 • Cruzeiro vs Boca Juniors 01" tvg-name="22/08 • 19:30 • Cruzeiro vs Boca Juniors 01" PLUS group-title="COPA SUDAMERICANA",22/08 • 19:30 • Cruzeiro vs Boca Juniors 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQJBe2quyhidQh-IFr5tpLs/ts
 #EXTINF:-1 tvg-id="091 Alerta Policia HD 24H ES" tvg-name="091 Alerta Policia HD 24H ES" PLUS group-title="CANALES 24 7",091 Alerta Policia HD 24H ES
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ0i0da667vI-2EMVyhSarJ/ts
 #EXTINF:-1 tvg-id="Alien Saga" tvg-name="Alien Saga" PLUS group-title="CANALES 24 7",Alien Saga
@@ -423,14 +415,14 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRu5q7RUhHQ
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSGzajFVlpX-nR4b20cJNNU/ts
 #EXTINF:-1 tvg-id="Zak Storm 24H ES" tvg-name="Zak Storm 24H ES" PLUS group-title="CANALES 24 7",Zak Storm 24H ES
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQUqoc-Z-KYWKjpqYd7u1_Y/ts
-#EXTINF:-1 tvg-id="06/09 • 20:30 Peru vs Colombia 1" tvg-name="06/09 • 20:30 Peru vs Colombia 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 20:30 Peru vs Colombia 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQp0AyoUKlpaxtl3JNY7k35/ts
-#EXTINF:-1 tvg-id="06/09 • 20:30 Peru vs Colombia 1" tvg-name="06/09 • 20:30 Peru vs Colombia 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 20:30 Peru vs Colombia 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQmMD8P8px7iEb4eskE2c54/ts
-#EXTINF:-1 tvg-id="06/09 • 20:30 Peru vs Colombia 2" tvg-name="06/09 • 20:30 Peru vs Colombia 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 20:30 Peru vs Colombia 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR0Kk_Sa5HEAbymGYKPOax5/ts
-#EXTINF:-1 tvg-id="06/09 • 20:30 Peru vs Colombia PLUS 2" tvg-name="06/09 • 20:30 Peru vs Colombia PLUS 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 20:30 Peru vs Colombia PLUS 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTjkrWtLD9OZwKTQdOJR74e/ts
+#EXTINF:-1 tvg-id="10/09 • 15:30 Colombia vs Argentina 1" tvg-name="10/09 • 15:30 Colombia vs Argentina 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 15:30 Colombia vs Argentina 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ20oA6LADr3mZbLJh4I80e/ts
+#EXTINF:-1 tvg-id="10/09 • 15:30 Colombia vs Argentina 1" tvg-name="10/09 • 15:30 Colombia vs Argentina 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 15:30 Colombia vs Argentina 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT0gGGNpiI9WwUg0BZmesrZ/ts
+#EXTINF:-1 tvg-id="10/09 • 15:30 Colombia vs Argentina 2" tvg-name="10/09 • 15:30 Colombia vs Argentina 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 15:30 Colombia vs Argentina 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS6n1vUPKVW2_Bep8yIfSIG/ts
+#EXTINF:-1 tvg-id="10/09 • 15:30 Colombia vs Argentina 2" tvg-name="10/09 • 15:30 Colombia vs Argentina 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 15:30 Colombia vs Argentina 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRywEg-ZzKo_aUGtquAjM-6/ts
 #EXTINF:-1 tvg-id="03 01 • Caracol" tvg-name="03 01 • Caracol" tvg-logo="http://castlempire.site:8080/images/6c7598053dd2312321525e2110821ea5.png" group-title="COLOMBIA",03 01 • Caracol
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQaTaTw3UoOxvU6o7fG0gnZ/ts
 #EXTINF:-1 tvg-id="03 02 • Caracol" tvg-name="03 02 • Caracol" tvg-logo="http://castlempire.site:8080/images/6c7598053dd2312321525e2110821ea5.png" group-title="COLOMBIA",03 02 • Caracol
@@ -503,8 +495,6 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSBnzZx8jXk
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQsSLQu4ccxzTV4vDsT6KYn/ts
 #EXTINF:-1 tvg-id="| CLARO SPORTS GT HD" tvg-name="| CLARO SPORTS GT HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",| CLARO SPORTS GT HD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRKE2rY-78V4gR41gwHKO31/ts
-#EXTINF:-1 tvg-id="| CLARO SPORTS GT" tvg-name="| CLARO SPORTS GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",| CLARO SPORTS GT
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQDnJfWEdqHtO5aKjPSnvrY/ts
 #EXTINF:-1 tvg-id="• ESPN 1 COLOMBIA 2" tvg-name="• ESPN 1 COLOMBIA 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S C3 ADmbolo.jpg" group-title="DEPORTES",• ESPN 1 COLOMBIA 2
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSMLcS6Pm9OLHt_fFs9HPfR/ts
 #EXTINF:-1 tvg-id="• ESPN 1 COLOMBIA" tvg-name="• ESPN 1 COLOMBIA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S C3 ADmbolo.jpg" group-title="DEPORTES",• ESPN 1 COLOMBIA
@@ -1097,6 +1087,8 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQtK8lUfB2S
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT0O1not8bZ3XQxVRWwknfZ/ts
 #EXTINF:-1 tvg-id="ROOT SPORTS NORTHWEST" tvg-name="ROOT SPORTS NORTHWEST" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/402dc601-dfb9-434c-a53b-9a0c78240519.png" group-title="DEPORTES",ROOT SPORTS NORTHWEST
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQgsoHCKOxzaHsf11ql-0SV/ts
+#EXTINF:-1 tvg-id="S SPORTS NFL" tvg-name="S SPORTS NFL" PLUS group-title="PPV NFL",S SPORTS NFL
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQQp1K0XcvdSXQyP0PGoYHp/ts
 #EXTINF:-1 tvg-id="SEC Network" tvg-name="SEC Network" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/123d2b2f-425d-48af-a8a4-60c13d905d08.PNG" group-title="DEPORTES",SEC Network
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRsx7OaSF9ioo2oLYBKNpo9/ts
 #EXTINF:-1 tvg-id="SFR SPORT 2" tvg-name="SFR SPORT 2" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/b80e3599-76e2-449a-a758-879a075fa1b8.PNG" group-title="DEPORTES",SFR SPORT 2
@@ -2859,8 +2851,6 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTgAeVx6Nt2
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRyNe9GC8Yw7oE3AkFOHC6S/ts
 #EXTINF:-1 tvg-id="968 Maxivision || GUATEMALA" tvg-name="968 Maxivision || GUATEMALA" PLUS group-title="GUATEMALA",968 Maxivision || GUATEMALA
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQq_sIlEgoUJ8R7BWAdNNIO/ts
-#EXTINF:-1 tvg-id="972 Esquipulas|| GUATEMALA" tvg-name="972 Esquipulas|| GUATEMALA" PLUS group-title="GUATEMALA",972 Esquipulas|| GUATEMALA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRdB0v6L7gy-nDPKpTdNq_c/ts
 #EXTINF:-1 tvg-id="Amigos TV" tvg-name="Amigos TV" PLUS group-title="GUATEMALA",Amigos TV
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT_rzCr3VXnMpOnWK61E3k-/ts
 #EXTINF:-1 tvg-id="Aurora Media Films" tvg-name="Aurora Media Films" PLUS group-title="GUATEMALA",Aurora Media Films
@@ -2869,12 +2859,8 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTUXpa1H0T7
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTm62aPxq7zL3PdWuE878Rg/ts
 #EXTINF:-1 tvg-id="Canal 100 Tv Chinique" tvg-name="Canal 100 Tv Chinique" PLUS group-title="GUATEMALA",Canal 100 Tv Chinique
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSyV375x-OCYIAnh_qxGtWD/ts
-#EXTINF:-1 tvg-id="Canal 26 Cono Sur" tvg-name="Canal 26 Cono Sur" PLUS group-title="GUATEMALA",Canal 26 Cono Sur
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRTqzIHA9hwuYyiDhKwEl48/ts
 #EXTINF:-1 tvg-id="Canal Barbe Tv" tvg-name="Canal Barbe Tv" PLUS group-title="GUATEMALA",Canal Barbe Tv
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRCcW_Wc0kvHKfP7N4oMJe4/ts
-#EXTINF:-1 tvg-id="Canal Totovision de Totonicapan" tvg-name="Canal Totovision de Totonicapan" PLUS group-title="GUATEMALA",Canal Totovision de Totonicapan
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS9VLXoDu8l0epGASW10USZ/ts
 #EXTINF:-1 tvg-id="Coban TV" tvg-name="Coban TV" PLUS group-title="GUATEMALA",Coban TV
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQUUo54TuXHJAJtCowIkHLZ/ts
 #EXTINF:-1 tvg-id="El Camino Tv" tvg-name="El Camino Tv" PLUS group-title="GUATEMALA",El Camino Tv
@@ -3181,6 +3167,10 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSDKAPjjy-n
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSSYrPDNtKD3i5HjhOVUZoY/ts
 #EXTINF:-1 tvg-id="News 12 Long Island US" tvg-name="News 12 Long Island US" PLUS group-title="USA",News 12 Long Island US
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSPR_fZHtYThojzWzhqjPxV/ts
+#EXTINF:-1 tvg-id="TBS EAST US" tvg-name="TBS EAST US" PLUS group-title="USA",TBS EAST US
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT582WTC9DAFQA9AqrmhYup/ts
+#EXTINF:-1 tvg-id="TBS WEST US" tvg-name="TBS WEST US" PLUS group-title="USA",TBS WEST US
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR14i-dSA6HSQInOZbpvsJl/ts
 #EXTINF:-1 tvg-id="United States THE COWBOY CHANNEL" tvg-name="United States THE COWBOY CHANNEL" PLUS group-title="USA",United States THE COWBOY CHANNEL
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRaKoE5KKKbOlu1gxr11z2N/ts
 #EXTINF:-1 tvg-id="USA USA NETWORK OP1" tvg-name="USA USA NETWORK OP1" PLUS group-title="USA",USA USA NETWORK OP1
@@ -10343,18 +10333,174 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6Yg-P6mZCJ
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5A6PIz67rXu9w2iUm42RZG#.mkv
 #EXTINF:-1 tvg-id="Taxista ra ra S01E36" tvg-type="serie" tvg-name="Taxista ra ra S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ac4wm9dj69BOuD70lpJj6L7xmX.jpg" group-title="VFLIX VFLIX SERIES PERUANAS",Taxista ra ra S01E36
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4GRuLuyBIVGkQ7MG_YciuM#.mkv
-#EXTINF:-1 tvg-id="21/08 • 19:30 • Palmeiras vs Botafogo 01" tvg-name="21/08 • 19:30 • Palmeiras vs Botafogo 01" PLUS group-title="️ COPA LIBERTADORES",21/08 • 19:30 • Palmeiras vs Botafogo 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQz2V0cV0mO1Hw_6DwOK-uZ/ts
-#EXTINF:-1 tvg-id="21/08 • 19:30 • Palmeiras vs Botafogo 02" tvg-name="21/08 • 19:30 • Palmeiras vs Botafogo 02" PLUS group-title="️ COPA LIBERTADORES",21/08 • 19:30 • Palmeiras vs Botafogo 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRsTvVz8OkUZLcsql1dPlaY/ts
-#EXTINF:-1 tvg-id="22/08 • 17:00 • São Paulo vs Nacional 01" tvg-name="22/08 • 17:00 • São Paulo vs Nacional 01" PLUS group-title="️ COPA LIBERTADORES",22/08 • 17:00 • São Paulo vs Nacional 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRd-BYGZ3Ddj2eunBUQkWTZ/ts
-#EXTINF:-1 tvg-id="22/08 • 17:00 • São Paulo vs Nacional 02" tvg-name="22/08 • 17:00 • São Paulo vs Nacional 02" PLUS group-title="️ COPA LIBERTADORES",22/08 • 17:00 • São Paulo vs Nacional 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRsI5gUmhWhyKb-XgDyfxc2/ts
-#EXTINF:-1 tvg-id="22/08 • 19:30 • Bolivar vs Flamengo 01" tvg-name="22/08 • 19:30 • Bolivar vs Flamengo 01" PLUS group-title="️ COPA LIBERTADORES",22/08 • 19:30 • Bolivar vs Flamengo 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ76dJ-OuO_w45fLx1MIE3r/ts
-#EXTINF:-1 tvg-id="22/08 • 19:30 • Bolivar vs Flamengo PLUS 02" tvg-name="22/08 • 19:30 • Bolivar vs Flamengo PLUS 02" PLUS group-title="️ COPA LIBERTADORES",22/08 • 19:30 • Bolivar vs Flamengo PLUS 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTfHnP5I9gJ99jRYoZCsce0/ts
+#EXTINF:-1 tvg-id="NCAAF 01:" tvg-name="NCAAF 01:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 01:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR0AbhMmFD3H3Bexh_fLFUL/ts
+#EXTINF:-1 tvg-id="NCAAF 02:" tvg-name="NCAAF 02:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 02:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFROWh7eU1nuIr03sHirPY1c/ts
+#EXTINF:-1 tvg-id="NCAAF 03:" tvg-name="NCAAF 03:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 03:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQYw31BOiFusOzmb6isaCJs/ts
+#EXTINF:-1 tvg-id="NCAAF 04:" tvg-name="NCAAF 04:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 04:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRuWHF1cdUyRMRdKQz0FmsD/ts
+#EXTINF:-1 tvg-id="NCAAF 05:" tvg-name="NCAAF 05:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 05:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ0jEMgh7PT54oxuEixlJZy/ts
+#EXTINF:-1 tvg-id="NCAAF 06:" tvg-name="NCAAF 06:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 06:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTlsAjRHLXRLmxuXTWgaH0F/ts
+#EXTINF:-1 tvg-id="NCAAF 07:" tvg-name="NCAAF 07:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 07:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRawug4l86PyH510Mok1VNK/ts
+#EXTINF:-1 tvg-id="NCAAF 08:" tvg-name="NCAAF 08:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 08:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQAbEB-gUJoYPG95ubOhgPg/ts
+#EXTINF:-1 tvg-id="NCAAF 09:" tvg-name="NCAAF 09:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 09:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS-1FUPh6EJZLsVdJMuB-rF/ts
+#EXTINF:-1 tvg-id="NCAAF 10:" tvg-name="NCAAF 10:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 10:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR_xOte9MDBgEo08A8-JntQ/ts
+#EXTINF:-1 tvg-id="NCAAF 11:" tvg-name="NCAAF 11:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 11:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFStBhZUPocxLr3aepqNgKmv/ts
+#EXTINF:-1 tvg-id="NCAAF 12:" tvg-name="NCAAF 12:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 12:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSu_TvsIn2vmxY9YXczn7bq/ts
+#EXTINF:-1 tvg-id="NCAAF 13:" tvg-name="NCAAF 13:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 13:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR7tnvdKJguEJn4GUMMe-PP/ts
+#EXTINF:-1 tvg-id="NCAAF 14:" tvg-name="NCAAF 14:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 14:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQk3GszRwi71-Aen2p9gNej/ts
+#EXTINF:-1 tvg-id="NCAAF 15:" tvg-name="NCAAF 15:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 15:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTFEMaTjJYDPVetNnxpBRFu/ts
+#EXTINF:-1 tvg-id="NCAAF 16:" tvg-name="NCAAF 16:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 16:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQfCgTS2_ROvXJSTdtoymLI/ts
+#EXTINF:-1 tvg-id="NCAAF 17:" tvg-name="NCAAF 17:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 17:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT9XhD45xcY1TXvJaZl4vMY/ts
+#EXTINF:-1 tvg-id="NCAAF 18:" tvg-name="NCAAF 18:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 18:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQNPNi9KB5MB2dp-GBYzhso/ts
+#EXTINF:-1 tvg-id="NCAAF 19:" tvg-name="NCAAF 19:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 19:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSirhUyQhsn92PQT25nMmOf/ts
+#EXTINF:-1 tvg-id="NCAAF 20:" tvg-name="NCAAF 20:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 20:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTgOu-qjP6fF11F2cjWO66M/ts
+#EXTINF:-1 tvg-id="NCAAF 21:" tvg-name="NCAAF 21:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 21:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTIhaeq7wJyGdlB2Sh26Jr1/ts
+#EXTINF:-1 tvg-id="NCAAF 22:" tvg-name="NCAAF 22:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 22:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRPULodDoFA1XVTGQoXIAE4/ts
+#EXTINF:-1 tvg-id="NCAAF 23:" tvg-name="NCAAF 23:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 23:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRyfsroK1bQeZF9pWrAXZOs/ts
+#EXTINF:-1 tvg-id="NCAAF 24:" tvg-name="NCAAF 24:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 24:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR2vaWApB_wy_XQXGCkXPsm/ts
+#EXTINF:-1 tvg-id="NCAAF 25:" tvg-name="NCAAF 25:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 25:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQJ6W_b0N1zN2xvUH9mbtMc/ts
+#EXTINF:-1 tvg-id="NCAAF 26:" tvg-name="NCAAF 26:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 26:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSkHc1WPL5hB1oY3mfbTCLb/ts
+#EXTINF:-1 tvg-id="NCAAF 27:" tvg-name="NCAAF 27:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 27:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS5K6zUuXdzlAan7rxNOHh6/ts
+#EXTINF:-1 tvg-id="NCAAF 28:" tvg-name="NCAAF 28:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 28:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTRsj5dDTQv1EKox1QGflnx/ts
+#EXTINF:-1 tvg-id="NCAAF 29:" tvg-name="NCAAF 29:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 29:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTiaG5OkhZO5sl4eghsmvPm/ts
+#EXTINF:-1 tvg-id="NCAAF 30:" tvg-name="NCAAF 30:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 30:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRrbZntgK_wv_djQX4pzG9b/ts
+#EXTINF:-1 tvg-id="NCAAF 31:" tvg-name="NCAAF 31:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 31:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSdeikAI669xz2p0WgTOTtu/ts
+#EXTINF:-1 tvg-id="NCAAF 32:" tvg-name="NCAAF 32:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 32:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRig7Tr_N6jm0hi233AA9vi/ts
+#EXTINF:-1 tvg-id="NCAAF 33:" tvg-name="NCAAF 33:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 33:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ2z-XJai316mD_R7xzLEDR/ts
+#EXTINF:-1 tvg-id="NCAAF 34:" tvg-name="NCAAF 34:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 34:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTLTNbRe2ktaHKj5D-73xYe/ts
+#EXTINF:-1 tvg-id="NCAAF 35:" tvg-name="NCAAF 35:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 35:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQu4KWMqv0WZPQRPgI2oU4O/ts
+#EXTINF:-1 tvg-id="NCAAF 36:" tvg-name="NCAAF 36:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 36:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRZwZdbhlzIAtm9uixtPsGE/ts
+#EXTINF:-1 tvg-id="NCAAF 37:" tvg-name="NCAAF 37:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 37:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRBIlojP3MuUxoIO-kkmkK0/ts
+#EXTINF:-1 tvg-id="NCAAF 38:" tvg-name="NCAAF 38:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 38:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSlzLMt_OFqpCw7blRTceP-/ts
+#EXTINF:-1 tvg-id="NCAAF 39:" tvg-name="NCAAF 39:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 39:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRwCuwQZExht93vLH42h0tv/ts
+#EXTINF:-1 tvg-id="NCAAF 40:" tvg-name="NCAAF 40:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 40:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQGcqEjOdDjI79e-vnoTAwo/ts
+#EXTINF:-1 tvg-id="NCAAF 41:" tvg-name="NCAAF 41:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 41:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSod9-eUL4BmCaJr0jmw1Yh/ts
+#EXTINF:-1 tvg-id="NCAAF 42:" tvg-name="NCAAF 42:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 42:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQlkolx2nmLhPqvS_QhTTNn/ts
+#EXTINF:-1 tvg-id="NCAAF 43:" tvg-name="NCAAF 43:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 43:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSAnv0BV520BJPkskvnP3eH/ts
+#EXTINF:-1 tvg-id="NCAAF 44:" tvg-name="NCAAF 44:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 44:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSRO9Xsti7KSOHJUIh66JjE/ts
+#EXTINF:-1 tvg-id="NCAAF 45:" tvg-name="NCAAF 45:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 45:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS5aN7zAej6GUR3cE8jBRNj/ts
+#EXTINF:-1 tvg-id="NCAAF 46:" tvg-name="NCAAF 46:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 46:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSg_mqSvZSpjQveXvV4oFP7/ts
+#EXTINF:-1 tvg-id="NCAAF 47:" tvg-name="NCAAF 47:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 47:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT86Z6jnY-EsxKKerDndHaC/ts
+#EXTINF:-1 tvg-id="NCAAF 48:" tvg-name="NCAAF 48:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 48:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS0y-yyRqKGYIOhcbUG5TgN/ts
+#EXTINF:-1 tvg-id="NCAAF 49:" tvg-name="NCAAF 49:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 49:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRnGXxxc3EAZm_BSLaKi5Mo/ts
+#EXTINF:-1 tvg-id="NCAAF 50:" tvg-name="NCAAF 50:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 50:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRriidPEasxjYHV8G40B_1v/ts
+#EXTINF:-1 tvg-id="NCAAF 51:" tvg-name="NCAAF 51:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 51:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR4FvdByf00yv4kzCZyTE7Y/ts
+#EXTINF:-1 tvg-id="NCAAF 52:" tvg-name="NCAAF 52:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 52:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRJ0yfuLIO8vKegvLJVT8Ua/ts
+#EXTINF:-1 tvg-id="NCAAF 53:" tvg-name="NCAAF 53:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 53:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRxC3TDRv5jeA4RD-isK0NG/ts
+#EXTINF:-1 tvg-id="NCAAF 54:" tvg-name="NCAAF 54:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 54:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSAZ_tPl18vOSmQYLDs58V2/ts
+#EXTINF:-1 tvg-id="NCAAF 55:" tvg-name="NCAAF 55:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 55:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQeR6ocqqrL6HxQY4b2fYmL/ts
+#EXTINF:-1 tvg-id="NCAAF 56:" tvg-name="NCAAF 56:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 56:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSon5VelXyJzO4nRN-A_NCZ/ts
+#EXTINF:-1 tvg-id="NCAAF 57:" tvg-name="NCAAF 57:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 57:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR9aKajgJMyoSrNkcoohchN/ts
+#EXTINF:-1 tvg-id="NCAAF 58:" tvg-name="NCAAF 58:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 58:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS64Q7mC1WEvuYJr9xjq3za/ts
+#EXTINF:-1 tvg-id="NCAAF 59:" tvg-name="NCAAF 59:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 59:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRbi8UHpEnuCYfFFvNe5H37/ts
+#EXTINF:-1 tvg-id="NCAAF 60:" tvg-name="NCAAF 60:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 60:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRCCo98iPxMDrVoizJcPb84/ts
+#EXTINF:-1 tvg-id="NCAAF 61:" tvg-name="NCAAF 61:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 61:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQwSDpY1bbYG40bgQH8eYCP/ts
+#EXTINF:-1 tvg-id="NCAAF 62:" tvg-name="NCAAF 62:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 62:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQxwqpnH6tpCWSDuMQUTeIi/ts
+#EXTINF:-1 tvg-id="NCAAF 63:" tvg-name="NCAAF 63:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 63:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQTsDNz0VmE5NG9G-BfCPmv/ts
+#EXTINF:-1 tvg-id="NCAAF 64:" tvg-name="NCAAF 64:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 64:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQFo3oetdquKJzo9bPRbWBR/ts
+#EXTINF:-1 tvg-id="NCAAF 65:" tvg-name="NCAAF 65:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 65:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTOAsXW8vCbO_TvuO52tRtm/ts
+#EXTINF:-1 tvg-id="NCAAF 66:" tvg-name="NCAAF 66:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 66:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR48urWgyGMz8hoICcvFyhQ/ts
+#EXTINF:-1 tvg-id="NCAAF 67:" tvg-name="NCAAF 67:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 67:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR5822khE4Rx3EYmeOJ-uUq/ts
+#EXTINF:-1 tvg-id="NCAAF 68:" tvg-name="NCAAF 68:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 68:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRm4BxK9BL6zUAlbAnveIe_/ts
+#EXTINF:-1 tvg-id="NCAAF 69:" tvg-name="NCAAF 69:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 69:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT-xfh3MA3lPgcBMEBvLgcU/ts
+#EXTINF:-1 tvg-id="NCAAF 70:" tvg-name="NCAAF 70:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 70:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRDdxr8PZLd9eZNiR1K5JdW/ts
+#EXTINF:-1 tvg-id="NCAAF 71:" tvg-name="NCAAF 71:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 71:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTdDqafnhsilJKPZ6k4qNhd/ts
+#EXTINF:-1 tvg-id="NCAAF 72:" tvg-name="NCAAF 72:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 72:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTf8FtSO79A9Tgk1rZIAek2/ts
+#EXTINF:-1 tvg-id="NCAAF 73:" tvg-name="NCAAF 73:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 73:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS-rE9TeCfM8cktu6X0il_1/ts
+#EXTINF:-1 tvg-id="NCAAF 74:" tvg-name="NCAAF 74:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 74:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQO83Z8vQ3C__oYlvz9IU5I/ts
+#EXTINF:-1 tvg-id="NCAAF 75:" tvg-name="NCAAF 75:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 75:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRVeyzZE1FTms02w4plU_-O/ts
+#EXTINF:-1 tvg-id="NCAAF 76:" tvg-name="NCAAF 76:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 76:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRhNeK3k0Wg5Y9PnPk-5Gvp/ts
+#EXTINF:-1 tvg-id="NCAAF 77:" tvg-name="NCAAF 77:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 77:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTERBG018KonDNiEkvzb3UK/ts
+#EXTINF:-1 tvg-id="NCAAF 79:" tvg-name="NCAAF 79:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 79:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSi4w9S-UiuRLma6ih_xUb0/ts
+#EXTINF:-1 tvg-id="NCAAF 80:" tvg-name="NCAAF 80:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 80:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT2x3ZEoeLWxUIdWBvR3EOY/ts
+#EXTINF:-1 tvg-id="NCAAF 81:" tvg-name="NCAAF 81:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 81:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSXDg1aANUHjfQdSDMiSKdM/ts
+#EXTINF:-1 tvg-id="NCAAF 82:" tvg-name="NCAAF 82:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 82:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQZ7bk8HAXbNJZPFiC7WxR4/ts
+#EXTINF:-1 tvg-id="NCAAF 83:" tvg-name="NCAAF 83:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 83:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTehqyX7iPDcC-1tE8ABhXO/ts
+#EXTINF:-1 tvg-id="NCAAF 84:" tvg-name="NCAAF 84:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 84:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS4VU8NO7FmZHYztZ-C4VZ8/ts
+#EXTINF:-1 tvg-id="NCAAF 85:" tvg-name="NCAAF 85:" PLUS group-title="️ EVENTOS NCAAF",NCAAF 85:
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRAG72ZW-I9hcDCJxOMjiU9/ts
 #EXTINF:-1 tvg-id="05 UFC FIGHT EXCLUSIVO" tvg-name="05 UFC FIGHT EXCLUSIVO" PLUS group-title="EVENTOS PPV",05 UFC FIGHT EXCLUSIVO
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSpA1jMcHwpiQl93Lprypwi/ts
 #EXTINF:-1 tvg-id="Combat Brasil MMA HD ©" tvg-name="Combat Brasil MMA HD ©" PLUS group-title="EVENTOS PPV",Combat Brasil MMA HD ©
@@ -10375,6 +10521,34 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTBGh1PFr5n
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRf2IhN95xcTe668BoZm1bP/ts
 #EXTINF:-1 tvg-id="Premier League 05" tvg-name="Premier League 05" PLUS group-title="EVENTOS PPV",Premier League 05
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRFjxT9k5Ft1jGd0PI8zlOJ/ts
+#EXTINF:-1 tvg-id="EVENTOS 1 SANTA Fe FC VS VANCOUVER WHITECAPS FC" tvg-name="EVENTOS 1 SANTA Fe FC VS VANCOUVER WHITECAPS FC" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 1 SANTA Fe FC VS VANCOUVER WHITECAPS FC
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ5oiuVv8gQNqJHmG6OdiJ-/ts
+#EXTINF:-1 tvg-id="EVENTOS 10" tvg-name="EVENTOS 10" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 10
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT_T2pMwguCcQ6FBee4IaUC/ts
+#EXTINF:-1 tvg-id="EVENTOS 11" tvg-name="EVENTOS 11" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 11
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRYo4CJgUThpIQqV8AghHwH/ts
+#EXTINF:-1 tvg-id="EVENTOS 12" tvg-name="EVENTOS 12" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 12
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRRjjyfqOjntR22w1dRELoF/ts
+#EXTINF:-1 tvg-id="EVENTOS 13" tvg-name="EVENTOS 13" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 13
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSQk6d2cPxd-QoqNlo7dSLV/ts
+#EXTINF:-1 tvg-id="EVENTOS 14" tvg-name="EVENTOS 14" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 14
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTzQqTUyZ12BpvM-0q22naD/ts
+#EXTINF:-1 tvg-id="EVENTOS 15" tvg-name="EVENTOS 15" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 15
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTkUTH3hSHb5t1yy9rVSWQk/ts
+#EXTINF:-1 tvg-id="EVENTOS 2 PORTLAND THORNS FC VS CLUB AMeRICA FEMENIL" tvg-name="EVENTOS 2 PORTLAND THORNS FC VS CLUB AMeRICA FEMENIL" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 2 PORTLAND THORNS FC VS CLUB AMeRICA FEMENIL
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQLY_6tHGUK3Mro7jaNwmuT/ts
+#EXTINF:-1 tvg-id="EVENTOS 3 Concacaf 13:00 Hrs Anguila vs Islas Turcas y Caicos" tvg-name="EVENTOS 3 Concacaf 13:00 Hrs Anguila vs Islas Turcas y Caicos" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 3 Concacaf 13:00 Hrs Anguila vs Islas Turcas y Caicos
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQkD213gIAxfo3m18CUfhAa/ts
+#EXTINF:-1 tvg-id="EVENTOS 4 Concacaf 14:00 Hrs U.S. Virgin Islands vs Bahamas" tvg-name="EVENTOS 4 Concacaf 14:00 Hrs U.S. Virgin Islands vs Bahamas" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 4 Concacaf 14:00 Hrs U.S. Virgin Islands vs Bahamas
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRWvoKQAUMGItTpioHv3Fa3/ts
+#EXTINF:-1 tvg-id="EVENTOS 5 Concacaf 14:30 Hrs Islas Virgenes Britanicas vs Islas Caiman" tvg-name="EVENTOS 5 Concacaf 14:30 Hrs Islas Virgenes Britanicas vs Islas Caiman" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 5 Concacaf 14:30 Hrs Islas Virgenes Britanicas vs Islas Caiman
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTH2GvmMLfRPp54vWVv3eAO/ts
+#EXTINF:-1 tvg-id="EVENTOS 7 Cop ECU 19:00 Hrs Aucas vs Libertad" tvg-name="EVENTOS 7 Cop ECU 19:00 Hrs Aucas vs Libertad" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 7 Cop ECU 19:00 Hrs Aucas vs Libertad
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRJJvcpJKrUvNYN0uts4h_t/ts
+#EXTINF:-1 tvg-id="EVENTOS 8 Concacaf W 18:00 Hrs Santa Fe FC vs Vancouver Whitecaps FC" tvg-name="EVENTOS 8 Concacaf W 18:00 Hrs Santa Fe FC vs Vancouver Whitecaps FC" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 8 Concacaf W 18:00 Hrs Santa Fe FC vs Vancouver Whitecaps FC
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQu7Wa1HjXyoNPkik5OogQ4/ts
+#EXTINF:-1 tvg-id="EVENTOS 9 Concacaf W 20:00 Hrs Portland Thorns vs America" tvg-name="EVENTOS 9 Concacaf W 20:00 Hrs Portland Thorns vs America" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS 9 Concacaf W 20:00 Hrs Portland Thorns vs America
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQGh0KAIo3hpm9FNscD_4XG/ts
 #EXTINF:-1 tvg-id="EVENTOS DISNEY PLUS PLUS 1 SOLO EVENTOS" tvg-name="EVENTOS DISNEY PLUS PLUS 1 SOLO EVENTOS" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS DISNEY PLUS PLUS 1 SOLO EVENTOS
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQjgqTZxWyEBRcI32_i-Rh2/ts
 #EXTINF:-1 tvg-id="EVENTOS DISNEY PLUS PLUS 2 SOLO EVENTOS" tvg-name="EVENTOS DISNEY PLUS PLUS 2 SOLO EVENTOS" PLUS group-title="EVENTOS DISNEY PLUS PLUS A LA HORA DEL EVENTO",EVENTOS DISNEY PLUS PLUS 2 SOLO EVENTOS
@@ -10457,7 +10631,7 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT9nNyBFkrN
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT9rbjpnNkJxrnPZ8vs8t2C/ts
 #EXTINF:-1 tvg-id="NOTI TELESUR" tvg-name="NOTI TELESUR" PLUS group-title="NOTICIAS",NOTI TELESUR
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTszvu3xzz8uTu92AQ-wQ1_/ts
-#EXTINF:-1 tvg-id="CBN News 1080p" tvg-name="CBN News 1080p" PLUS group-title="RELIGIOSOS",CBN News 1080p
+#EXTINF:-1 tvg-id="CBN News" tvg-name="CBN News" PLUS group-title="RELIGIOSOS",CBN News
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQpfFQA2YEfIwxr4NGHsEku/ts
 #EXTINF:-1 tvg-id="ENLACEOPCION 1" tvg-name="ENLACEOPCION 1" PLUS group-title="RELIGIOSOS",ENLACEOPCION 1
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRD63h_xTTYR_lnubhjALm0/ts
@@ -10549,78 +10723,12 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQlTaSs3ve4
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS2i-tKkeHAxqpqqWLm3H0S/ts
 #EXTINF:-1 tvg-id="UNIVISION NOTICIAS MX" tvg-name="UNIVISION NOTICIAS MX" PLUS group-title="NOTICIAS",UNIVISION NOTICIAS MX
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQWJVUgBOiAtJ689M-R6PEX/ts
-#EXTINF:-1 tvg-id="NHL ALTERNATE HD CA" tvg-name="NHL ALTERNATE HD CA" PLUS group-title="NBA MLB NFL",NHL ALTERNATE HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRzlWf0VDWz1jCCdCnGnrmx/ts
-#EXTINF:-1 tvg-id="NHL ANAHEIM DUCKS HD CA" tvg-name="NHL ANAHEIM DUCKS HD CA" PLUS group-title="NBA MLB NFL",NHL ANAHEIM DUCKS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQjTr016fkUyH0q-h8CXPH8/ts
-#EXTINF:-1 tvg-id="NHL ARIZONA COYOTES HD CA" tvg-name="NHL ARIZONA COYOTES HD CA" PLUS group-title="NBA MLB NFL",NHL ARIZONA COYOTES HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSUWWvQNYCXPO3pvcwSW6eh/ts
-#EXTINF:-1 tvg-id="NHL BOSTON BRUINS HD CA" tvg-name="NHL BOSTON BRUINS HD CA" PLUS group-title="NBA MLB NFL",NHL BOSTON BRUINS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRK0dQKjPve4suqUEzRX3ci/ts
-#EXTINF:-1 tvg-id="NHL BUFFALO SABRES HD CA" tvg-name="NHL BUFFALO SABRES HD CA" PLUS group-title="NBA MLB NFL",NHL BUFFALO SABRES HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSsBOtNgk_FtQGHmdfVlbE1/ts
-#EXTINF:-1 tvg-id="NHL CALGARY FLAMES HD CA" tvg-name="NHL CALGARY FLAMES HD CA" PLUS group-title="NBA MLB NFL",NHL CALGARY FLAMES HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSPlsSr2thWrIm07vmV6Sik/ts
-#EXTINF:-1 tvg-id="NHL CAROLINA HURRICANES HD CA" tvg-name="NHL CAROLINA HURRICANES HD CA" PLUS group-title="NBA MLB NFL",NHL CAROLINA HURRICANES HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTRK9yw6jhdA6fqPliohosz/ts
-#EXTINF:-1 tvg-id="NHL CENTRE ICE FULL PACKAGE CH450 CA" tvg-name="NHL CENTRE ICE FULL PACKAGE CH450 CA" PLUS group-title="NBA MLB NFL",NHL CENTRE ICE FULL PACKAGE CH450 CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRJweSn5z5L3kvo1KxWDZ0u/ts
-#EXTINF:-1 tvg-id="NHL CENTRE ICE FULL PACKAGE CH464 CA" tvg-name="NHL CENTRE ICE FULL PACKAGE CH464 CA" PLUS group-title="NBA MLB NFL",NHL CENTRE ICE FULL PACKAGE CH464 CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT_NXz1OWsggRTktItN377f/ts
-#EXTINF:-1 tvg-id="NHL CENTRE ICE FULL PACKAGE CH465 CA" tvg-name="NHL CENTRE ICE FULL PACKAGE CH465 CA" PLUS group-title="NBA MLB NFL",NHL CENTRE ICE FULL PACKAGE CH465 CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSXdpEPvYwf5wQdq6aXV7c2/ts
-#EXTINF:-1 tvg-id="NHL CHICAGO BLACKHAWKS CA" tvg-name="NHL CHICAGO BLACKHAWKS CA" PLUS group-title="NBA MLB NFL",NHL CHICAGO BLACKHAWKS CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSsYMlrUUXTzlsdqQg9ekyA/ts
-#EXTINF:-1 tvg-id="NHL COLORADO AVALANCHE HD CA" tvg-name="NHL COLORADO AVALANCHE HD CA" PLUS group-title="NBA MLB NFL",NHL COLORADO AVALANCHE HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQAGmqwUPApp-en-JXDEE_6/ts
-#EXTINF:-1 tvg-id="NHL COLUMBUS BLUE JACKETS HD CA" tvg-name="NHL COLUMBUS BLUE JACKETS HD CA" PLUS group-title="NBA MLB NFL",NHL COLUMBUS BLUE JACKETS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSicKYUQtuuxPFPF7IjGUFy/ts
-#EXTINF:-1 tvg-id="NHL DALLAS STARS HD CA" tvg-name="NHL DALLAS STARS HD CA" PLUS group-title="NBA MLB NFL",NHL DALLAS STARS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQYdtjsFFV0AnKGQ_ijmxtn/ts
-#EXTINF:-1 tvg-id="NHL DETRORED WINGS HD CA" tvg-name="NHL DETRORED WINGS HD CA" PLUS group-title="NBA MLB NFL",NHL DETRORED WINGS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRShOkjyez67m64iWZJ17EO/ts
-#EXTINF:-1 tvg-id="NHL EDMONTON OILERS HD CA" tvg-name="NHL EDMONTON OILERS HD CA" PLUS group-title="NBA MLB NFL",NHL EDMONTON OILERS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRHrjjlZS4y1cJSp6CymNVO/ts
-#EXTINF:-1 tvg-id="NHL FLORIDA PANTHERS HD CA" tvg-name="NHL FLORIDA PANTHERS HD CA" PLUS group-title="NBA MLB NFL",NHL FLORIDA PANTHERS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFThxeam9c-AHWBDbXyfOExo/ts
-#EXTINF:-1 tvg-id="NHL LOS ANGELES KINGS CA" tvg-name="NHL LOS ANGELES KINGS CA" PLUS group-title="NBA MLB NFL",NHL LOS ANGELES KINGS CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ6H1G8i3aEW3PVemmz30jB/ts
-#EXTINF:-1 tvg-id="NHL MONTREAL CANADIENS HD CA" tvg-name="NHL MONTREAL CANADIENS HD CA" PLUS group-title="NBA MLB NFL",NHL MONTREAL CANADIENS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTfPn5M3G0eqMtF04dH-ztA/ts
-#EXTINF:-1 tvg-id="NHL NASHVILLE PREDATORS HD CA" tvg-name="NHL NASHVILLE PREDATORS HD CA" PLUS group-title="NBA MLB NFL",NHL NASHVILLE PREDATORS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQrUayRnesw1ts48Hh_E6W3/ts
 #EXTINF:-1 tvg-id="NHL Network FHD" tvg-name="NHL Network FHD" PLUS group-title="NBA MLB NFL",NHL Network FHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTupietq1NtJamJmR5biQt6/ts
 #EXTINF:-1 tvg-id="NHL Network FHD" tvg-name="NHL Network FHD" PLUS group-title="NBA MLB NFL",NHL Network FHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQxL5ClwqCzosfY6Z6xRIqU/ts
 #EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" PLUS group-title="NBA MLB NFL",NHL Network
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQiHxzF2uAXJMVwNZas3-HF/ts
-#EXTINF:-1 tvg-id="NHL NEW JERSEY DEVILS HD CA" tvg-name="NHL NEW JERSEY DEVILS HD CA" PLUS group-title="NBA MLB NFL",NHL NEW JERSEY DEVILS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTDwDNTSd0NSf9bdqxlR0d8/ts
-#EXTINF:-1 tvg-id="NHL NEW YORK ISLANDERS HD CA" tvg-name="NHL NEW YORK ISLANDERS HD CA" PLUS group-title="NBA MLB NFL",NHL NEW YORK ISLANDERS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSYko6BzMcU2UbKuv89DMK6/ts
-#EXTINF:-1 tvg-id="NHL NEW YORK RANGERS HD CA" tvg-name="NHL NEW YORK RANGERS HD CA" PLUS group-title="NBA MLB NFL",NHL NEW YORK RANGERS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT1qKJ9LS7wRGJJBLbSsm8y/ts
-#EXTINF:-1 tvg-id="NHL OTTAWA SENATORS HD CA" tvg-name="NHL OTTAWA SENATORS HD CA" PLUS group-title="NBA MLB NFL",NHL OTTAWA SENATORS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRO8iB1tWRYOKNsNNHn08oC/ts
-#EXTINF:-1 tvg-id="NHL PHILADELPHIA FLYERS HD CA" tvg-name="NHL PHILADELPHIA FLYERS HD CA" PLUS group-title="NBA MLB NFL",NHL PHILADELPHIA FLYERS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSSu00xwS-XgAIeAHQa0QLv/ts
-#EXTINF:-1 tvg-id="NHL PITTSBURGH PENGUINS HD CA" tvg-name="NHL PITTSBURGH PENGUINS HD CA" PLUS group-title="NBA MLB NFL",NHL PITTSBURGH PENGUINS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTjZTX-kIb8V9sa0BAV3tZ-/ts
-#EXTINF:-1 tvg-id="NHL SAN JOSE SHARKS HD CA" tvg-name="NHL SAN JOSE SHARKS HD CA" PLUS group-title="NBA MLB NFL",NHL SAN JOSE SHARKS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQRlaKjCnS6fDa3beshaI7F/ts
-#EXTINF:-1 tvg-id="NHL ST. LOUIS BLUES HD CA" tvg-name="NHL ST. LOUIS BLUES HD CA" PLUS group-title="NBA MLB NFL",NHL ST. LOUIS BLUES HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSIFMv2GPMuDWGUpqspGqRk/ts
-#EXTINF:-1 tvg-id="NHL TAMPA BAY LIGHTNING HD CA" tvg-name="NHL TAMPA BAY LIGHTNING HD CA" PLUS group-title="NBA MLB NFL",NHL TAMPA BAY LIGHTNING HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRWNPFdV0DHByTLP3gog7hz/ts
-#EXTINF:-1 tvg-id="NHL TORONTO MAPLE LEAFS HD CA" tvg-name="NHL TORONTO MAPLE LEAFS HD CA" PLUS group-title="NBA MLB NFL",NHL TORONTO MAPLE LEAFS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSoxjnX9G08Sw3_p5jixiiQ/ts
-#EXTINF:-1 tvg-id="NHL VANCOUVER CANUCKS HD CA" tvg-name="NHL VANCOUVER CANUCKS HD CA" PLUS group-title="NBA MLB NFL",NHL VANCOUVER CANUCKS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRTJ_HjI7GECR31NPcgEJkE/ts
-#EXTINF:-1 tvg-id="NHL VEGAS GOLDEN KNIGHTS HD CA" tvg-name="NHL VEGAS GOLDEN KNIGHTS HD CA" PLUS group-title="NBA MLB NFL",NHL VEGAS GOLDEN KNIGHTS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSLLu2olCDmuaD9T_DCvqBv/ts
-#EXTINF:-1 tvg-id="NHL WASHINGTON CAPITALS HD CA" tvg-name="NHL WASHINGTON CAPITALS HD CA" PLUS group-title="NBA MLB NFL",NHL WASHINGTON CAPITALS HD CA
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTh2Dbq23pWt9e4OhOwQ6gs/ts
 #EXTINF:-1 tvg-id="MLB A Network FHD" tvg-name="MLB A Network FHD" PLUS group-title="PPV MLB",MLB A Network FHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQkCv5v99mBIobAnH8gYqzC/ts
 #EXTINF:-1 tvg-id="MLB Arizona Diamondbacks" tvg-name="MLB Arizona Diamondbacks" PLUS group-title="PPV MLB",MLB Arizona Diamondbacks
@@ -10867,34 +10975,36 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSk65DcrXnw
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQaqZ3XoGOYM2tcbfF4WLcL/ts
 #EXTINF:-1 tvg-id=" NFL redzone" tvg-name=" NFL redzone" PLUS group-title="PPV NFL", NFL redzone
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQLElcGps781G8NxAGIdITt/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 1 PLUS Only Game " tvg-name="NFL - Ticket 1 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 1 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFS_IOMwc2YyG6qHngLN5VAd/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 10 PLUS Only Game " tvg-name="NFL - Ticket 10 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 10 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTjuWjt1AuYicuvlnTaxZCj/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 11 PLUS Only Game " tvg-name="NFL - Ticket 11 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 11 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTT06KYaLvCPcG0Nbe2_L4-/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 12 PLUS Only Game " tvg-name="NFL - Ticket 12 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 12 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTpQ2Do3ZkmV63MiMjIf2Wl/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 13 PLUS Only Game " tvg-name="NFL - Ticket 13 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 13 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRGZ3H5-4bAttfOqeCrGlyz/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 2 PLUS Only Game " tvg-name="NFL - Ticket 2 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 2 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTQxSshn8mUkU_uiLPVIG7C/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 3 PLUS Only Game " tvg-name="NFL - Ticket 3 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 3 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSuO5_zrsfHSDiP6-b020-p/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 4 PLUS Only Game " tvg-name="NFL - Ticket 4 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 4 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTfBG8hMwVIvJ2BBbN1pkVT/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 5 PLUS Only Game " tvg-name="NFL - Ticket 5 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 5 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRGXgFIq6OwhUaQ6J5PpYw8/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 6 PLUS Only Game " tvg-name="NFL - Ticket 6 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 6 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQZmtdSzf-ejHs3pRk6E0SL/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 7 PLUS Only Game " tvg-name="NFL - Ticket 7 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 7 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQaTk_1IoRs7mme_tF3DSgT/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 8 PLUS Only Game " tvg-name="NFL - Ticket 8 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 8 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRldJqYD17pA0x_wk-yESZo/ts
-#EXTINF:-1 tvg-id="NFL - Ticket 9 PLUS Only Game " tvg-name="NFL - Ticket 9 PLUS Only Game " PLUS group-title="PPV NFL",NFL - Ticket 9 PLUS Only Game 
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRvKere8L7vQQBMURne9UzT/ts
+#EXTINF:-1 tvg-id="NFL Broncos @ Seahawks Sun 8th 2:00PM" tvg-name="NFL Broncos @ Seahawks Sun 8th 2:00PM" PLUS group-title="PPV NFL",NFL Broncos @ Seahawks Sun 8th 2:00PM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSOdi8IRcAo1EJwPzfD5qlN/ts
+#EXTINF:-1 tvg-id="NFL Cardinals @ Bills Sun 8th 10:00AM" tvg-name="NFL Cardinals @ Bills Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Cardinals @ Bills Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQgdm2VNv7cekjt-a9eknO4/ts
+#EXTINF:-1 tvg-id="NFL Commanders @ Buccaneers Sun 8th 2:25PM" tvg-name="NFL Commanders @ Buccaneers Sun 8th 2:25PM" PLUS group-title="PPV NFL",NFL Commanders @ Buccaneers Sun 8th 2:25PM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTlfBlq1TBmT9J9cIp7CW3T/ts
+#EXTINF:-1 tvg-id="NFL Cowboys @ Browns Sun 8th 2:25PM" tvg-name="NFL Cowboys @ Browns Sun 8th 2:25PM" PLUS group-title="PPV NFL",NFL Cowboys @ Browns Sun 8th 2:25PM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSpWv3CdlJPjljnNWv5zt-q/ts
+#EXTINF:-1 tvg-id="NFL Jaguars @ Dolphins Sun 8th 10:00AM" tvg-name="NFL Jaguars @ Dolphins Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Jaguars @ Dolphins Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTeHKEcIsd7HND5wey1FcZn/ts
 #EXTINF:-1 tvg-id="NFL Network FHD" tvg-name="NFL Network FHD" PLUS group-title="PPV NFL",NFL Network FHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSGCI0uD2-H5ySGx1IiXnbn/ts
+#EXTINF:-1 tvg-id="NFL Panthers @ Saints Sun 8th 10:00AM" tvg-name="NFL Panthers @ Saints Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Panthers @ Saints Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQUXJEIYsCyYkbwqwkGm1pL/ts
+#EXTINF:-1 tvg-id="NFL Patriots @ Bengals Sun 8th 10:00AM" tvg-name="NFL Patriots @ Bengals Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Patriots @ Bengals Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRO8dTt2nKYtsYT2tjKFH7w/ts
+#EXTINF:-1 tvg-id="NFL Raiders @ Chargers Sun 8th 2:00PM" tvg-name="NFL Raiders @ Chargers Sun 8th 2:00PM" PLUS group-title="PPV NFL",NFL Raiders @ Chargers Sun 8th 2:00PM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT_h6YjMFwkYxBuWKqDIczc/ts
+#EXTINF:-1 tvg-id="NFL Rams @ Lions Sun 8th 5:00PM" tvg-name="NFL Rams @ Lions Sun 8th 5:00PM" PLUS group-title="PPV NFL",NFL Rams @ Lions Sun 8th 5:00PM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRJPH6j3xUUNaxJ9YrsPxVH/ts
+#EXTINF:-1 tvg-id="NFL RedZone Semana 1 Sun 8th 11:00AM" tvg-name="NFL RedZone Semana 1 Sun 8th 11:00AM" PLUS group-title="PPV NFL",NFL RedZone Semana 1 Sun 8th 11:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRcuVixGdrddrU_G-Q9qf6W/ts
+#EXTINF:-1 tvg-id="NFL Steelers @ Falcons Sun 8th 10:00AM" tvg-name="NFL Steelers @ Falcons Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Steelers @ Falcons Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTBilYU5M9qyY_HPhoiiN1r/ts
+#EXTINF:-1 tvg-id="NFL Texans @ Colts Sun 8th 10:00AM" tvg-name="NFL Texans @ Colts Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Texans @ Colts Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQJWazmacNphaW352h4VH7G/ts
+#EXTINF:-1 tvg-id="NFL Titans @ Bears Sun 8th 10:00AM" tvg-name="NFL Titans @ Bears Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Titans @ Bears Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQu_BtPoP8KJyUV4Q1ERCO6/ts
+#EXTINF:-1 tvg-id="NFL Vikings @ Giants Sun 8th 10:00AM" tvg-name="NFL Vikings @ Giants Sun 8th 10:00AM" PLUS group-title="PPV NFL",NFL Vikings @ Giants Sun 8th 10:00AM
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT24WUxJAtrEG2QnMS8y66Z/ts
 #EXTINF:-1 tvg-id="#Sin_Filtro 2022" tvg-type="movie" tvg-name="#Sin_Filtro 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zb07uhzZ3k6F8V3y9JEKgmB1ODr.jpg" group-title="VFLIX 2022",#Sin_Filtro 2022
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ilqOq7wHrfXHnCQB5g3QAD#.mkv
 #EXTINF:-1 tvg-id="2 Kleine Kleutertjes Een Dag Om Nooit Te Vergeten 2022" tvg-type="movie" tvg-name="2 Kleine Kleutertjes Een Dag Om Nooit Te Vergeten 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R5QaOcS9mThbRw7NeFaQu8eoTw.jpg" group-title="VFLIX 2022",2 Kleine Kleutertjes Een Dag Om Nooit Te Vergeten 2022
@@ -10957,6 +11067,10 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iP5FsBzina
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iPDLiedSQZCPP0L0ib8FYz#.mkv
 #EXTINF:-1 tvg-id="La sombra de Caravaggio 2022" tvg-type="movie" tvg-name="La sombra de Caravaggio 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1DbcRS6mldTZ6io9ObOv0fvdv3.jpg" group-title="VFLIX 2022",La sombra de Caravaggio 2022
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gqJKPq5Jvoa5KoarSQiKGj#.mkv
+#EXTINF:-1 tvg-id="La ultima caceria 2022" tvg-type="movie" tvg-name="La ultima caceria 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifnOVSIuQpL8TC0bn4mBiX0cOr9.jpg" group-title="VFLIX 2022",La ultima caceria 2022
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gXtN6wgEtDllqPj8vTMUsn#.mkv
+#EXTINF:-1 tvg-id="Llegaron de noche 2022" tvg-type="movie" tvg-name="Llegaron de noche 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgIIZO9TJTeyF233Q10ZHv8uFsb.jpg" group-title="VFLIX 2022",Llegaron de noche 2022
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iODoG5uVQ10Llhg6v5hxK8#.mkv
 #EXTINF:-1 tvg-id="Los Cuatro Jinetes del Apocalipsis 2022" tvg-type="movie" tvg-name="Los Cuatro Jinetes del Apocalipsis 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt3mo4tArf2llDiht91cnvUtSgT.jpg" group-title="VFLIX 2022",Los Cuatro Jinetes del Apocalipsis 2022
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jVIFktE8vpXL_LVTBtLbuj#.mkv
 #EXTINF:-1 tvg-id="Los infalibles 2024" tvg-type="movie" tvg-name="Los infalibles 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg" group-title="VFLIX 2022",Los infalibles 2024
@@ -11107,6 +11221,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iYdXNATcEG
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gxHvfZhbQIU8YL11WdML2G#.mkv
 #EXTINF:-1 tvg-id="De vuelta al crimen 2023" tvg-type="movie" tvg-name="De vuelta al crimen 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgF5XaXnJmOgMxulhy2k1f9LNNc.jpg" group-title="VFLIX 2023",De vuelta al crimen 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gf6sW6rSneYawDI9MuX13R#.mkv
+#EXTINF:-1 tvg-id="Demasiado Tarde Para Regresar 2023" tvg-type="movie" tvg-name="Demasiado Tarde Para Regresar 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QGAUtP5YvEFRMdYl2iEhgHybDw.jpg" group-title="VFLIX 2023",Demasiado Tarde Para Regresar 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5i9vGXtdX3A6EE6-o_iQMDX#.mkv
 #EXTINF:-1 tvg-id="Dias dificiles 2023" tvg-type="movie" tvg-name="Dias dificiles 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3e10WFtHezbCZ74nu35ZDCLQn7J.jpg" group-title="VFLIX 2023",Dias dificiles 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5id1dLcMuj76yUB1czgPqT0#.mkv
 #EXTINF:-1 tvg-id="Disquiet 2023" tvg-type="movie" tvg-name="Disquiet 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmGxyO7EijpDs3Zjyfpx1AM251S.jpg" group-title="VFLIX 2023",Disquiet 2023
@@ -11193,6 +11309,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ik6Oeeac8x
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jSc1RHnx3GoBu4_JfsdURP#.mkv
 #EXTINF:-1 tvg-id="La emboscada 2023" tvg-type="movie" tvg-name="La emboscada 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYejOZfJpza6nQDOhLpji7IK80o.jpg" group-title="VFLIX 2023",La emboscada 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hdLTlwcN0wNDiF4U992HqN#.mkv
+#EXTINF:-1 tvg-id="La favorita del rey 2023" tvg-type="movie" tvg-name="La favorita del rey 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdWnOlnHyKOFM91ebnEsEEUvAcX.jpg" group-title="VFLIX 2023",La favorita del rey 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5im9QJvBkS5YVE-1Yaq2Nei#.mkv
 #EXTINF:-1 tvg-id="La guerra de los mundos el ataque 2023" tvg-type="movie" tvg-name="La guerra de los mundos el ataque 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0xF7q5k07BRVJz9Z3A8dGdbpLR.jpg" group-title="VFLIX 2023",La guerra de los mundos el ataque 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5j91mQsbJkZkYE35YdBSdsD#.mkv
 #EXTINF:-1 tvg-id="La inspiracion mas profunda 2023" tvg-type="movie" tvg-name="La inspiracion mas profunda 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rl4AkmB2nAMaTaYZQV0pwesOz3e.jpg" group-title="VFLIX 2023",La inspiracion mas profunda 2023
@@ -11293,6 +11411,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jCflNnnT9s
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jm-lEzqz83KZhS4uyhPQtx#.mkv
 #EXTINF:-1 tvg-id="Sin Aire 2023" tvg-type="movie" tvg-name="Sin Aire 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsIuPVujug3lK08UMzwQNnQXhVs.jpg" group-title="VFLIX 2023",Sin Aire 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g4SXOmlDq2AMkP3Lw_RJh6#.mkv
+#EXTINF:-1 tvg-id="Sismo magnitud 9.5 2023" tvg-type="movie" tvg-name="Sismo magnitud 9.5 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3PptOHdOuqz0BxEIExaqZ9ncuC.jpg" group-title="VFLIX 2023",Sismo magnitud 9.5 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jf1iiHPx5m_IePgz2heOzT#.mkv
 #EXTINF:-1 tvg-id="Suegros de alquiler. Agencia de enganos 2.0 2023" tvg-type="movie" tvg-name="Suegros de alquiler. Agencia de enganos 2.0 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGfhDC5WZ4WsgWKhJEtUxTKfNz9.jpg" group-title="VFLIX 2023",Suegros de alquiler. Agencia de enganos 2.0 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h0lFxsX7WcTUoL9zNT3EVf#.mkv
 #EXTINF:-1 tvg-id="Super Mario Bros 1993" tvg-type="movie" tvg-name="Super Mario Bros 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU2oB6NWnMJBkHwzRXQYgLAnJ8v.jpg" group-title="VFLIX 2023",Super Mario Bros 1993
@@ -11355,6 +11475,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5j4laN4dfV5
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hrtZvCdCxmZ-nwzihI9RB5#.mkv
 #EXTINF:-1 tvg-id="Wonka 2023 HD" tvg-type="movie" tvg-name="Wonka 2023 HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFyQa5WQqldIL44HBLaCmn5eERD.jpg" group-title="VFLIX 2023",Wonka 2023 HD
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jOx46IQrNhsN5TouH_24Pt#.mkv
+#EXTINF:-1 tvg-id="Disco, Ibiza, Locomia 2024" tvg-type="movie" tvg-name="Disco, Ibiza, Locomia 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLbZExOZ64LzbqJbbbjhlqbezi.jpg" group-title="VFLIX ESTRENOS",Disco, Ibiza, Locomia 2024
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jMSBc4GF_lW3zsRCq439EU#.mkv
 #EXTINF:-1 tvg-id="Telma, la unicornio 2024" tvg-type="movie" tvg-name="Telma, la unicornio 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohuki9saKOCtaKH72VBz5gx54tZ.jpg" group-title="VFLIX ESTRENOS",Telma, la unicornio 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jvEefOgRZqdfzCDu-Ka1Oa#.mkv
 #EXTINF:-1 tvg-id="¿Todo bien? 2024" tvg-type="movie" tvg-name="¿Todo bien? 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arVt18It7zOpOa2WZTzMiBxmyrY.jpg" group-title="VFLIX ESTRENOS",¿Todo bien? 2024
@@ -11405,12 +11527,12 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ghTR7J8p-c
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hsYyku2sXoGm5V09U0bHQ3#.mkv
 #EXTINF:-1 tvg-id="Beware the Boogeyman 2024" tvg-type="movie" tvg-name="Beware the Boogeyman 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Hm5IP9lPW9DfwNSGkghCEMeUBK.jpg" group-title="VFLIX ESTRENOS",Beware the Boogeyman 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hGjESstMwt0yKyY2KlE9I7#.mkv
+#EXTINF:-1 tvg-id="Bienvenidos al paraiso 2024" tvg-type="movie" tvg-name="Bienvenidos al paraiso 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aedMyPKufo1MfMy6bIzS5b7jVav.jpg" group-title="VFLIX ESTRENOS",Bienvenidos al paraiso 2024
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h72MYrHXsZ93FFe3KeufVZ#.mkv
 #EXTINF:-1 tvg-id="Bionicos 2024" tvg-type="movie" tvg-name="Bionicos 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPW83uhT4jSdV41NMZEPkN0kAuT.jpg" group-title="VFLIX ESTRENOS",Bionicos 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jM7wOH-wtzuINVyDyoM3eO#.mkv
 #EXTINF:-1 tvg-id="Blur 2022" tvg-type="movie" tvg-name="Blur 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rabH2UZQ0H4cZ6EMmdqdoQbKWWV.jpg" group-title="VFLIX ESTRENOS",Blur 2022
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5grn63HtpxZECahXXLZs3zI#.mkv
-#EXTINF:-1 tvg-id="Borderlands 2024 4K" tvg-type="movie" tvg-name="Borderlands 2024 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" group-title="VFLIX ESTRENOS",Borderlands 2024 4K
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5j3OJ6oaR1uu7CbRdZsgNbh#.mkv
 #EXTINF:-1 tvg-id="Borderlands HD 2024" tvg-type="movie" tvg-name="Borderlands HD 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" group-title="VFLIX ESTRENOS",Borderlands HD 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g4HETYLrDBx5wdR0EVTHMf#.mkv
 #EXTINF:-1 tvg-id="Caceria humana 2024" tvg-type="movie" tvg-name="Caceria humana 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgx7I0JfmHbGcbveNk4EK3jFuMk.jpg" group-title="VFLIX ESTRENOS",Caceria humana 2024
@@ -11483,8 +11605,6 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5grZ3wT7eUU
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h0Ld02ecZ1BrDAI509TjVf#.mkv
 #EXTINF:-1 tvg-id="El juego bonito 2024" tvg-type="movie" tvg-name="El juego bonito 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg" group-title="VFLIX ESTRENOS",El juego bonito 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ib1r60iSUd9PDxOlL8UtUG#.mkv
-#EXTINF:-1 tvg-id="El Ministerio de la Guerra 2024" tvg-type="movie" tvg-name="El Ministerio de la Guerra 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPNumPkIkv9lm51qpffVJEhtlC7.jpg" group-title="VFLIX ESTRENOS",El Ministerio de la Guerra 2024
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jivmkIvBsfJ8-RNM7jsBbU#.mkv
 #EXTINF:-1 tvg-id="El ministerio de la guerra sucia 2024" tvg-type="movie" tvg-name="El ministerio de la guerra sucia 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPNumPkIkv9lm51qpffVJEhtlC7.jpg" group-title="VFLIX ESTRENOS",El ministerio de la guerra sucia 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jYNOXXlDF-J6LyhEqqVvgL#.mkv
 #EXTINF:-1 tvg-id="El precio de la novia 2024" tvg-type="movie" tvg-name="El precio de la novia 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8htnhWgAdU711tksIJNo1KaoicR.jpg" group-title="VFLIX ESTRENOS",El precio de la novia 2024
@@ -11549,10 +11669,6 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jDvGln7UND
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iAeNRlsxa5oMsEtt5crmV_#.mkv
 #EXTINF:-1 tvg-id="Infiltrada en la NASA 2024" tvg-type="movie" tvg-name="Infiltrada en la NASA 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg" group-title="VFLIX ESTRENOS",Infiltrada en la NASA 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h-TZFE2inlizGCgNapZZty#.mkv
-#EXTINF:-1 tvg-id="Intensa mente 2 Inside Out 2 2024 4K" tvg-type="movie" tvg-name="Intensa mente 2 Inside Out 2 2024 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyKL6lPkMPPqZ4MngoQwzdjpH4r.jpg" group-title="VFLIX ESTRENOS",Intensa mente 2 Inside Out 2 2024 4K
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gHXyoxjgio-4dm4ja8LTD_#.mkv
-#EXTINF:-1 tvg-id="Intensa-Mente 2 Inside Out 2 FHD 2024" tvg-type="movie" tvg-name="Intensa-Mente 2 Inside Out 2 FHD 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohc1k1Jc9xviGMEVmKeonxvKrAT.jpg" group-title="VFLIX ESTRENOS",Intensa-Mente 2 Inside Out 2 FHD 2024
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h7aYzraff8iomPvziQVSRO#.mkv
 #EXTINF:-1 tvg-id="Invasion final 2024" tvg-type="movie" tvg-name="Invasion final 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72B0zYm88mujhcn3wzLFCRKD80k.jpg" group-title="VFLIX ESTRENOS",Invasion final 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jHd6u1uJQQa6-Hrhh87vB_#.mkv
 #EXTINF:-1 tvg-id="Invasive 2024" tvg-type="movie" tvg-name="Invasive 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtuxWiMjjInUEDPMgZYQxzw1rRg.jpg" group-title="VFLIX ESTRENOS",Invasive 2024
@@ -11583,8 +11699,6 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h6hHUN8_p5
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h4JD-DND5b6IL1Wfqj4Rqa#.mkv
 #EXTINF:-1 tvg-id="La gran pelicula de Baby Shark 2024" tvg-type="movie" tvg-name="La gran pelicula de Baby Shark 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg" group-title="VFLIX ESTRENOS",La gran pelicula de Baby Shark 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hcWkN3fUuJlBja0UqjEvIC#.mkv
-#EXTINF:-1 tvg-id="La herencia del tio 2024" tvg-type="movie" tvg-name="La herencia del tio 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg" group-title="VFLIX ESTRENOS",La herencia del tio 2024
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iYRMlmCMQ08VJXCGzdhSp4#.mkv
 #EXTINF:-1 tvg-id="La herencia del tio 2024" tvg-type="movie" tvg-name="La herencia del tio 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg" group-title="VFLIX ESTRENOS",La herencia del tio 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iOlzRKKEdOSblPBsHVnNnC#.mkv
 #EXTINF:-1 tvg-id="La herencia tiene un precio 2024" tvg-type="movie" tvg-name="La herencia tiene un precio 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0N9wVv0904itL2Gwdvon2AR4IU.jpg" group-title="VFLIX ESTRENOS",La herencia tiene un precio 2024
@@ -11641,6 +11755,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5huZd6d2zt2
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jZC0l3lo-oywp39gbWDVgb#.mkv
 #EXTINF:-1 tvg-id="Maharaj 2024" tvg-type="movie" tvg-name="Maharaj 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsuUGtUzrzEnlIUjVRSqFNUMZEz.jpg" group-title="VFLIX ESTRENOS",Maharaj 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gTgbT_2-ZtqKzp1Mkte7Ou#.mkv
+#EXTINF:-1 tvg-id="Mejor viuda que mal acompanada 2024" tvg-type="movie" tvg-name="Mejor viuda que mal acompanada 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur1asYaaZFrMVxkV69gQHP5Kmjo.jpg" group-title="VFLIX ESTRENOS",Mejor viuda que mal acompanada 2024
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hJvk82xDbAHq4mAKQzxrlp#.mkv
 #EXTINF:-1 tvg-id="Mi prima la sexologa 2 2024" tvg-type="movie" tvg-name="Mi prima la sexologa 2 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JbIS90ZpwRFphsk8qSzQPe96EO.jpg" group-title="VFLIX ESTRENOS",Mi prima la sexologa 2 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iNAbd_g413d8ELWdIyfy-C#.mkv
 #EXTINF:-1 tvg-id="Mi querida oni 2024" tvg-type="movie" tvg-name="Mi querida oni 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dt8zEEpE2HGO2GRVlGr3bT4wo3.jpg" group-title="VFLIX ESTRENOS",Mi querida oni 2024
@@ -11685,6 +11801,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hkz97pNFP6
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gEmh0X3_bj_ohfyFbz-idi#.mkv
 #EXTINF:-1 tvg-id="Quiero que me mantengan 2024" tvg-type="movie" tvg-name="Quiero que me mantengan 2024" tvg-logo="https://www.proimagenescolombia.com/photos/57150_9349_imagen__.jpg" group-title="VFLIX ESTRENOS",Quiero que me mantengan 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jarVpVHVInF7eGGIjDe6b1#.mkv
+#EXTINF:-1 tvg-id="Rebel Ridge 2024" tvg-type="movie" tvg-name="Rebel Ridge 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg" group-title="VFLIX ESTRENOS",Rebel Ridge 2024
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jXU7dFKW-Uz8FWfwiJI4ZW#.mkv
 #EXTINF:-1 tvg-id="Resuelto 2024" tvg-type="movie" tvg-name="Resuelto 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3aPmYOkd8GclXg8nTvKQ4w1f7L.jpg" group-title="VFLIX ESTRENOS",Resuelto 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5j7DZAYLsDlU5fWXsPeXMdf#.mkv
 #EXTINF:-1 tvg-id="Reunion 2024" tvg-type="movie" tvg-name="Reunion 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcKGtvP2TPZB6OGlHgkhQ1rvuBB.jpg" group-title="VFLIX ESTRENOS",Reunion 2024
@@ -11721,8 +11839,6 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5idY5Hw_FWI
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jLDm55xJ2bDKy9TompTlRA#.mkv
 #EXTINF:-1 tvg-id="Strangers Capitulo 1 2024" tvg-type="movie" tvg-name="Strangers Capitulo 1 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnKmLDpSpJ3CfCav43z13fkeEnr.jpg" group-title="VFLIX ESTRENOS",Strangers Capitulo 1 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h3j_Z2OjtyWLbH2b7wTv1C#.mkv
-#EXTINF:-1 tvg-id="Sulis 1907 2023" tvg-type="movie" tvg-name="Sulis 1907 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7ftoxpnpF5xl9Pg9pt6vqJZWsj.jpg" group-title="VFLIX ESTRENOS",Sulis 1907 2023
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5heFYs5UUv2NCYrLzfEaybZ#.mkv
 #EXTINF:-1 tvg-id="Superdetective en Hollywood Axel F. 2024" tvg-type="movie" tvg-name="Superdetective en Hollywood Axel F. 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmIaT03NZ58gmc0pQZkFUCqMcf1.jpg" group-title="VFLIX ESTRENOS",Superdetective en Hollywood Axel F. 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hvv1XqOlWuJ7n6SQV_8Js1#.mkv
 #EXTINF:-1 tvg-id="Tarot 2024" tvg-type="movie" tvg-name="Tarot 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg" group-title="VFLIX ESTRENOS",Tarot 2024
@@ -16243,6 +16359,8 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX49xX5TA4qG
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4LMt2zHvMHVdl2X-q-BTKC#.mkv
 #EXTINF:-1 tvg-id="The Gentlemen Los senores de la mafia 2020" tvg-name="The Gentlemen Los senores de la mafia 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/916a5VjtiAm5A1ZHCg6e25EFs7R.jpg" group-title="VFLIX SERIES RECIENTES",The Gentlemen Los senores de la mafia 2020
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jwqpsfJAj9BX2LyxAHIH4h#.mkv
+#EXTINF:-1 tvg-id="The Last Manhunt La ultima caceria HD 2022" tvg-name="The Last Manhunt La ultima caceria HD 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifnOVSIuQpL8TC0bn4mBiX0cOr9.jpg" group-title="VFLIX SERIES RECIENTES",The Last Manhunt La ultima caceria HD 2022
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5he5nEF7jDGiZ7LBSjWW1vy#.mkv
 #EXTINF:-1 tvg-id="The Last of Us S01E01" tvg-type="serie" tvg-name="The Last of Us S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg" group-title="VFLIX SERIES RECIENTES",The Last of Us S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4lYSj_Pm4PIyQWAhYihyoU#.mkv
 #EXTINF:-1 tvg-id="The Last of Us S01E02" tvg-type="serie" tvg-name="The Last of Us S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg" group-title="VFLIX SERIES RECIENTES",The Last of Us S01E02
@@ -17869,6 +17987,58 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4PWt5JkGit
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6ka1Asy14-13oYtSgsN2WD#.mkv
 #EXTINF:-1 tvg-id="DOC S02E16" tvg-name="DOC S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjJpxYqNtLASetvX1LmC7OOoTcL.jpg" group-title="SERIES/DRAMA",DOC S02E16
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5-azmb_nBgLEvMY-L3lKBZ#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E01" tvg-name="El Cesar S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pywLT1Xg7zIfV3U2nnb88IJIlqc.jpg" group-title="SERIES/DRAMA",El Cesar S01E01
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4P54SaF4mlohy5ueVVpmrv#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E02" tvg-name="El Cesar S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylDNkCi1SdZ8iHbg7MQJzvoouXF.jpg" group-title="SERIES/DRAMA",El Cesar S01E02
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6rdhjB6ghR7SxZLYxBVezS#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E03" tvg-name="El Cesar S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuTC68kKoSmPr7FtRxtsATeH5EY.jpg" group-title="SERIES/DRAMA",El Cesar S01E03
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5iMT8oGp_ooYUmZQdrxNZ7#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E04" tvg-name="El Cesar S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RmfRPFTCPdteHQhDhvKaiWYmrl.jpg" group-title="SERIES/DRAMA",El Cesar S01E04
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5E_-QElgRqihaj3VL8KmGE#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E05" tvg-name="El Cesar S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5F9otEKjXnksHePbSkZJzB0sS.jpg" group-title="SERIES/DRAMA",El Cesar S01E05
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7yHGGumyMAr42Tivpd1zFo#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E06" tvg-name="El Cesar S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIFJrHN9Dp6igTAmASw4roGcCfG.jpg" group-title="SERIES/DRAMA",El Cesar S01E06
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6qtlGU9Q1UGxLAbvjX_T0N#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E07" tvg-name="El Cesar S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S3BB9mG7xrsBle6E0O2vUqxKOu.jpg" group-title="SERIES/DRAMA",El Cesar S01E07
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5QourOzlLyDSRBkWnSJXC4#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E08" tvg-name="El Cesar S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf5YCtoo0ieOSrIXoezXydk1SNq.jpg" group-title="SERIES/DRAMA",El Cesar S01E08
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6nfAUSE2aeGfEhZ4qxA0A3#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E09" tvg-name="El Cesar S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEtndGBgieu51qGQFDXmPnFvtMX.jpg" group-title="SERIES/DRAMA",El Cesar S01E09
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7b5Avy2FzYayhLKWh_pvdJ#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E10" tvg-name="El Cesar S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI6VsXqqHB4Hfjg1oMLaW4vfUJs.jpg" group-title="SERIES/DRAMA",El Cesar S01E10
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX74Ka4V-xwtIUcIni44PX8V#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E11" tvg-name="El Cesar S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytk0I9K5zo2TnAYSw7esFqsU6NM.jpg" group-title="SERIES/DRAMA",El Cesar S01E11
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4g4kzTUtahTspUiT118IWw#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E12" tvg-name="El Cesar S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2iDdLhBlEl8JJGXN2MAwUveSmr.jpg" group-title="SERIES/DRAMA",El Cesar S01E12
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6j-V8D2M2YtEPH6bOO0Pce#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E13" tvg-name="El Cesar S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGtG2QDkjQOTv7S7MxfySudRxdi.jpg" group-title="SERIES/DRAMA",El Cesar S01E13
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7R6okQWT3zTM0Nz_UzalF4#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E14" tvg-name="El Cesar S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEUqsHRcwsvEtm3Me4YkmBzACiK.jpg" group-title="SERIES/DRAMA",El Cesar S01E14
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7yZMPVm7aT_cdy9Jkvm7B_#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E15" tvg-name="El Cesar S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf39GLwdJX8s0Di7giN7nTNieEQ.jpg" group-title="SERIES/DRAMA",El Cesar S01E15
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6S1s_dIUOiYUQbwYbE5oIY#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E16" tvg-name="El Cesar S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IhabQA3YP7BvUvJ0SdgV0xVGQm.jpg" group-title="SERIES/DRAMA",El Cesar S01E16
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6Mh-QBuyXij-djNMqax1ae#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E17" tvg-name="El Cesar S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jseOU2X7Crjk6CXYrtXfhbMchSJ.jpg" group-title="SERIES/DRAMA",El Cesar S01E17
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6jA4yGWQTfenYAMCS3Iuwj#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E18" tvg-name="El Cesar S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gBaYKocNnpFTVtlgba2vIvDW7H.jpg" group-title="SERIES/DRAMA",El Cesar S01E18
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7zRv0edMXsvzfILpgrILvY#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E19" tvg-name="El Cesar S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSwnAid77N5IzE9C3tzztuGLqQ1.jpg" group-title="SERIES/DRAMA",El Cesar S01E19
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4m6kWDMP6GL87CN_fnqjNA#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E20" tvg-name="El Cesar S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCnHDQIo4Xrc6w5KCfkKIS8L06t.jpg" group-title="SERIES/DRAMA",El Cesar S01E20
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5CoMkyyfLiag75t2PJ6cEw#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E21" tvg-name="El Cesar S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TN15FqbZF1BOZDotiebCAXwauq.jpg" group-title="SERIES/DRAMA",El Cesar S01E21
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5lnDfIZkWSOqiFXKby2s1K#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E22" tvg-name="El Cesar S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVosIkTlIMthRuDWI5KmhHD0UEv.jpg" group-title="SERIES/DRAMA",El Cesar S01E22
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6XXrbzT95s_bFM3_7nVaVf#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E23" tvg-name="El Cesar S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/au70S2lbM5mWxzhepn6lPlps195.jpg" group-title="SERIES/DRAMA",El Cesar S01E23
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6j4rXZK-OKypaer7_ckM-W#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E24" tvg-name="El Cesar S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nE96Y6brTvjvk5muBsPht2mnOnt.jpg" group-title="SERIES/DRAMA",El Cesar S01E24
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6zwd0gDlfNxun9gk1xrWEf#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E25" tvg-name="El Cesar S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kx6sj601lfn5sC6ngo68BSwvfUI.jpg" group-title="SERIES/DRAMA",El Cesar S01E25
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4G5gdBQ8XWeOizwzcwCMF_#.mkv
+#EXTINF:-1 tvg-id="El Cesar S01E26" tvg-name="El Cesar S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kx6sj601lfn5sC6ngo68BSwvfUI.jpg" group-title="SERIES/DRAMA",El Cesar S01E26
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7hQJ1wnJ8w_tzMgnI8hDdA#.mkv
 #EXTINF:-1 tvg-id="El valle olvidado S01E01" tvg-name="El valle olvidado S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB1FOLr3LSGgjFgYL50Usuy7LIQ.jpg" group-title="SERIES/DRAMA",El valle olvidado S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4uzpmPMAEcsx4bsu_TjfWQ#.mkv
 #EXTINF:-1 tvg-id="El valle olvidado S01E02" tvg-name="El valle olvidado S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ao5ti6HHUiblxfUTQovn0FmdWjz.jpg" group-title="SERIES/DRAMA",El valle olvidado S01E02
@@ -21085,6 +21255,8 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5HE7EIWmyZ
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX73C3BD20U3GXkwxU_BiQxD#.mkv
 #EXTINF:-1 tvg-id="Ciudad de Dios La lucha sigue S01E01" tvg-name="Ciudad de Dios La lucha sigue S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYEQoH2XpojU64eL84QVD8PpjT.jpg" group-title="SERIES/HBOMAX",Ciudad de Dios La lucha sigue S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4tfmixK-ps0xcsEWHkLyvR#.mkv
+#EXTINF:-1 tvg-id="Ciudad de Dios La lucha sigue S01E02" tvg-name="Ciudad de Dios La lucha sigue S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/mIx6PeZIIKRKPh43hWgGyCUukKk.jpg" group-title="SERIES/HBOMAX",Ciudad de Dios La lucha sigue S01E02
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5FvUxlaFXG96n3iB-YEXe6#.mkv
 #EXTINF:-1 tvg-id="Classical Baby S01E01" tvg-name="Classical Baby S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNbTBZgiZ3xWJDIFeGpX4RaqIbb.jpg" group-title="SERIES/HBOMAX",Classical Baby S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7nrh5KEAyxGP5-azSbNKul#.mkv
 #EXTINF:-1 tvg-id="Classical Baby S01E02" tvg-name="Classical Baby S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vu0gmEJbH34ZYESpHfxo8B5j5rx.jpg" group-title="SERIES/HBOMAX",Classical Baby S01E02
@@ -25873,30 +26045,6 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5NEvPlQAUq
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7gV0NBnjcBa1zTywWHKllS#.mkv
 #EXTINF:-1 tvg-id="ted lite S01E07" tvg-name="ted lite S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LApNVub2MDov5SlkBW9mOfd6W2.jpg" group-title="SERIES/PEACOCK",ted lite S01E07
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4KgmX6Rou_YpQriNvIGL_b#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E01" tvg-name="The Ark S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZhC1R0FcFiYWFd44xiEh3NASzo.jpg" group-title="SERIES/PEACOCK",The Ark S01E01
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX69F4VoVKX1zEWuNGTYnViO#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E02" tvg-name="The Ark S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjBFZRhRS1Y9M9SWQRTwcwmsHbq.jpg" group-title="SERIES/PEACOCK",The Ark S01E02
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5xBHAABLgb_-0S19xD5Prb#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E03" tvg-name="The Ark S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czj6aB2mIPvrsI7HVTbnXbEzluB.jpg" group-title="SERIES/PEACOCK",The Ark S01E03
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4KCBKa_wCBeTRoq3PxaGC_#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E04" tvg-name="The Ark S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yO8zwhuKvvWX7zBWo14lLxtijI1.jpg" group-title="SERIES/PEACOCK",The Ark S01E04
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6InLszQIoJi2FzDFURxmrv#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E05" tvg-name="The Ark S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayYhkame4n7oFbUz2eIcuG5lVdE.jpg" group-title="SERIES/PEACOCK",The Ark S01E05
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX59tp0LDdZ-HP1bHN1ExaWC#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E06" tvg-name="The Ark S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7eCORtgYlND2vc59RgYd30c8It.jpg" group-title="SERIES/PEACOCK",The Ark S01E06
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7nP5A4sPCNf-urwocrimyj#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E07" tvg-name="The Ark S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWxEZgFNzyn5Jjg56YDzOU4b5ul.jpg" group-title="SERIES/PEACOCK",The Ark S01E07
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4X9zt_drt-VJHuUT6xnDBS#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E08" tvg-name="The Ark S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSnCNjpTHh2ceVmSOZpO3JgtsAF.jpg" group-title="SERIES/PEACOCK",The Ark S01E08
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6jIXvGLJyumkbgdZaCERBJ#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E09" tvg-name="The Ark S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MYaAFvf7htbT9IGrmI52VlIyf.jpg" group-title="SERIES/PEACOCK",The Ark S01E09
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5lFpRrIaWTpWl5QqKC7XQm#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E10" tvg-name="The Ark S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnT9HZWzS8iysGISs4uRQDQY6h9.jpg" group-title="SERIES/PEACOCK",The Ark S01E10
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX58VXg7wyZ7YuzInQhVCFcI#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E11" tvg-name="The Ark S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7U0DMU6Y5uc6L5ZgOnr8fGvfHR.jpg" group-title="SERIES/PEACOCK",The Ark S01E11
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7BKVlk7yAJsk3oYJr4rCqk#.mkv
-#EXTINF:-1 tvg-id="The Ark S01E12" tvg-name="The Ark S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywpM6AcoKDBvTj6a8ViBpGORpSI.jpg" group-title="SERIES/PEACOCK",The Ark S01E12
-http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5VvAPFhyAqlIRIqHJmr9nz#.mkv
 #EXTINF:-1 tvg-id="Twisted Metal S01E01" tvg-name="Twisted Metal S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX5QnIbzg0N0BDAcJwdUMYISe80.jpg" group-title="SERIES/PEACOCK",Twisted Metal S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5KkbrmhCJDLjMhVzsbWqY5#.mkv
 #EXTINF:-1 tvg-id="Twisted Metal S01E02" tvg-name="Twisted Metal S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JpV4e8KT2MHxZw6hwZWCuKwpaA.jpg" group-title="SERIES/PEACOCK",Twisted Metal S01E02
@@ -26389,6 +26537,16 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6CgrAb0db_
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7oZPdLanQhTOjYD7Tq3VBk#.mkv
 #EXTINF:-1 tvg-id="Wrestlers Lucha libre, pasion y sacrificio S01E07" tvg-type="serie" tvg-name="Wrestlers Lucha libre, pasion y sacrificio S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1vgcSCGWyJAXk0knKHHzAPXjOH.jpg" group-title="VFLIX VFLIX SERIES 2023",Wrestlers Lucha libre, pasion y sacrificio S01E07
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4EGOx7OlFirYZFW4u-mOtu#.mkv
+#EXTINF:-1 tvg-id="¿Estas seguro? S01E01" tvg-type="serie" tvg-name="¿Estas seguro? S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CZdtm3qfifoFcshE4ZpoXTOyjU.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Estas seguro? S01E01
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6HYbtBZVy89F8UxWdoOwYt#.mkv
+#EXTINF:-1 tvg-id="¿Estas seguro? S01E02" tvg-type="serie" tvg-name="¿Estas seguro? S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDa2nRGWo9UJP3vpYhq2qkPjlsw.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Estas seguro? S01E02
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6uOAw-cHIWjDcf-LkkxZEW#.mkv
+#EXTINF:-1 tvg-id="¿Estas seguro? S01E03" tvg-type="serie" tvg-name="¿Estas seguro? S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AwU4dNSVUBweJ2UJIe5WFZPMv2.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Estas seguro? S01E03
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4v1QtPrLSfl0iWTB_SvAdz#.mkv
+#EXTINF:-1 tvg-id="¿Estas seguro? S01E04" tvg-type="serie" tvg-name="¿Estas seguro? S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfi0131s6CXE7htPRYjfyEdUBYS.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Estas seguro? S01E04
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX70MBBdbdqngVjzqk_WwFGh#.mkv
+#EXTINF:-1 tvg-id="¿Estas seguro? S01E05" tvg-type="serie" tvg-name="¿Estas seguro? S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfi0131s6CXE7htPRYjfyEdUBYS.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Estas seguro? S01E05
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6rMFZAxfbqGXwN78E3AQBN#.mkv
 #EXTINF:-1 tvg-id="¿Quien lo mato? S01E01" tvg-type="serie" tvg-name="¿Quien lo mato? S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm5z7g3zhg9GWK17xuEFCmIHibd.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Quien lo mato? S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6SU0idEFnFBdhDeRyqjt4p#.mkv
 #EXTINF:-1 tvg-id="¿Quien lo mato? S01E02" tvg-type="serie" tvg-name="¿Quien lo mato? S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juekrIuOvLNA9yI3Z4lSbFWiAkl.jpg" group-title="VFLIX VFLIX SERIES 2024",¿Quien lo mato? S01E02
@@ -26767,17 +26925,17 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6aE7ZMQQqZ
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4eYqTYqaTum4P2PkpVCbTt#.mkv
 #EXTINF:-1 tvg-id="Devuelveme la vida S01E60" tvg-type="serie" tvg-name="Devuelveme la vida S01E60" tvg-logo="https://image.tmdb.org/t/p/w1280/8xOEi24mCQAlRyHwSfU2up3loy4.jpg" group-title="VFLIX VFLIX SERIES 2024",Devuelveme la vida S01E60
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4Lc0CSGr_L3UMLzVHfR5Ee#.mkv
-#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E01" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L23C8eqpHE3iWDRMw9hxBzVyp7.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E01
+#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E01" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5aU83wCaqbXYRigUVjpYp9LTC9.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6ULMYfCQI-GM_7ktO7kGBT#.mkv
-#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E02" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L23C8eqpHE3iWDRMw9hxBzVyp7.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E02
+#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E02" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5aU83wCaqbXYRigUVjpYp9LTC9.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E02
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6Arxq4nYfv2Kv801pThFB-#.mkv
-#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E03" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L23C8eqpHE3iWDRMw9hxBzVyp7.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E03
+#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E03" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5aU83wCaqbXYRigUVjpYp9LTC9.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E03
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7HGPCEw0XzNm9xfvqrAP3R#.mkv
-#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E04" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L23C8eqpHE3iWDRMw9hxBzVyp7.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E04
+#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E04" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5aU83wCaqbXYRigUVjpYp9LTC9.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E04
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6DY5Jruzrp94iWN19yIe0Z#.mkv
-#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E05" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L23C8eqpHE3iWDRMw9hxBzVyp7.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E05
+#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E05" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5aU83wCaqbXYRigUVjpYp9LTC9.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E05
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6i4jjC4-VLvgboMMWOEeOJ#.mkv
-#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E06" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L23C8eqpHE3iWDRMw9hxBzVyp7.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E06
+#EXTINF:-1 tvg-id="Disney Junior Ariel, Cuentos de Sirenas S01E06" tvg-type="serie" tvg-name="Disney Junior Ariel, Cuentos de Sirenas S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5aU83wCaqbXYRigUVjpYp9LTC9.jpg" group-title="VFLIX VFLIX SERIES 2024",Disney Junior Ariel, Cuentos de Sirenas S01E06
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7UaXAWuuFcob13COSQ7k26#.mkv
 #EXTINF:-1 tvg-id="Doctor Climax S01E01" tvg-type="serie" tvg-name="Doctor Climax S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlQT845qIPa5ON2c9gTLqJRpUd9.jpg" group-title="VFLIX VFLIX SERIES 2024",Doctor Climax S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4hbap5vRsqQCbyy2AbapBm#.mkv
@@ -27093,6 +27251,38 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6vTwSB5Gj4
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4WjPuGKV0EP2fWeVhZJYpW#.mkv
 #EXTINF:-1 tvg-id="El show de Vince Staples S01E05" tvg-type="serie" tvg-name="El show de Vince Staples S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwDzocfoXgBDxiUVFS8RfnykmmJ.jpg" group-title="VFLIX VFLIX SERIES 2024",El show de Vince Staples S01E05
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7Ly5B7cWvo4H1bqkDqFj8M#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E01" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gryQdQmeJxnB1dPOrvwTXasGr5y.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E01
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6Mg4UN1vm65Zc1f9UTYerM#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E02" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHSTcwpHX45hSKqMnHBzrfzME0l.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E02
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX71wbmxVrBaiwJI8lmx2ng1#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E03" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxvE6K4l1nAOWvl64fmBlKkMstO.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E03
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5HXGO0bcwvo6-dKFJdblTZ#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E04" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlYUPCpH2lNsSJhsBtlz9xFoPFk.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E04
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX41e4279dlsWuIEgeWBJCMP#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E05" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56lcNAAUHhlh5O0nbHM8sVCf4CI.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E05
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5OE21wrBLuArcPVsStYaYo#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E06" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWy36YAmE2ln5g6gn3CAmn9JF3I.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E06
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6knO-B9GJZhoYN4tiqOAyO#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E07" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDbA8P6CXaOTm56mA6L4ntHLvAN.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E07
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5yAuXz7XlxedJzuqA1sJpZ#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E08" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccanr8hPRdKs9fNNKzXIg1QDktl.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E08
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX40Yyn0lL-aNmikdBb-FMyS#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E09" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0n6dt8Pyh8XUMp7VW5ekUMNcxX.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E09
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6pC16wbRCXp4s0IFf2H02j#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E10" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnTXGz34jieCtnLkB6ieLH9R73r.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E10
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6a0q92128fiXQ4XPa11Prj#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E11" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7BTtdRvY4SuYxuTADyGyBndbvW.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E11
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4Yj8JG6NZiJai4rAyWatjX#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E12" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksRXwT0kBnejAMH1wVinxydAOXJ.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E12
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5rnbw_Ub6-AkW7FZ5_EkTQ#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E13" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/1WDpfxUfAGvqL9bq6YYdLAovTOc.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E13
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX45MtqPXudiukhZ3_VZiCVD#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E14" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E14" tvg-logo="https://image.tmdb.org/t/p/w1280/uS1PrdxE11nyq3Gfc5BXbN4d8IM.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E14
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4tJYpx9U99Fu2_INvrYNUV#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E15" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylJOacWQX99APXtuatWl9awooK2.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E15
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5ISrsLaHf3uW45BH7i509y#.mkv
+#EXTINF:-1 tvg-id="Ella de dia, otra de noche S01E16" tvg-type="serie" tvg-name="Ella de dia, otra de noche S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28Ys7MKuvNtmGFO58f1itKJvBCH.jpg" group-title="VFLIX VFLIX SERIES 2024",Ella de dia, otra de noche S01E16
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX49T6FPyM9TKqBqnyzIsFYf#.mkv
 #EXTINF:-1 tvg-id="En tus manos S01E01" tvg-type="serie" tvg-name="En tus manos S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4U4u0RPWlhRCGoEjwP1vr84QYK.jpg" group-title="VFLIX VFLIX SERIES 2024",En tus manos S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6T70UBJoutgdqYCYL2UYNN#.mkv
 #EXTINF:-1 tvg-id="En tus manos S01E02" tvg-type="serie" tvg-name="En tus manos S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Q87LlbWhXe8uwMMmJpbtL49gQD.jpg" group-title="VFLIX VFLIX SERIES 2024",En tus manos S01E02
@@ -28729,6 +28919,22 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6poMZlOovL
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4Qnto8q09SheA3Qf6lyENG#.mkv
 #EXTINF:-1 tvg-id="Renegade Nell S01E08" tvg-type="serie" tvg-name="Renegade Nell S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWrbT3JrqD8Nylblh5BmsAg6g4T.jpg" group-title="VFLIX VFLIX SERIES 2024",Renegade Nell S01E08
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5m0BqO7vesFE0cJVYAJVOM#.mkv
+#EXTINF:-1 tvg-id="Respira S01E01" tvg-type="serie" tvg-name="Respira S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQXhEE2VaPWTIT8K0Qg2PtTja3w.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E01
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4lZBC7isLNdcwhoBOiEcVZ#.mkv
+#EXTINF:-1 tvg-id="Respira S01E02" tvg-type="serie" tvg-name="Respira S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cvc55OwatX7Zp2F5GM5crhauxB.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E02
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7JlhIM9Qn0vjy23Lmzgj51#.mkv
+#EXTINF:-1 tvg-id="Respira S01E03" tvg-type="serie" tvg-name="Respira S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGJhjqHGSycSBjplpsvV5oSyCeM.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E03
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7CvJKJs5WptSUUWZjFnNPX#.mkv
+#EXTINF:-1 tvg-id="Respira S01E04" tvg-type="serie" tvg-name="Respira S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qeEqRXMPKG4yF6MvXDYSTxjI9B.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E04
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4gj92AAhsYgWD7HSMLjIch#.mkv
+#EXTINF:-1 tvg-id="Respira S01E05" tvg-type="serie" tvg-name="Respira S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOPSQNSp0CgJh303SIqFfLHX56r.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E05
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX44gr0AWJAbwRHpbo1FEaze#.mkv
+#EXTINF:-1 tvg-id="Respira S01E06" tvg-type="serie" tvg-name="Respira S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhSTMxvGNXkuZtFk9YNrEMj2p8T.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E06
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4JbAiUk2oihVC6bh_JSiEi#.mkv
+#EXTINF:-1 tvg-id="Respira S01E07" tvg-type="serie" tvg-name="Respira S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbmPQNB3yQJMOzOY4mTaMFeqvus.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E07
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4P6s2mcGPM2z6Coh1tj7Bq#.mkv
+#EXTINF:-1 tvg-id="Respira S01E08" tvg-type="serie" tvg-name="Respira S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oz48R3EXcrYUlp61No6gCju6XN.jpg" group-title="VFLIX VFLIX SERIES 2024",Respira S01E08
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5KOtfopGAzzc9nKuxKV5ib#.mkv
 #EXTINF:-1 tvg-id="SAND LAND THE VFLIX SERIES S01E01" tvg-type="serie" tvg-name="SAND LAND THE VFLIX SERIES S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiwqyIw2yBRphSvXbUZmbwf3FV1.jpg" group-title="VFLIX VFLIX SERIES 2024",SAND LAND THE VFLIX SERIES S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5fOiYNkBU8B22RJg2auHjc#.mkv
 #EXTINF:-1 tvg-id="SAND LAND THE VFLIX SERIES S01E02" tvg-type="serie" tvg-name="SAND LAND THE VFLIX SERIES S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89oSmm3vgYZOa66WkIc0zTqXlX0.jpg" group-title="VFLIX VFLIX SERIES 2024",SAND LAND THE VFLIX SERIES S01E02
@@ -29079,6 +29285,26 @@ http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4OSOmRNXho
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5WLJJBLVfz80bVLRV9LLbw#.mkv
 #EXTINF:-1 tvg-id="Sugar S01E08" tvg-type="serie" tvg-name="Sugar S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/n3wsNYaWbG8PSZFVakibknHpuYW.jpg" group-title="VFLIX VFLIX SERIES 2024",Sugar S01E08
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7NC1oaCK7OF-F2suQSS0gM#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E01" tvg-type="serie" tvg-name="Sunny S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heZViRSkoEk6aWqzl90ILXVLjID.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E01
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7c6b42mN9ttMIuMojBcVuy#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E02" tvg-type="serie" tvg-name="Sunny S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JwA88CVp8qMOYKBiihrBYdClwI.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E02
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX4VVJhss3ad_VjetJI45sDI#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E03" tvg-type="serie" tvg-name="Sunny S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9Ebyx1RIdgtAniq1rizCjr8pIY.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E03
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5L8GpOBSlNYyGKasKWILfu#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E04" tvg-type="serie" tvg-name="Sunny S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2R5ghoyOOcgxJStVKz126wS22p1.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E04
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX62QISMCLPMWoTdYUd88fvG#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E05" tvg-type="serie" tvg-name="Sunny S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/gIIH82jcjs0y2pWYmvETVjpfHw8.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E05
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX5NeJkR6KOTYb9cdVTbSBlE#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E06" tvg-type="serie" tvg-name="Sunny S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI4GWZuXeOXYBCrKMghzLb3pRZz.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E06
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX6LQeJDeM9GAqztqW1aK4kD#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E07" tvg-type="serie" tvg-name="Sunny S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9GK9LMuuoGMbfvDz5Zrt2tjqw4.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E07
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX425LszMynMbhBRcc76Duel#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E08" tvg-type="serie" tvg-name="Sunny S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/ygp35zJIdpR0xsPNxlg6qzqIBCs.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E08
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX68tHiXkVm-gyEXTA74ym4w#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E09" tvg-type="serie" tvg-name="Sunny S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/b9QvPWfiic2JloQl1NWgexFylxg.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E09
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX7kK7w_Ho3wbwGmBhTO3P4Z#.mkv
+#EXTINF:-1 tvg-id="Sunny S01E10" tvg-type="serie" tvg-name="Sunny S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/gjlJvB7IVyJcO0HcWPUynhWZ4PI.jpg" group-title="VFLIX VFLIX SERIES 2024",Sunny S01E10
+http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX46jJaRiHnQ2lcc6Yy_pQax#.mkv
 #EXTINF:-1 tvg-id="Supersex S01E01" tvg-type="serie" tvg-name="Supersex S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ym9W8TZH6qaLws3yXrTShZ8KGvo.jpg" group-title="VFLIX VFLIX SERIES 2024",Supersex S01E01
 http://zona593.live:80/play/VQQ0oBHqQLsw3NrnRWtHJz5q9WI1h30CJBjfH7VehX490hPmS-J_8M2Kc34DQfTd#.mkv
 #EXTINF:-1 tvg-id="Supersex S01E02" tvg-type="serie" tvg-name="Supersex S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioHyruv7n4e0RXu1IJZobscm7Ek.jpg" group-title="VFLIX VFLIX SERIES 2024",Supersex S01E02
@@ -30497,10 +30723,6 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h7TZCPqrO8
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ifB-FgV04escvJgp8BBH2r#.mkv
 #EXTINF:-1 tvg-id="Rocky III 1982" tvg-type="movie" tvg-name="Rocky III 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHI45vT6yGST06JtzZ5UFcySysN.jpg" group-title="VFLIX SAGAS",Rocky III 1982
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g9z_yPwC2zNd2H8pd4Jhgw#.mkv
-#EXTINF:-1 tvg-id="Rocky IV 1985" tvg-type="movie" tvg-name="Rocky IV 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="VFLIX SAGAS",Rocky IV 1985
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jKwvDkizDkztmMT5LRulE4#.mkv
-#EXTINF:-1 tvg-id="Rocky IV 1985" tvg-type="movie" tvg-name="Rocky IV 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="VFLIX SAGAS",Rocky IV 1985
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5haUWcyF6XTzj0gIKcZzpwD#.mkv
 #EXTINF:-1 tvg-id="Rocky IV 1985" tvg-type="movie" tvg-name="Rocky IV 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="VFLIX SAGAS",Rocky IV 1985
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hVfYj3wjrasEpZTmiorYBE#.mkv
 #EXTINF:-1 tvg-id="Rocky V 1990" tvg-type="movie" tvg-name="Rocky V 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1nY37L6HC9hwlLSH5sHVzvXt1P.jpg" group-title="VFLIX SAGAS",Rocky V 1990
@@ -32629,6 +32851,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hey_pmsIac
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g-pGMJE6UeYrWL9I3g_79f#.mkv
 #EXTINF:-1 tvg-id="Rambo V Last Blood 2019" tvg-type="movie" tvg-name="Rambo V Last Blood 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" group-title="VFLIX ACCION",Rambo V Last Blood 2019
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hj2eDaPRlydOdPE0uoBOmU#.mkv
+#EXTINF:-1 tvg-id="Ransom Rescate 1996" tvg-type="movie" tvg-name="Ransom Rescate 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyN2bVnymFv9XeOd60fAYVqH1JY.jpg" group-title="VFLIX ACCION",Ransom Rescate 1996
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jOmrwRL7AtwsXLspDDBlCY#.mkv
 #EXTINF:-1 tvg-id="Rapidos y furiosos 10 Fast & Furious X 2023" tvg-type="movie" tvg-name="Rapidos y furiosos 10 Fast & Furious X 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" group-title="VFLIX ACCION",Rapidos y furiosos 10 Fast & Furious X 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h0ATZP0APLmObldF7dRod_#.mkv
 #EXTINF:-1 tvg-id="Rapidos y furiosos 2 2 Fast 2 Furious 2003" tvg-type="movie" tvg-name="Rapidos y furiosos 2 2 Fast 2 Furious 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg" group-title="VFLIX ACCION",Rapidos y furiosos 2 2 Fast 2 Furious 2003
@@ -33079,6 +33303,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h9rpArLs55
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iXrejv7pqfrl7C-4WVibPd#.mkv
 #EXTINF:-1 tvg-id="Welcome to the Jungle 2007" tvg-type="movie" tvg-name="Welcome to the Jungle 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vppaSfqiihKSRs0ky4ZLkcdVKms.jpg" group-title="VFLIX ACCION",Welcome to the Jungle 2007
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jUkLzICXv2e7-Xr5BJcT0O#.mkv
+#EXTINF:-1 tvg-id="White House Down Asalto al poder 2013" tvg-type="movie" tvg-name="White House Down Asalto al poder 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twMYX72vkQl3dzVrXE8Ja7dUqcC.jpg" group-title="VFLIX ACCION",White House Down Asalto al poder 2013
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gs5Be0LHYmPFpbwh-uzTV3#.mkv
 #EXTINF:-1 tvg-id="Wolfpack Unidad de Combate 2019" tvg-type="movie" tvg-name="Wolfpack Unidad de Combate 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trkE2XHv99p2NqtwtRlH0Gm2NU.jpg" group-title="VFLIX ACCION",Wolfpack Unidad de Combate 2019
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iTfqa8Z-AxaEJv0V3zdPuF#.mkv
 #EXTINF:-1 tvg-id="xXx 2002" tvg-type="movie" tvg-name="xXx 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGhwS8dbAfFDJBEpbsWOuwS4Ov.jpg" group-title="VFLIX ACCION",xXx 2002
@@ -34633,6 +34859,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jRit2pqINM
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gkOFt5Y1Ii6C3Q5eAy7JEW#.mkv
 #EXTINF:-1 tvg-id="La patrulla del coronel Jackson 1945" tvg-type="movie" tvg-name="La patrulla del coronel Jackson 1945" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QFO9ISeF6PJ6EL6yjrl3bmmDNP.jpg" group-title="VFLIX BELICO",La patrulla del coronel Jackson 1945
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h1FQ_N-qRwpPn7fUYT9SHY#.mkv
+#EXTINF:-1 tvg-id="La promesa de Irene 2024" tvg-type="movie" tvg-name="La promesa de Irene 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkMKRTXw9G2wEmcUKD4LNu8kZLz.jpg" group-title="VFLIX BELICO",La promesa de Irene 2024
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jchSwCZKVRQVbq6x-00egf#.mkv
 #EXTINF:-1 tvg-id="La zona de interes 2023" tvg-type="movie" tvg-name="La zona de interes 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olfQK9vJ0BIOfBuRTTdcn0RLraG.jpg" group-title="VFLIX BELICO",La zona de interes 2023
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hYAsqkbXLC5-fGpwTVYEyo#.mkv
 #EXTINF:-1 tvg-id="Lagrimas del sol 2003" tvg-type="movie" tvg-name="Lagrimas del sol 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4r3AwNkYdrDYZeM8gG9zheiW7r.jpg" group-title="VFLIX BELICO",Lagrimas del sol 2003
@@ -34681,6 +34909,10 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iyhOG_NaM7
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gSMCsEwtcBmB8qiNJTuSHu#.mkv
 #EXTINF:-1 tvg-id="Napoleon 2023 HD" tvg-type="movie" tvg-name="Napoleon 2023 HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg" group-title="VFLIX BELICO",Napoleon 2023 HD
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hDkeTNNjaBvKMUvIJkFg9f#.mkv
+#EXTINF:-1 tvg-id="Napoleon Directors Cut HD 2023" tvg-type="movie" tvg-name="Napoleon Directors Cut HD 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfkYB21eqQjdqnw20hA1nvPVMV0.jpg" group-title="VFLIX BELICO",Napoleon Directors Cut HD 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h_9e9-BMIy51yORciSJ1Qp#.mkv
+#EXTINF:-1 tvg-id="Napoleon HD 2023" tvg-type="movie" tvg-name="Napoleon HD 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCntDqS01V0rJkw4zf8GdIKM8Qm.jpg" group-title="VFLIX BELICO",Napoleon HD 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hPYRYQqnVvL3AHAjR-f3NZ#.mkv
 #EXTINF:-1 tvg-id="Overlord 2018" tvg-type="movie" tvg-name="Overlord 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGUoTarYNL1jI62X31PSAhBgxgf.jpg" group-title="VFLIX BELICO",Overlord 2018
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h3sifxsxAMzHIXzvKpK4kf#.mkv
 #EXTINF:-1 tvg-id="Patton 1970" tvg-type="movie" tvg-name="Patton 1970" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jCaXkBMi9onVxeqqN9v7kovp3u.jpg" group-title="VFLIX BELICO",Patton 1970
@@ -36643,6 +36875,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hgzkaGBXkM
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5i-LZKnEXLAxtZYgVfFZo4I#.mkv
 #EXTINF:-1 tvg-id="Twenty One Pilots Reading Festival 2019" tvg-type="movie" tvg-name="Twenty One Pilots Reading Festival 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVmBb8oHTje7oNz8ROdzeB4JZQU.jpg" group-title="VFLIX CONCIERTOS",Twenty One Pilots Reading Festival 2019
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iZppl46ZWs2t_ho0eNpqk5#.mkv
+#EXTINF:-1 tvg-id="Parcialmente nublado 2009" tvg-type="movie" tvg-name="Parcialmente nublado 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXk2a5TFp6TmqQ31DXJuOHDJnVJ.jpg" group-title="VFLIX CORTOS DISNEY",Parcialmente nublado 2009
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5j87iCx4ZF1Pvb0pO8Mq0bK#.mkv
 #EXTINF:-1 tvg-id="Pixar Short Films Collection Volume 1 2007" tvg-type="movie" tvg-name="Pixar Short Films Collection Volume 1 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAWVqkWEo1yuDH93thygycOuWx5.jpg" group-title="VFLIX CORTOS DISNEY",Pixar Short Films Collection Volume 1 2007
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5irnzq0p6qiJFEFgDCQ6CyY#.mkv
 #EXTINF:-1 tvg-id="Pixar Short Films Collection Volume 2 2012" tvg-type="movie" tvg-name="Pixar Short Films Collection Volume 2 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DkOmojZxjH4yQSdSFksGJzokxQ.jpg" group-title="VFLIX CORTOS DISNEY",Pixar Short Films Collection Volume 2 2012
@@ -36953,7 +37187,7 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jENRUtundo
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iw2IDDbTm9aCZ6hugHW7qt#.mkv
 #EXTINF:-1 tvg-id="Arkansas" tvg-type="movie" tvg-name="Arkansas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6Vuu6XZim23JT6pxnKmHh0GaL1.jpg" group-title="VFLIX DRAMA",Arkansas
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hvod0e-Y-2aAjMxYJx-kts#.mkv
-#EXTINF:-1 tvg-id="Armugan" tvg-type="movie" tvg-name="Armugan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="VFLIX DRAMA",Armugan
+#EXTINF:-1 tvg-id="Armugan" tvg-type="movie" tvg-name="Armugan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDNnaKq5FWDxDV1jk2cXVYIvknn.jpg" group-title="VFLIX DRAMA",Armugan
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g73TM2MJjjli83o0JolMWF#.mkv
 #EXTINF:-1 tvg-id="Asaltantes De Europa" tvg-type="movie" tvg-name="Asaltantes De Europa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GUawOmTOdSCSNIscteIRtXINSp.jpg" group-title="VFLIX DRAMA",Asaltantes De Europa
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5glgHURh0wavAdJJ-z9OlgA#.mkv
@@ -37673,6 +37907,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5j5stZAGXJn
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gQiyz58moa7x4-5bXNCXhM#.mkv
 #EXTINF:-1 tvg-id="J.T. LeRoy" tvg-type="movie" tvg-name="J.T. LeRoy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg" group-title="VFLIX DRAMA",J.T. LeRoy
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jnSbCGFpQN9PKZ1PEE_sFp#.mkv
+#EXTINF:-1 tvg-id="Jeanne du Barry La Favorita Del Rey HD 2023" tvg-type="movie" tvg-name="Jeanne du Barry La Favorita Del Rey HD 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdWnOlnHyKOFM91ebnEsEEUvAcX.jpg" group-title="VFLIX DRAMA",Jeanne du Barry La Favorita Del Rey HD 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jQM4_tozqCI9gLG39Vxgbm#.mkv
 #EXTINF:-1 tvg-id="Jersey Boys 2014" tvg-type="movie" tvg-name="Jersey Boys 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz956Y83YtT6vTyg0Q40mzRe2UM.jpg" group-title="VFLIX DRAMA",Jersey Boys 2014
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gzev60mt1rPjvMS9ZlBSfX#.mkv
 #EXTINF:-1 tvg-id="Joe Bell FHD 2020" tvg-type="movie" tvg-name="Joe Bell FHD 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyU2NBaiUAvPD0QOz7Any3GsXfA.jpg" group-title="VFLIX DRAMA",Joe Bell FHD 2020
@@ -37891,6 +38127,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h5BeFbI9sX
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hHWFhVlLe5TpXUF5vb6R8D#.mkv
 #EXTINF:-1 tvg-id="Lizzie Borden Took an Ax" tvg-type="movie" tvg-name="Lizzie Borden Took an Ax" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1sBm1fZUhlFW5Qe0238H1LjDwA.jpg" group-title="VFLIX DRAMA",Lizzie Borden Took an Ax
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hWsIWkYBjPWYGncGPBMRA-#.mkv
+#EXTINF:-1 tvg-id="Llegaron de noche 2022" tvg-type="movie" tvg-name="Llegaron de noche 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgIIZO9TJTeyF233Q10ZHv8uFsb.jpg" group-title="VFLIX DRAMA",Llegaron de noche 2022
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iQzEYRjNOA-x0zilFWRNFS#.mkv
 #EXTINF:-1 tvg-id="Lo mejor para ella 2014" tvg-type="movie" tvg-name="Lo mejor para ella 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NasKOsHCYYbF8p53nQIQp5K8BP.jpg" group-title="VFLIX DRAMA",Lo mejor para ella 2014
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jCe9f4txrOGfQt28wvSnLo#.mkv
 #EXTINF:-1 tvg-id="Lo que el viento se llevo" tvg-type="movie" tvg-name="Lo que el viento se llevo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QeUDCOCaIKHRPxptms8ZWBFUtb.jpg" group-title="VFLIX DRAMA",Lo que el viento se llevo
@@ -38229,10 +38467,6 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iGcqX1xPxo
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h-lPbmRGMvS0M8zzka8M1Y#.mkv
 #EXTINF:-1 tvg-id="Rocky III" tvg-type="movie" tvg-name="Rocky III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHUjlnbGoLZRBVPkRyChzp6cAOr.jpg" group-title="VFLIX DRAMA",Rocky III
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5i1onE-ViP4PqHEYsQHO4rS#.mkv
-#EXTINF:-1 tvg-id="Rocky IV 1985" tvg-type="movie" tvg-name="Rocky IV 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="VFLIX DRAMA",Rocky IV 1985
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jy-P8aCURuwdBfg676mLsf#.mkv
-#EXTINF:-1 tvg-id="Rocky IV 1985" tvg-type="movie" tvg-name="Rocky IV 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="VFLIX DRAMA",Rocky IV 1985
-http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iWlpXE_iebsImm7-yfgHYf#.mkv
 #EXTINF:-1 tvg-id="Rocky IV 1985" tvg-type="movie" tvg-name="Rocky IV 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v33qcJ5NTYIcoII9CB0A8rSU8VA.jpg" group-title="VFLIX DRAMA",Rocky IV 1985
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iDBgNWVSpVjVbXTBGpYf_9#.mkv
 #EXTINF:-1 tvg-id="Rocky V 1990" tvg-type="movie" tvg-name="Rocky V 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1nY37L6HC9hwlLSH5sHVzvXt1P.jpg" group-title="VFLIX DRAMA",Rocky V 1990
@@ -38623,6 +38857,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gn9NPyG78e
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iYrcaRmdzXl0F8pTLLWJPR#.mkv
 #EXTINF:-1 tvg-id="Vencedor" tvg-type="movie" tvg-name="Vencedor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0l8NB1bDpUdXEKYLHaTt4ahjMy.jpg" group-title="VFLIX DRAMA",Vencedor
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jOtxtEjT4bOTX6g5kdFMnI#.mkv
+#EXTINF:-1 tvg-id="Vicky Cristina Barcelona 2008" tvg-type="movie" tvg-name="Vicky Cristina Barcelona 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjdUhi3Q8BHFFmFLvVtjInUYdBM.jpg" group-title="VFLIX DRAMA",Vicky Cristina Barcelona 2008
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iZh5oZILZmuG6670XpUUF4#.mkv
 #EXTINF:-1 tvg-id="Victoria Gotti La Hija de la Mafia" tvg-type="movie" tvg-name="Victoria Gotti La Hija de la Mafia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRw6Y2acWc3D1YpUMtFnqnupnEn.jpg" group-title="VFLIX DRAMA",Victoria Gotti La Hija de la Mafia
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iYos_bhretBJj6xhnPooVM#.mkv
 #EXTINF:-1 tvg-id="Vida privada 2018" tvg-type="movie" tvg-name="Vida privada 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljym9jQlw1HypwZxlfsjuWcjQV8.jpg" group-title="VFLIX DRAMA",Vida privada 2018
@@ -38721,6 +38957,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ggjpnS3QvC
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g9s8XEGy8q6DBGMUrHryZd#.mkv
 #EXTINF:-1 tvg-id="Aquamarine 2006" tvg-type="movie" tvg-name="Aquamarine 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2Hvucs1Q1nir3pyIXuIwo66uFV.jpg" group-title="VFLIX FAMILIARES",Aquamarine 2006
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hwJgXpuw3aVOmW2zLcUx9n#.mkv
+#EXTINF:-1 tvg-id="Aventura en Las Bahamas - Vacaiones en el Sol 2001" tvg-type="movie" tvg-name="Aventura en Las Bahamas - Vacaiones en el Sol 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCQU6mobP1wrhDjVvYqf33bvfjS.jpg" group-title="VFLIX FAMILIARES",Aventura en Las Bahamas - Vacaiones en el Sol 2001
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gqlzBieIff3pKmVc2kHtpl#.mkv
 #EXTINF:-1 tvg-id="Babe 2 El cerdito en la ciudad 1998" tvg-type="movie" tvg-name="Babe 2 El cerdito en la ciudad 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAajjfi6QxJubrIVD9lNV6KU3oV.jpg" group-title="VFLIX FAMILIARES",Babe 2 El cerdito en la ciudad 1998
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jC9Mfcnq2Htd32loYYFhsu#.mkv
 #EXTINF:-1 tvg-id="Babe 2 El Cerdito en la Ciudad 1998" tvg-type="movie" tvg-name="Babe 2 El Cerdito en la Ciudad 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAajjfi6QxJubrIVD9lNV6KU3oV.jpg" group-title="VFLIX FAMILIARES",Babe 2 El Cerdito en la Ciudad 1998
@@ -38819,6 +39057,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5if2IoEOSda
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gTKteq6DrXomV6kL1JAhr4#.mkv
 #EXTINF:-1 tvg-id="El coraje de Lassie 1946" tvg-type="movie" tvg-name="El coraje de Lassie 1946" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea03yZPZpLiAbyXCBhS0J1tgA5B.jpg" group-title="VFLIX FAMILIARES",El coraje de Lassie 1946
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jXmODUiiyQE7yTeUqI0jAG#.mkv
+#EXTINF:-1 tvg-id="El desafio 2003" tvg-type="movie" tvg-name="El desafio 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sP112Pone02dK9UgcLVpYumzRa.jpg" group-title="VFLIX FAMILIARES",El desafio 2003
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ghYWQGa7n4m_jya4a5G85k#.mkv
 #EXTINF:-1 tvg-id="El dia del Si 2021" tvg-type="movie" tvg-name="El dia del Si 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSupXsU5tTga9WYxbULEamu6ZW.jpg" group-title="VFLIX FAMILIARES",El dia del Si 2021
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jXyfALKeDW578ANahLaIwC#.mkv
 #EXTINF:-1 tvg-id="El diario de Greg 2010" tvg-type="movie" tvg-name="El diario de Greg 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za0ZCRRU0aDv6p4OZqQQ5KQP4bb.jpg" group-title="VFLIX FAMILIARES",El diario de Greg 2010
@@ -40109,6 +40349,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jJYX4bs__m
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5h6bHFF8kwGoeLhxWQzcuWg#.mkv
 #EXTINF:-1 tvg-id="Simbad La gran batalla 1998" tvg-type="movie" tvg-name="Simbad La gran batalla 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xSkn8eCNguflqNfeEk8iSRZMEO.jpg" group-title="VFLIX FANTASIA",Simbad La gran batalla 1998
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5i8_M0sNWtf-4OSbzifXyGK#.mkv
+#EXTINF:-1 tvg-id="Skinford Death Sentence 2017" tvg-type="movie" tvg-name="Skinford Death Sentence 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65k57d1ywa3ChttmwQ4C2cmyLyJ.jpg" group-title="VFLIX FANTASIA",Skinford Death Sentence 2017
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hXzk4fG0eGPfLCIT2XSM97#.mkv
 #EXTINF:-1 tvg-id="Skyline 2010" tvg-type="movie" tvg-name="Skyline 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHjODlF02JRO8ZUUl2c22hvpoAQ.jpg" group-title="VFLIX FANTASIA",Skyline 2010
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g2XvrUd7Tt1vx2ab5T9HN2#.mkv
 #EXTINF:-1 tvg-id="Sleeping Beauty 1987" tvg-type="movie" tvg-name="Sleeping Beauty 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaIJMVA8RffAHQif4CruOUcmC4q.jpg" group-title="VFLIX FANTASIA",Sleeping Beauty 1987
@@ -41765,6 +42007,10 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iPaMlxlnuS
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ju6Gp79pu6idCjHqOydxOQ#.mkv
 #EXTINF:-1 tvg-id="Patrulla de aterrizaje 2009" tvg-type="movie" tvg-name="Patrulla de aterrizaje 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz6GNwvv4NUvY6q1fXwAvT6RgZa.jpg" group-title="VFLIX INFANTILES",Patrulla de aterrizaje 2009
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5i2DWz9ea_eOMNEf4abyoa7#.mkv
+#EXTINF:-1 tvg-id="PAW Patrol - La Patrulla Canina La pelicula 2021" tvg-type="movie" tvg-name="PAW Patrol - La Patrulla Canina La pelicula 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg" group-title="VFLIX INFANTILES",PAW Patrol - La Patrulla Canina La pelicula 2021
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gh8abSCx2HuDYPS-ZAiPF3#.mkv
+#EXTINF:-1 tvg-id="PAW Patrol - La Patrulla Canina La superpelicula 2023" tvg-type="movie" tvg-name="PAW Patrol - La Patrulla Canina La superpelicula 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74UljzdgFuYo0BqzuEO2s2azObe.jpg" group-title="VFLIX INFANTILES",PAW Patrol - La Patrulla Canina La superpelicula 2023
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5guBJdkqBuby_hZb0H9RtcH#.mkv
 #EXTINF:-1 tvg-id="Pedro y el dragon Elliot 1977" tvg-type="movie" tvg-name="Pedro y el dragon Elliot 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnLvLfgLVaAM7Zy21MobR3giKJi.jpg" group-title="VFLIX INFANTILES",Pedro y el dragon Elliot 1977
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gzRaj1PlN4o3vykNAPjIDN#.mkv
 #EXTINF:-1 tvg-id="Pequeno Vampiro 2020" tvg-type="movie" tvg-name="Pequeno Vampiro 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqWgFtF9rYvljPo3iPgISjSVOmb.jpg" group-title="VFLIX INFANTILES",Pequeno Vampiro 2020
@@ -42889,6 +43135,8 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g_2frTh3fS
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5ihvGf6KjUNpThxl5366OSa#.mkv
 #EXTINF:-1 tvg-id="Teen Bride Miseinen Dakedo Kodomo Janai V.O.S.E. 2017" tvg-type="movie" tvg-name="Teen Bride Miseinen Dakedo Kodomo Janai V.O.S.E. 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVASaDBkewZHTAtFspSPLbdkTrL.jpg" group-title="VFLIX SUBTITULADA VOSE",Teen Bride Miseinen Dakedo Kodomo Janai V.O.S.E. 2017
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jFQW06BbDEvwCUcow3bvik#.mkv
+#EXTINF:-1 tvg-id="The Clique Club de amigas 2008" tvg-type="movie" tvg-name="The Clique Club de amigas 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg" group-title="VFLIX SUBTITULADA VOSE",The Clique Club de amigas 2008
+http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iPR6aMVndLlAlLnWMSKAtg#.mkv
 #EXTINF:-1 tvg-id="This Is Me…Now Una historia de amor V.O.S.E. 2024" tvg-type="movie" tvg-name="This Is Me…Now Una historia de amor V.O.S.E. 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxx0krg13e0k2c2RLoOvxJCEQQy.jpg" group-title="VFLIX SUBTITULADA VOSE",This Is Me…Now Una historia de amor V.O.S.E. 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5g55jZhXA6zltADH2eQaNL6#.mkv
 #EXTINF:-1 tvg-id="Tokyo Revengers 2021" tvg-type="movie" tvg-name="Tokyo Revengers 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8Q2VBt3rP0cSG3hNerIQuogLAH.jpg" group-title="VFLIX SUBTITULADA VOSE",Tokyo Revengers 2021
@@ -43983,22 +44231,6 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTRcYdS4k5P
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSWt4Cb_ldQE-B_hPmGTL0F/ts
 #EXTINF:-1 tvg-id="VIX PLUS 9 PLUS Funciona en evento" tvg-name="VIX PLUS 9 PLUS Funciona en evento" PLUS group-title="| VIX PLUS SOLO DISPONIBLE EN EVENTOS",VIX PLUS 9 PLUS Funciona en evento
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRObvdcYxAo7Ak7_5GLIxp5/ts
-#EXTINF:-1 tvg-id="28/08 • 11:45 • Qarabağ vs Dinamo Zagreb • 01" tvg-name="28/08 • 11:45 • Qarabağ vs Dinamo Zagreb • 01" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 11:45 • Qarabağ vs Dinamo Zagreb • 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQFwSbBP4W-QYPPrJ3lrQl-/ts
-#EXTINF:-1 tvg-id="28/08 • 11:45 • Qarabağ vs Dinamo Zagreb • 02" tvg-name="28/08 • 11:45 • Qarabağ vs Dinamo Zagreb • 02" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 11:45 • Qarabağ vs Dinamo Zagreb • 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSl79pZ0jDphVyi1iQbBHoB/ts
-#EXTINF:-1 tvg-id="28/08 • 14:00 • Estrella Roja vs Bodo Glimt PLUS • 01" tvg-name="28/08 • 14:00 • Estrella Roja vs Bodo Glimt PLUS • 01" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 14:00 • Estrella Roja vs Bodo Glimt PLUS • 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRaY9shhl23GaDBjfETidbn/ts
-#EXTINF:-1 tvg-id="28/08 • 14:00 • Estrella Roja vs Bodo Glimt PLUS • 02" tvg-name="28/08 • 14:00 • Estrella Roja vs Bodo Glimt PLUS • 02" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 14:00 • Estrella Roja vs Bodo Glimt PLUS • 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQagYuO2KJowWy006KV_GvQ/ts
-#EXTINF:-1 tvg-id="28/08 • 14:00 • Slavia Prada vs LOSC • 01" tvg-name="28/08 • 14:00 • Slavia Prada vs LOSC • 01" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 14:00 • Slavia Prada vs LOSC • 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRsceZazLGxpPLf4sfPFaqO/ts
-#EXTINF:-1 tvg-id="28/08 • 14:00 • Slavia Prada vs LOSC • 02" tvg-name="28/08 • 14:00 • Slavia Prada vs LOSC • 02" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 14:00 • Slavia Prada vs LOSC • 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTblhMqAD4FjeAjWcoCt-Mo/ts
-#EXTINF:-1 tvg-id="28/08 • 14:00 • Slovan Bratislava vs Midtjylland • 01" tvg-name="28/08 • 14:00 • Slovan Bratislava vs Midtjylland • 01" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 14:00 • Slovan Bratislava vs Midtjylland • 01
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRXtkuu679l4pKln8dbmy7S/ts
-#EXTINF:-1 tvg-id="28/08 • 14:00 • Slovan Bratislava vs Midtjylland • 02" tvg-name="28/08 • 14:00 • Slovan Bratislava vs Midtjylland • 02" PLUS group-title="CHAMPIONS LEAGUE",28/08 • 14:00 • Slovan Bratislava vs Midtjylland • 02
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQs4X1-3_ixFm97nghgMjZj/ts
 #EXTINF:-1 tvg-id=" Handguns PLUS 5 American Kids5" tvg-name=" Handguns PLUS 5 American Kids5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0f2Rtv4L2r46I4AKxL60InRn5w.jpg" group-title="CINE HBO", Handguns PLUS 5 American Kids5
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5hXZGJHtXFmVGAWwJSRF6bu#.mkv
 #EXTINF:-1 tvg-id="¿Que le paso a Lunes?" tvg-name="¿Que le paso a Lunes?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aamOwDO97wf564a5sPJ5nxQpaiw.jpg" group-title="CINE HBO",¿Que le paso a Lunes?
@@ -45469,38 +45701,38 @@ http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5jHpGrCRNpN
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5gL4xcMJZ7A8FMI4jp0tPVk
 #EXTINF:-1 tvg-id="Liga de la Justicia Crisis en Tierras Infinitas, parte 2 2024" tvg-name="Liga de la Justicia Crisis en Tierras Infinitas, parte 2 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg" group-title="DC UNIVERSO ANIMADO",Liga de la Justicia Crisis en Tierras Infinitas, parte 2 2024
 http://zona593.live:80/play/3VZuatauB6ifjE95nnIAO1XM8yrmMbHbF1YuOSzDB5iYALV1lecUPRKYCiuomn1I
-#EXTINF:-1 tvg-id="05/09 • 15:00 Bolivia vs Venezuela 1" tvg-name="05/09 • 15:00 Bolivia vs Venezuela 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",05/09 • 15:00 Bolivia vs Venezuela 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRBncjSbLgkL7rmJLRw9DU7/ts
-#EXTINF:-1 tvg-id="05/09 • 15:00 Bolivia vs Venezuela 1" tvg-name="05/09 • 15:00 Bolivia vs Venezuela 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",05/09 • 15:00 Bolivia vs Venezuela 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRz6ei1-LWsvs2rUtcICxv0/ts
-#EXTINF:-1 tvg-id="05/09 • 15:00 Bolivia vs Venezuela 2" tvg-name="05/09 • 15:00 Bolivia vs Venezuela 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",05/09 • 15:00 Bolivia vs Venezuela 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRa641AFno0gP4mnC28DTs7/ts
-#EXTINF:-1 tvg-id="05/09 • 15:00 Bolivia vs Venezuela 2" tvg-name="05/09 • 15:00 Bolivia vs Venezuela 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",05/09 • 15:00 Bolivia vs Venezuela 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ-wsV6VS96Pn3Onrop5yp_/ts
-#EXTINF:-1 tvg-id="06/09 • 18:30 Uruguay vs Paraguay 1" tvg-name="06/09 • 18:30 Uruguay vs Paraguay 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 18:30 Uruguay vs Paraguay 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSwPGtw1NraIlB4MUCkXQH9/ts
-#EXTINF:-1 tvg-id="06/09 • 18:30 Uruguay vs Paraguay PLUS 1" tvg-name="06/09 • 18:30 Uruguay vs Paraguay PLUS 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 18:30 Uruguay vs Paraguay PLUS 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSU8fJ-PthD0_ySafU03fUH/ts
-#EXTINF:-1 tvg-id="06/09 • 18:30 Uruguay vs Paraguay PLUS 2" tvg-name="06/09 • 18:30 Uruguay vs Paraguay PLUS 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 18:30 Uruguay vs Paraguay PLUS 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQH-yofj2bG1VDUc1nkk94H/ts
-#EXTINF:-1 tvg-id="06/09 • 18:30 Uruguay vs Paraguay PLUS 2" tvg-name="06/09 • 18:30 Uruguay vs Paraguay PLUS 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 18:30 Uruguay vs Paraguay PLUS 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR4iy58370Z9x7i8_53k2zO/ts
-#EXTINF:-1 tvg-id="06/09 • 19:00 Argentina vs Chile 1" tvg-name="06/09 • 19:00 Argentina vs Chile 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:00 Argentina vs Chile 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTDBVcVRra7O-pU64tZn4gp/ts
-#EXTINF:-1 tvg-id="06/09 • 19:00 Argentina vs Chile 1" tvg-name="06/09 • 19:00 Argentina vs Chile 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:00 Argentina vs Chile 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQU0asd15NC4y89ExEfTskA/ts
-#EXTINF:-1 tvg-id="06/09 • 19:00 Argentina vs Chile 2" tvg-name="06/09 • 19:00 Argentina vs Chile 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:00 Argentina vs Chile 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTNLs-VaOHnQq4we3e09SUC/ts
-#EXTINF:-1 tvg-id="06/09 • 19:00 Argentina vs Chile 2" tvg-name="06/09 • 19:00 Argentina vs Chile 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:00 Argentina vs Chile 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQdtICLqkdizLrbloKA0J6h/ts
-#EXTINF:-1 tvg-id="06/09 • 19:45 Brasil vs Ecuador 1" tvg-name="06/09 • 19:45 Brasil vs Ecuador 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:45 Brasil vs Ecuador 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQx_vJl7W_A0JktcBwVpT-x/ts
-#EXTINF:-1 tvg-id="06/09 • 19:45 Brasil vs Ecuador 1" tvg-name="06/09 • 19:45 Brasil vs Ecuador 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:45 Brasil vs Ecuador 1
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSWoamq-1jT-f0eaKahY6Fw/ts
-#EXTINF:-1 tvg-id="06/09 • 19:45 Brasil vs Ecuador 2" tvg-name="06/09 • 19:45 Brasil vs Ecuador 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:45 Brasil vs Ecuador 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSdlOEoVexWSa6bkdm0a0kc/ts
-#EXTINF:-1 tvg-id="06/09 • 19:45 Brasil vs Ecuador 2" tvg-name="06/09 • 19:45 Brasil vs Ecuador 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",06/09 • 19:45 Brasil vs Ecuador 2
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQPWul_E9j7U8S-60ca05zU/ts
+#EXTINF:-1 tvg-id="10/09 • 10/09 • 16:00 Ecuador vs Peru 1" tvg-name="10/09 • 10/09 • 16:00 Ecuador vs Peru 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 10/09 • 16:00 Ecuador vs Peru 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQEBUeuLTMJ1Ng8nBeWC1U6/ts
+#EXTINF:-1 tvg-id="10/09 • 10/09 • 16:00 Ecuador vs Peru PLUS 2" tvg-name="10/09 • 10/09 • 16:00 Ecuador vs Peru PLUS 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 10/09 • 16:00 Ecuador vs Peru PLUS 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQEi9S2AV-icyWj03aQYgeC/ts
+#EXTINF:-1 tvg-id="10/09 • 16:00 Chile vs Bolivia 1" tvg-name="10/09 • 16:00 Chile vs Bolivia 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 16:00 Chile vs Bolivia 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ3ZI2POSXagj16KwnHdod0/ts
+#EXTINF:-1 tvg-id="10/09 • 16:00 Chile vs Bolivia 1" tvg-name="10/09 • 16:00 Chile vs Bolivia 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 16:00 Chile vs Bolivia 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSb6i0l560swix5fsgQs_ln/ts
+#EXTINF:-1 tvg-id="10/09 • 16:00 Chile vs Bolivia 2" tvg-name="10/09 • 16:00 Chile vs Bolivia 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 16:00 Chile vs Bolivia 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSA7ot-Sws0tX654X4P5ozR/ts
+#EXTINF:-1 tvg-id="10/09 • 16:00 Chile vs Bolivia 2" tvg-name="10/09 • 16:00 Chile vs Bolivia 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 16:00 Chile vs Bolivia 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQC4Kooar63OAIEZRb9trPs/ts
+#EXTINF:-1 tvg-id="10/09 • 16:00 Ecuador vs Peru 1" tvg-name="10/09 • 16:00 Ecuador vs Peru 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 16:00 Ecuador vs Peru 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTQ5qUumuKmDpQ5CkZK0-mE/ts
+#EXTINF:-1 tvg-id="10/09 • 16:00 Ecuador vs Peru 2 /////" tvg-name="10/09 • 16:00 Ecuador vs Peru 2 /////" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 16:00 Ecuador vs Peru 2 /////
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRFlMrvyubfA9nh-_pgWkE7/ts
+#EXTINF:-1 tvg-id="10/09 • 17:00 Venezuela vs Uruguay 1" tvg-name="10/09 • 17:00 Venezuela vs Uruguay 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 17:00 Venezuela vs Uruguay 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQYiL3fGbQASuDNlnCjU9r0/ts
+#EXTINF:-1 tvg-id="10/09 • 17:00 Venezuela vs Uruguay 1" tvg-name="10/09 • 17:00 Venezuela vs Uruguay 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 17:00 Venezuela vs Uruguay 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR-kY-HDhuJYZEVGU9SsrD3/ts
+#EXTINF:-1 tvg-id="10/09 • 17:00 Venezuela vs Uruguay 2" tvg-name="10/09 • 17:00 Venezuela vs Uruguay 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 17:00 Venezuela vs Uruguay 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRZOF3wkZEI1D-NMKaTiKGW/ts
+#EXTINF:-1 tvg-id="10/09 • 17:00 Venezuela vs Uruguay 2" tvg-name="10/09 • 17:00 Venezuela vs Uruguay 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 17:00 Venezuela vs Uruguay 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ-z7d4a7NVmIcfRQjkfGSK/ts
+#EXTINF:-1 tvg-id="10/09 • 19:30 Paraguay vs Brasil 1" tvg-name="10/09 • 19:30 Paraguay vs Brasil 1" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 19:30 Paraguay vs Brasil 1
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRgYLszoV9jS_aGhxQu8xSD/ts
+#EXTINF:-1 tvg-id="10/09 • 19:30 Paraguay vs Brasil 2" tvg-name="10/09 • 19:30 Paraguay vs Brasil 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 19:30 Paraguay vs Brasil 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTd5NZgi4-a8VhuJaFOLNeN/ts
+#EXTINF:-1 tvg-id="10/09 • 19:30 Paraguay vs Brasil 2" tvg-name="10/09 • 19:30 Paraguay vs Brasil 2" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 19:30 Paraguay vs Brasil 2
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRzNIal1sIsIYnzTHgNd5Oi/ts
+#EXTINF:-1 tvg-id="10/09 • 19:30 Paraguay vs Brasil PLUS 1 /////" tvg-name="10/09 • 19:30 Paraguay vs Brasil PLUS 1 /////" PLUS group-title="ELIMINATORIAS SUDAMERICANAS",10/09 • 19:30 Paraguay vs Brasil PLUS 1 /////
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFScepFHHsC9H3ryd6MP-2xb/ts
 #EXTINF:-1 tvg-id="CINE ACTIONMAX" tvg-name="CINE ACTIONMAX" PLUS group-title="ENTRETENIMIENTO",CINE ACTIONMAX
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTIVtb-tv3yuHu8P1XmytKh/ts
 #EXTINF:-1 tvg-id="CINE CINEMAX 2" tvg-name="CINE CINEMAX 2" PLUS group-title="ENTRETENIMIENTO",CINE CINEMAX 2
@@ -45549,8 +45781,6 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTgSRV3yaZB
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFR29bhOTZGnnBhRQXaUVRqs/ts
 #EXTINF:-1 tvg-id="E| USA Network" tvg-name="E| USA Network" PLUS group-title="ENTRETENIMIENTO",E| USA Network
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSc0GFUd4jUoKzx4EGfRXHE/ts
-#EXTINF:-1 tvg-id="P Multipremier" tvg-name="P Multipremier" PLUS group-title="ENTRETENIMIENTO",P Multipremier
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ46jC2b4uJUd8BuhrIqDVu/ts
 #EXTINF:-1 tvg-id="PRE AMAZON PRIME VIDEO" tvg-name="PRE AMAZON PRIME VIDEO" PLUS group-title="ENTRETENIMIENTO",PRE AMAZON PRIME VIDEO
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSs7Ad9SyR_ygnTLxyQQMwP/ts
 #EXTINF:-1 tvg-id="PRE NBC UNIVERSO" tvg-name="PRE NBC UNIVERSO" PLUS group-title="ENTRETENIMIENTO",PRE NBC UNIVERSO
@@ -45565,7 +45795,7 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT44bP85CK_
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTSxlSNCWsrZbaaSJtdWB7a/ts
 #EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" PLUS group-title="ENTRETENIMIENTO",AXN FHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRpFTeYFy1oRVYnLzt69snX/ts
-#EXTINF:-1 tvg-id="AXN HD -" tvg-name="AXN HD -" PLUS group-title="ENTRETENIMIENTO",AXN HD -
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" PLUS group-title="ENTRETENIMIENTO",AXN HD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSMw70N7TMPmFJyFnLx1Dsl/ts
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO" PLUS group-title="ENTRETENIMIENTO",CINE LATINO
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTIaBBZ76slqSLHDsWwddJY/ts
@@ -45613,6 +45843,8 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRgRHMz33D5
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRo5Q75C3gVL88ZvbVyHNs5/ts
 #EXTINF:-1 tvg-id="MORBIDOHD" tvg-name="MORBIDOHD" PLUS group-title="ENTRETENIMIENTO",MORBIDOHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQzw-FZ1H60AZvZQVtPUfH2/ts
+#EXTINF:-1 tvg-id="Multipremier" tvg-name="Multipremier" PLUS group-title="ENTRETENIMIENTO",Multipremier
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ46jC2b4uJUd8BuhrIqDVu/ts
 #EXTINF:-1 tvg-id="PANICO" tvg-name="PANICO" PLUS group-title="ENTRETENIMIENTO",PANICO
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQVDP-DEnXggnvjs-59YUOf/ts
 #EXTINF:-1 tvg-id="PARAMOUNT HD -" tvg-name="PARAMOUNT HD -" PLUS group-title="ENTRETENIMIENTO",PARAMOUNT HD -
@@ -45623,7 +45855,7 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQzOleNA0v6
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT-o1CvvSktvWIT-rx2s9OX/ts
 #EXTINF:-1 tvg-id="SPACE PLUS -" tvg-name="SPACE PLUS -" PLUS group-title="ENTRETENIMIENTO",SPACE PLUS -
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRWhjd7oqC8A6wquaPJzLie/ts
-#EXTINF:-1 tvg-id="STAR CHANNEL HD -" tvg-name="STAR CHANNEL HD -" PLUS group-title="ENTRETENIMIENTO",STAR CHANNEL HD -
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="STAR CHANNEL HD" PLUS group-title="ENTRETENIMIENTO",STAR CHANNEL HD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSYYPeP6702UZ_5hbdUDryC/ts
 #EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="STAR CHANNEL HD" PLUS group-title="ENTRETENIMIENTO",STAR CHANNEL HD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTe59uQo1CgrUwE0AZev4iJ/ts
@@ -45637,10 +45869,10 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQXM66mXvTO
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ6GzcoKEfeNzTXYCxLA8YD/ts
 #EXTINF:-1 tvg-id="TCM HQ" tvg-name="TCM HQ" PLUS group-title="ENTRETENIMIENTO",TCM HQ
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSpKh3bn0kRtok_f8W_4x7R/ts
-#EXTINF:-1 tvg-id="TNT HD -" tvg-name="TNT HD -" PLUS group-title="ENTRETENIMIENTO",TNT HD -
-http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ6_Oq17sT_r2AhKk_JzEyx/ts
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" PLUS group-title="ENTRETENIMIENTO",TNT HD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSI4WIj1hm1j97dZMBwxhjz/ts
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" PLUS group-title="ENTRETENIMIENTO",TNT HD
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ6_Oq17sT_r2AhKk_JzEyx/ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL FHD" tvg-name="WARNER CHANNEL FHD" PLUS group-title="ENTRETENIMIENTO",WARNER CHANNEL FHD
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFSxyT-8aPwAfABlXVFVzKOh/ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" PLUS group-title="ENTRETENIMIENTO",WARNER CHANNEL HD
@@ -45771,6 +46003,20 @@ http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQ4NnoO5jzL
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRKrXJOo5OcSrpmaI8TXDNI/ts
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" PLUS group-title="ENTRETENIMIENTO",UNIVERSAL REALITY
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTDTDWKHbtNpfAx-UkZu0fm/ts
+#EXTINF:-1 tvg-id="08/09 • 11:00 Bulgaria vs Irlanda del Norte" tvg-name="08/09 • 11:00 Bulgaria vs Irlanda del Norte" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 11:00 Bulgaria vs Irlanda del Norte
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTctCPR-RwjFT9Gsrt138Yx/ts
+#EXTINF:-1 tvg-id="08/09 • 11:00 Dinamarca vs Serbia" tvg-name="08/09 • 11:00 Dinamarca vs Serbia" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 11:00 Dinamarca vs Serbia
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTdCS9azApP5D7sJKAuYsuW/ts
+#EXTINF:-1 tvg-id="08/09 • 11:00 Eslovaquia vs Azerbaiyan" tvg-name="08/09 • 11:00 Eslovaquia vs Azerbaiyan" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 11:00 Eslovaquia vs Azerbaiyan
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQENUf3BNSVLYCt8cy9niau/ts
+#EXTINF:-1 tvg-id="08/09 • 11:00 Gibraltar vs Liechtenstein" tvg-name="08/09 • 11:00 Gibraltar vs Liechtenstein" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 11:00 Gibraltar vs Liechtenstein
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFTG13O8YJAYc98cvuYawk8L/ts
+#EXTINF:-1 tvg-id="08/09 • 13:45 Croacia vs Polonia" tvg-name="08/09 • 13:45 Croacia vs Polonia" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 13:45 Croacia vs Polonia
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT-fjL5u51eTcXKHNdikBju/ts
+#EXTINF:-1 tvg-id="08/09 • 13:45 Suiza vs Espana" tvg-name="08/09 • 13:45 Suiza vs Espana" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 13:45 Suiza vs Espana
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFRst9zr9ymqBRRAoDR5oyuj/ts
+#EXTINF:-1 tvg-id="08/09 • 8:00 Luxemburgo vs Bielorrusia" tvg-name="08/09 • 8:00 Luxemburgo vs Bielorrusia" PLUS group-title="UEFA NATIONS LEAGUE",08/09 • 8:00 Luxemburgo vs Bielorrusia
+http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFQvahTpFPIPbb4gfHrzkGgp/ts
 #EXTINF:-1 tvg-id="ATREVFLIX SERIES -" tvg-name="ATREVFLIX SERIES -" PLUS group-title="ENTRETENIMIENTO",ATREVFLIX SERIES -
 http://zona593.live:80/play/c4N__XJWpPWk95w7upnHdh1h7jkhFCBUfHRIkicjJFT5zyLwmwwD7zbX2_nYIDjv/ts
 #EXTINF:-1 tvg-id="ATREVFLIX SERIES HQ" tvg-name="ATREVFLIX SERIES HQ" PLUS group-title="ENTRETENIMIENTO",ATREVFLIX SERIES HQ
